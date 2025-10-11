@@ -84,3 +84,14 @@ class CompressedTrie:
 
         for child in node.children:
             self.print_trie(child, level + 2)
+    
+    def serialize(self):
+        words = []
+        def _serialize(node, current_prefix):
+            if(node.is_end_of_word):
+                words.append(current_prefix + node.prefix)
+            for child in node.children:
+                _serialize(child, current_prefix + node.prefix)
+        
+        _serialize(self.root, '')
+        return '\n'.join(words)

@@ -36,17 +36,17 @@ def search_in_reversed_index(expression):
                         base_file_path = os.path.join('noticias', category, base_file_name)
                         list_of_results.append(base_file_path)
                 except Exception as e:
-                    print(f"[ERROR]: Error evaluating expression in file {filename}: {e}")
+                    print(f"[ERROR]: Error evaluating expression ({parsed_expression}) in file {filename}: {e}")
                     continue
                 finally:
                     del trie
 
     if len(list_of_results) > 0:
-        return build_response_object(list_of_results)
+        return build_response_object(list_of_results, expression)
     else:
         return [{"title": "No results found", "snippet": ""}]
 
-def build_response_object(result):
+def build_response_object(result, searched_words):
     def extract_title_from_file(file_path):
         try:
             with open(file_path, 'r', encoding='utf-8') as file:
@@ -56,21 +56,61 @@ def build_response_object(result):
             print(f"[ERROR]: Could not read file {file_path} to extract title: {e}")
             return "Title not found"
     
-    def extract_snippet_from_file(file_path):
-        return "Snippet not implemented yet."
+    def extract_snippet_from_file(file_path, searched_words):
+        try:
+            with open(file_path, 'r', encoding='utf-8') as file:
+                content = file.read()
+                # Remove and and or from searched_words
+                searched_words = re.sub(r'\b(AND|OR)\b', '', searched_words, flags=re.IGNORECASE).strip()
+                # Find the first occurrence of any of the searched words
+                pattern = re.compile(r'\b(' + '|'.join(re.escape(word) for word in re.findall(r'\b[a-zA-Z]+\b', searched_words)) + r')\b', re.IGNORECASE)
+                match = pattern.search(content)
+                if(match):
+                    start = max(match.start() - 80, 0)
+                    end = min(match.end() + 80, len(content))
+                    snippet = content[start:end].strip()
+                    if(start > 0):
+                        snippet = '...' + snippet
+                    if(end < len(content)):
+                        snippet = snippet + '...'
+                    return snippet
+                else:
+                    return "No snippet available"
+        except Exception as e:
+            print(f"[ERROR]: Could not read file {file_path} to extract snippet: {e}")
+            return "Snippet not found"
+
+    def find_z_score(file_path, searched_words):
+        try:
+            with open(file_path, 'r', encoding='utf-8') as file:
+                content = file.read().lower()
+                # Remove and and or from searched_words
+                searched_words = re.sub(r'\b(AND|OR)\b', '', searched_words, flags=re.IGNORECASE).strip()
+                # Find all words in searched_words
+                words = re.findall(r'\b[a-zA-Z]+\b', searched_words.lower())
+                # Find all words in content
+                total_words = len(re.findall(r'\b[a-zA-Z]+\b', content))
+                if(total_words == 0):
+                    return 0.0
+                count = sum(content.count(word) for word in words)
+                z_score = count / total_words
+                return round(z_score, 4)
+        except Exception as e:
+            print(f"[ERROR]: Could not read file {file_path} to calculate z-score: {e}")
+            return 0.0
 
     response = []
 
     for file_path in result:
         title = extract_title_from_file(file_path)
-        snippet = extract_snippet_from_file(file_path)
+        snippet = extract_snippet_from_file(file_path, searched_words)
+        z_score = find_z_score(file_path, searched_words)
 
         response.append({
             "title": title,
             "snippet": snippet,
+            "z_score": z_score
         })
 
+    response.sort(key=lambda x: x['z_score'], reverse=True)
     return response
-
-if __name__ == "__main__":
-    print(search_in_reversed_index("Computer AND (science OR engineering)"))

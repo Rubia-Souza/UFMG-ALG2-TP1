@@ -1,0 +1,226 @@
+/* #region .: General CSS :. */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: all 0.2s ease-in-out;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Kantumruy Pro', sans-serif;
+}
+
+body, html {
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+}
+
+body {
+    background-color: #fefefe;
+}
+
+/* #endregion */
+
+/* #region .: Search Section :. */
+
+#searchSection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    margin: 4rem auto 0 auto;
+}
+
+#searchBox {
+    height: 4rem;
+    width: 100%;
+    border: none;
+    box-shadow: 2px 2px 0.1rem 0.1rem rgba(46, 46, 46, 0.25);
+    margin-right: 0.6rem;
+    border-radius: 6px;
+    padding: 1.2rem;
+    font-family: 'Kantumruy Pro', sans-serif;
+    font-weight: 200;
+    font-size: 1.5rem;
+}
+
+#searchButton {
+    border: none;
+    background-color: rgb(54, 197, 211);
+    cursor: pointer;
+    border-radius: 6px;
+    padding: 0.6rem;
+    box-shadow: 2px 2px 0.1rem 0.1rem rgba(46, 46, 46, 0.25);
+    height: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    aspect-ratio: 1;
+}
+
+#searchButton:hover {
+    box-shadow: 2px 2px 0.1rem 0.1rem rgba(54, 197, 211, 0.5);
+}
+
+#searchButton:active {
+    position: relative;
+    top: 2px;
+    left: 2px;
+}
+
+#searchButton > img {
+    width: 3rem;
+    height: 3rem;
+    aspect-ratio: 1/1;
+}
+
+#searchBox:focus {
+    outline: none;
+    box-shadow: 2px 2px 0.1rem 0.1rem rgba(54, 197, 211, 0.5);
+}
+
+/* #endregion */
+
+/* #region .: Results Section :. */
+
+#results {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.result-item {
+    width: 27rem;
+    border-radius: 6px;
+    box-shadow: 2px 2px 0.1rem 0.1rem rgba(46, 46, 46, 0.25);
+    margin: 1rem;
+}
+
+.result-item:hover {
+    box-shadow: 4px 4px 0.2rem 0.1rem rgba(46, 46, 46, 0.35);
+}
+
+.result-item > h3 {
+    background-color: #3b3e47;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    color: white;
+    border-bottom: 2px solid #2e2e2e;
+    padding: 1rem;
+}
+
+.result-item > p {
+    padding: 1rem;
+    line-height: 1.5rem;
+}
+
+.highlight {
+    background-color: #36c5d3;
+    color: white;
+    padding: 0px 4px;
+    font-weight: 600;
+}
+
+/* #endregion */
+
+/* #region .: Pagination :. */
+
+#pagination {
+    display: none;
+    justify-content: flex-end;
+    align-items: center;
+    flex-direction: row;
+    gap: 1rem;
+    margin: 1rem 2rem;
+}
+
+#prevButton, #nextButton {
+    width: 1.5rem;
+    height: 1.5rem;
+    border: none;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+#prevButton > img {
+    rotate: 180deg;
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+#nextButton > img {
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+#prevButton:disabled, #nextButton:disabled {
+    cursor: not-allowed;
+    opacity: 0.3;
+}
+
+#pageInfo {
+    font-family: 'Kantumruy Pro', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+
+/* #endregion */
+
+/* #region .: No Results Section :. */
+
+#noResults {
+    width: 100%;
+    display: none;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#noResults > h2 {
+    font-size: 4rem;
+    font-weight: lighter;
+    margin: 2rem 0px 1.2rem 0px;
+}
+
+#noResults > p {
+    margin-bottom: 2rem;
+    font-size: 1rem;
+}
+
+#noResults > img {
+    width: 80%;
+    opacity: 0.8;
+}
+
+/* #endregion */
+
+/* #region .: Loading Section :. */
+
+#loadingSection {
+    width: 100%;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4rem;
+}
+
+#loadingSection > img {
+    width: 6rem;
+    height: 6rem;
+    aspect-ratio: 1/1;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+/* #endregion */

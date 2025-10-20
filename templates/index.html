@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Search Engine</title>
+    <link rel="icon" type="image/x-icon" href="static/images/favicon.svg">
+    <link rel="stylesheet" href="static/css/index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Kantumruy+Pro:ital,wght@0,100..700;1,100..700&family=Marcellus+SC&display=swap" rel="stylesheet">
+</head>
+<body>
+    <section id="searchSection">
+        <input type="text" id="searchBox" placeholder="Search...">
+        <button for="searchBox" id="searchButton"><img src="static/images/search.svg" alt="Search"></button>
+    </section>
+
+    <section id="results">
+    </section>
+
+    <div id="loadingSection">
+        <img id="loading" src="static/images/loading.svg" alt="Loading">
+    </div>
+
+    <section id="noResults">
+        <h2>No results found</h2>
+        <p>Try different keywords or check your spelling.</p>
+        <img src="static/images/no_results.svg" alt="No Results">
+    </section>
+
+    <div id="pagination">
+        <button id="prevButton" disabled><img src="static/images/next.svg" alt="Previous"></button>
+        <span id="pageInfo"></span>
+        <button id="nextButton" disabled><img src="static/images/next.svg" alt="Next"></button>
+    </div>
+
+    <script src="static/js/index.js"></script>
+</body>
+</html>

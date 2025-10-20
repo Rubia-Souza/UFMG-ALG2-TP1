@@ -25,7 +25,7 @@ window.onload = () => {
             const itemSection = document.createElement("div");
             itemSection.classList.add("result-item");
 
-            const title = document.createElement("h3");
+            const title = document.createElement("h2");
             title.textContent = result.title;
             itemSection.appendChild(title);
 

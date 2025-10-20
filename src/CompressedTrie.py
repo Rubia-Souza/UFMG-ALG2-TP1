@@ -1,3 +1,5 @@
+import re
+
 class TrieNode:
     def __init__(self, prefix = ''):
         self.prefix = prefix
@@ -10,13 +12,15 @@ class CompressedTrie:
     
     def __common_prefix_length(self, target_1, target_2):
         length = 0
-        while(length < len(target_1) and length < len(target_2) and target_1[length] == target_2[length]):
+        while(length < len(target_1) and length < len(target_2) and target_1[length].lower() == target_2[length].lower()):
             length += 1
         return length
     
     def insert(self, word):
         current_node = self.root
         index = 0
+
+        word = re.sub(r'[.,;:!?()\[\]{}"\'`~^<>/\\|]', '', word)
 
         while(index < len(word)):
             actual_character = word[index]
@@ -30,7 +34,7 @@ class CompressedTrie:
                     break
 
             if(not child_starts_with_actual_character):
-                new_node = TrieNode(word[index:])
+                new_node = TrieNode(word[index:].lower())
                 new_node.is_end_of_word = True
                 current_node.children.append(new_node)
                 return
@@ -40,7 +44,7 @@ class CompressedTrie:
 
             index += common_prefix_length
             if(common_prefix_length < len(current_node.prefix)):
-                new_node = TrieNode(current_node.prefix[common_prefix_length:])
+                new_node = TrieNode(current_node.prefix[common_prefix_length:].lower())
                 new_node.is_end_of_word = current_node.is_end_of_word
                 new_node.children = current_node.children
                 current_node.prefix = current_node.prefix[:common_prefix_length]

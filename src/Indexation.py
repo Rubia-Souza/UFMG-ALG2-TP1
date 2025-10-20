@@ -1,5 +1,5 @@
 import os
-from CompressedTrie import CompressedTrie
+from src.CompressedTrie import CompressedTrie
 
 def create_compressed_trie_from_file(file_path):
     trie = CompressedTrie()

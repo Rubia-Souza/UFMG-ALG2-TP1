@@ -1,23 +1,25 @@
-from flask import Flask, render_template, request, jsonify, make_response
+from flask import Flask, Response, render_template, request, jsonify, make_response
 from src.Search import search_in_reversed_index
 
 app = Flask(__name__, template_folder='templates', static_folder='static')
 
 @app.route('/')
-def home():
+def home() -> str:
     return render_template('index.html')
 
 @app.route('/search', methods=['GET'])
-def search():
-    expression = request.args.get('expression', '')
+def search() -> Response:
+    expression: str = request.args.get('expression', '')
     if not expression:
-        return jsonify([{"title": "No results found", "snippet": ""}])
+        response: Response = make_response(jsonify([{"title": "No results found", "snippet": ""}]), 200)
+        response.headers['Content-Type'] = 'application/json'
+        return response
 
-    results = search_in_reversed_index(expression)
+    results: list[dict] | None = search_in_reversed_index(expression)
     if results is None:
         results = [{"title": "No results found", "snippet": ""}]
     
-    response = make_response(jsonify(results), 200)
+    response: Response = make_response(jsonify(results), 200)
     response.headers['Content-Type'] = 'application/json'
 
     return response

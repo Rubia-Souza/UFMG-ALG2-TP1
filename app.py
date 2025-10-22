@@ -1,5 +1,5 @@
 from flask import Flask, Response, render_template, request, jsonify, make_response
-from src.Search import search_in_reversed_index
+from src.Search import search_in_reversed_index, find_news_by_title, mark_searched_words_in_content
 
 app = Flask(__name__, template_folder='templates', static_folder='static')
 
@@ -22,6 +22,23 @@ def search() -> Response:
     response: Response = make_response(jsonify(results), 200)
     response.headers['Content-Type'] = 'application/json'
 
+    return response
+
+@app.route('/get_news', methods=['GET'])
+def get_news() -> Response:
+    news_title: str = request.args.get('title', '')
+    searched_words: str = request.args.get('searched_words', '')
+
+    news: dict | None = find_news_by_title(news_title)
+    if news is None:
+        news = {"title": "News not found", "content": "The requested news article could not be found."}
+    
+    news['content'] = news['content'].lstrip('\n')
+    news['content'] = news['content'].replace('\n', '<br>')
+    news['content'] = mark_searched_words_in_content(news['content'], searched_words)
+
+    response: Response = make_response(jsonify(news), 200)
+    response.headers['Content-Type'] = 'application/json'
     return response
 
 if __name__ == '__main__':

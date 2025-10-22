@@ -1,14 +1,20 @@
+import re
 import os
 from src.CompressedTrie import CompressedTrie
 
 def create_compressed_trie_from_file(file_path: str) -> CompressedTrie | None:
+    def remove_punctuation(word: str) -> str:
+        return re.sub(r'[.,;:!?()\[\]{}"`~^<>/\\|]', '', word)
+
     trie: CompressedTrie = CompressedTrie()
     try:
-        with open(file_path, 'r') as file:
+        with open(file_path, 'r', encoding='utf-8') as file:
             for line in file:
                 cleaned_line: str = line.strip()
                 words: list[str] = cleaned_line.split()
                 for word in words:
+                    word = word.lower().strip()
+                    word = remove_punctuation(word)
                     trie.insert(word)
         return trie
     except Exception as e:
@@ -17,7 +23,7 @@ def create_compressed_trie_from_file(file_path: str) -> CompressedTrie | None:
 
 def save_trie_in_file(trie: CompressedTrie, file_path: str) -> None:
     try:
-        with open(file_path, 'w') as file:
+        with open(file_path, 'w', encoding='utf-8') as file:
             trie_data: str = trie.serialize()
             file.write(trie_data)
     except Exception as e:

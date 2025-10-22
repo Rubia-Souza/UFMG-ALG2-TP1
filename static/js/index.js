@@ -12,9 +12,28 @@ window.onload = () => {
     const pageInfo = document.querySelector("#pageInfo");
     const nextButton = document.querySelector("#nextButton");
 
+    const modalOverlay = document.querySelector("#modalOverlay");
+    const newsModal = document.querySelector("#newsModal");
+    const modalTitle = document.querySelector("#modalTitle");
+    const modalContent = document.querySelector("#modalContent");
+    const closeModalButton = document.querySelector("#closeModal");
+
+    let lastSearchExpression = "";
     let currentPage = 1;
     let totalPages = 1;
     let results = [];
+
+    function closeNewsModal() {
+        modalOverlay.style.display = "none";
+        newsModal.style.display = "none";
+    }
+
+    function openNewsModal(title, content) {
+        modalTitle.textContent = title;
+        modalContent.innerHTML = content;
+        modalOverlay.style.display = "flex";
+        newsModal.style.display = "block";
+    }
 
     function handleError(status) {
         resultsSection.innerHTML = `<p class="error">An error occurred. Status code: ${status}</p>`;
@@ -24,6 +43,7 @@ window.onload = () => {
         function createResultItem(result) {
             const itemSection = document.createElement("div");
             itemSection.classList.add("result-item");
+            itemSection.setAttribute("news-title", result.title);
 
             const title = document.createElement("h2");
             title.textContent = result.title;
@@ -32,6 +52,23 @@ window.onload = () => {
             const snippet = document.createElement("p");
             snippet.innerHTML = result.snippet;
             itemSection.appendChild(snippet);
+
+            itemSection.addEventListener("click", () => {
+                const newsTitle = itemSection.getAttribute("news-title");
+                fetch(`/get_news?title=${encodeURIComponent(newsTitle)}&searched_words=${encodeURIComponent(lastSearchExpression)}`)
+                    .then(response => response.json())
+                    .then(data => {
+                        if(!data) {
+                            console.error("[ERROR] No data received for news content.");
+                            return;
+                        }
+
+                        openNewsModal(data.title, data.content);
+                    })
+                    .catch(error => {
+                        console.error("[ERROR] Failed to fetch news content:", error);
+                    });
+            });
 
             return itemSection;
         }
@@ -122,7 +159,8 @@ window.onload = () => {
         if (expression === "") {
             return;
         }
-
+        
+        lastSearchExpression = expression;
         loadingSection.style.display = "flex";
         resultsSection.innerHTML = "";
         noResultsSection.style.display = "none";
@@ -152,4 +190,7 @@ window.onload = () => {
             fetchResults();
         }
     });
+
+    closeModalButton.addEventListener("click", closeNewsModal);
+    modalOverlay.addEventListener("click", closeNewsModal);
 };

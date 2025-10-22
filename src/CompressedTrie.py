@@ -17,10 +17,14 @@ class CompressedTrie:
         return length
     
     def insert(self, word: str) -> None:
+        if(not word):
+            return
+
+        if(self.search(word)):
+            return
+
         current_node: TrieNode = self.root
         index: int = 0
-
-        word = re.sub(r'[.,;:!?()\[\]{}"\'`~^<>/\\|]', '', word)
 
         while(index < len(word)):
             actual_character: str = word[index]

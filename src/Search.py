@@ -5,17 +5,22 @@ from src.Indexation import create_compressed_trie_from_file
 
 def search_in_reversed_index(expression: str) -> list[dict] | None:
     def parse_expression(expression: str) -> str:
-        # Remove ponctuation
-        expression_without_punctuation: str = re.sub(r'[.,;:!?\[\]{}"`~^<>/\\|]', '', expression)
-
-        # Lowercase every word except AND, OR
-        expression_lowercased: str = re.sub(r'\b([a-zA-Z]+)\b', lambda m: m.group(1).lower() if m.group(1) not in ['AND', 'OR'] else m.group(1), expression_without_punctuation)
+        def remove_ponctuation(expression: str) -> str:
+            return re.sub(r'[.,;:!?\[\]{}"`~^<>/\\|]', '', expression)
         
-        # Replace words with trie.search("word")
-        expression_with_trie: str = re.sub(r'\b([a-z0-9]+)\b', r'trie.search("\1")', expression_lowercased)
+        def lowercase_search_terms(expression: str) -> str:
+            return re.sub(r'\b([a-zA-Z]+)\b', lambda m: m.group(1).lower() if m.group(1) not in ['AND', 'OR'] else m.group(1), expression)
         
-        # Replace AND with & and OR with |
-        expression_with_python_ops: str = expression_with_trie.replace('AND', '&').replace('OR', '|')
+        def surround_words_with_trie_search(expression: str) -> str:
+            return re.sub(r'\b([a-z0-9\']+)\b', r'trie.search("\1")', expression)
+        
+        def replace_logical_operators(expression: str) -> str:
+            return expression.replace('AND', '&').replace('OR', '|')
+        
+        expression_without_punctuation: str = remove_ponctuation(expression)
+        expression_lowercased: str = lowercase_search_terms(expression_without_punctuation)
+        expression_with_trie: str = surround_words_with_trie_search(expression_lowercased)
+        expression_with_python_ops: str = replace_logical_operators(expression_with_trie)
 
         return expression_with_python_ops    
 
@@ -36,7 +41,7 @@ def search_in_reversed_index(expression: str) -> list[dict] | None:
                     # Remove and and or from searched_words
                     searched_words = re.sub(r'\b(AND|OR)\b', '', searched_words).strip()
                     # Find the first occurrence of any of the searched words
-                    pattern: re.Pattern = re.compile(r'\b(' + '|'.join(re.escape(word) for word in re.findall(r'\b[a-zA-Z0-9]+\b', searched_words)) + r')\b', re.IGNORECASE)
+                    pattern: re.Pattern = re.compile(r'\b(' + '|'.join(re.escape(word) for word in re.findall(r'\b[a-zA-Z0-9\']+\b', searched_words)) + r')\b', re.IGNORECASE)
                     match: re.Match | None = pattern.search(content)
                     if(match):
                         start: int = max(match.start() - 80, 0)
@@ -117,3 +122,32 @@ def search_in_reversed_index(expression: str) -> list[dict] | None:
         return build_response_object(list_of_results, expression)
     else:
         return None
+    
+def find_news_by_title(title: str) -> dict | None:
+    for category in ['business', 'entertainment', 'politics', 'sport', 'tech']:
+        folder_path: str = f'noticias/{category}'
+        if(not os.path.exists(folder_path)):
+            print(f"[WARNING]: Folder {folder_path} does not exist. Skipping.")
+            continue
+
+        for filename in os.listdir(folder_path):
+            if(not filename.endswith('.txt')):
+                continue
+
+            file_path: str = os.path.join(folder_path, filename)
+            try:
+                with open(file_path, 'r', encoding='utf-8') as file:
+                    first_line: str = file.readline().strip()
+                    if first_line == title:
+                        content: str = file.read()
+                        return {"title": first_line, "content": content}
+            except Exception as e:
+                print(f"[ERROR]: Could not read file {file_path} to find news by title: {e}")
+                continue
+    return None
+
+def mark_searched_words_in_content(content: str, searched_words: str) -> str:
+    searched_words = re.sub(r'\b(AND|OR)\b', '', searched_words).strip()
+    pattern: re.Pattern = re.compile(r'\b(' + '|'.join(re.escape(word) for word in re.findall(r'\b[a-zA-Z0-9\']+\b', searched_words)) + r')\b', re.IGNORECASE)
+    marked_content: str = pattern.sub(r'<span class="highlight">\1</span>', content)
+    return marked_content

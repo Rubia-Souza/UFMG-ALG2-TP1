@@ -268,3 +268,83 @@ body {
 }
 
 /* #endregion */
+
+/* #region .: Modal Section :. */
+
+#modalOverlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(46, 46, 46, 0.75);
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    z-index: 10;
+}
+
+#newsModal {
+    display: none;
+    width: 80%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-image: linear-gradient(to bottom right, #e8f1f5, #e7f0f5);
+    box-shadow: 2px 2px 0.5rem 0.1rem rgba(46, 46, 46, 0.25), -2px -2px 0.5rem 0.1rem rgba(254, 254, 254, 0.6);
+    padding: 1rem;
+    border-radius: 21px;
+    z-index: 11;
+}
+
+#modalHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+#modalTitle {
+    font-size: 2rem;
+    color: #75818c;
+    font-weight: 700;
+    font-family: 'Kantumruy Pro', sans-serif;
+}
+
+#modalContent {
+    color: #2e2e2e;
+    line-height: 1.7rem;
+    box-shadow: inset 2px 2px 0.1rem 0.1rem rgba(46, 46, 46, 0.25), inset -2px -2px 0.1rem 0.1rem rgba(254, 254, 254, 0.6);
+    padding: 1rem;
+    border-radius: 21px;
+    font-family: 'Kantumruy Pro', sans-serif;
+    max-height: 80vh;
+    overflow-y: auto;
+}
+
+#closeModal {
+    background-image: linear-gradient(to bottom right, #e8f1f5, #e7f0f5);
+    box-shadow: 2px 2px 0.5rem 0.1rem rgba(46, 46, 46, 0.25), -2px -2px 0.5rem 0.1rem rgba(254, 254, 254, 0.6);
+    padding: 0.3rem;
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#closeModal:active {
+    position: relative;
+    top: 2px;
+    left: 2px;
+}
+
+#closeModal > img {
+    width: 1rem;
+    height: 1rem;
+    aspect-ratio: 1/1;
+}
+
+/* #endregion */

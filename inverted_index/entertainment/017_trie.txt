@@ -107,7 +107,7 @@ other
 overall
 oe
 ozick
-£60000
+£60,000
 english
 every
 egypt

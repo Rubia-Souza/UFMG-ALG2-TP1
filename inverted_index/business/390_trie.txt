@@ -29,7 +29,7 @@ put
 public
 placing
 $14m
-$145m
+$14.5m
 $5m
 $4m
 in
@@ -88,7 +88,7 @@ of
 over
 own
 other
-£774m
+£7.74m
 violations
 valuable
 california

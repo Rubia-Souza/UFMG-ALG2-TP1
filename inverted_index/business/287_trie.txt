@@ -368,7 +368,7 @@ doomed
 during
 diet
 drive
-23000
+23,000
 2007
 2050
 2010

@@ -81,7 +81,7 @@ extend
 earlier
 estimated
 10
-17
+1.7
 seconds
 service
 said
@@ -166,4 +166,4 @@ due
 kilometres
 512kbps
 95%
-994%
+99.4%

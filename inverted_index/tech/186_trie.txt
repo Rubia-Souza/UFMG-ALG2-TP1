@@ -30,12 +30,12 @@ not
 site
 site'
 sites
-sinacom
+sina.com
 simplified
 said
 such
 subversive
-sohucom
+sohu.com
 software
 some
 sources
@@ -146,7 +146,7 @@ force
 from
 filter
 10
-110000
+110,000
 15
 days
 does
@@ -175,5 +175,5 @@ let
 looking
 link
 links
-4500
+4,500
 kong

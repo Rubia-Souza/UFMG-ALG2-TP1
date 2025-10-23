@@ -1,5 +1,5 @@
 ryanair
-ryanairboeing
+ryanair/boeing
 reported
 results
 reduce
@@ -74,7 +74,7 @@ fall
 70
 737-800
 valued
-£21bn
+£2.1bn
 which
 while
 when
@@ -99,7 +99,7 @@ this
 that
 than
 taken
-2500
+2,500
 225
 2005
 2008

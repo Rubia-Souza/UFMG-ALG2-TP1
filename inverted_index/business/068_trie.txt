@@ -215,7 +215,7 @@ richard
 land
 larger
 least
-50000
-538000
+50,000
+538,000
 -
 just

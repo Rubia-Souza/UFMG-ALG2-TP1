@@ -86,7 +86,7 @@ introduced
 informing
 is
 it
-6650
+6,650
 garment
 garments
 gave
@@ -175,4 +175,4 @@ period
 paying
 vogue
 -
-50000
+50,000

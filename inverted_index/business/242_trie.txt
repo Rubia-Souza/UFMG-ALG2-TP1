@@ -282,7 +282,7 @@ vehicle
 voted
 £800m
 £200m
-$15bn
+$1.5bn
 76-year-old
 joe
 joel
@@ -291,7 +291,7 @@ jp
 -
 knows
 key
-289%
-281%
+28.9%
+28.1%
 2003
 2004

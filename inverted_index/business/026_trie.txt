@@ -109,7 +109,7 @@ normal
 north
 not
 now
-200000
+200,000
 2004
 2005
 vehicles
@@ -143,9 +143,9 @@ last
 leak
 lower
 losses
-155465
-19924
-17815
+155,465
+19,924
+17,815
 pickups
 possible
 potential

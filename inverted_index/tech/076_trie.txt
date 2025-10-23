@@ -97,7 +97,7 @@ broadcasts
 bbc
 by
 bloomberg
-blinkxtv
+blinkx.tv
 bskyb
 closed
 clues

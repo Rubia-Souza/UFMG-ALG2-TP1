@@ -134,7 +134,7 @@ rolling
 1975
 1968
 1994
-100000
+100,000
 edward
 emotional
 germano

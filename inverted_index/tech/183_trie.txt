@@ -124,7 +124,7 @@ face
 faced
 french
 13%
-106m
+10.6m
 european
 europeans
 europe's
@@ -177,4 +177,4 @@ nomad
 now
 836m
 £581m
-£736m
+£7.36m

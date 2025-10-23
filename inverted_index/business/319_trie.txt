@@ -146,9 +146,9 @@ chief
 group
 greater
 guarantee
-£13bn
-£14
-$25bn
+£1.3bn
+£1.4
+$2.5bn
 of
 offer
 on
@@ -158,7 +158,7 @@ owns
 undervalued
 unnamed
 us
-49%
+4.9%
 583p
 533p
 quoted

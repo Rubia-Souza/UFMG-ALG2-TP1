@@ -203,7 +203,7 @@ also
 although
 after
 affects
-america&#191s
+america&#191;s
 available
 as
 aspect
@@ -307,7 +307,7 @@ quo
 quarters
 quench
 15
-18000
+18,000
 deal
 developed
 degree

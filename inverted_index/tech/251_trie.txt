@@ -196,7 +196,7 @@ means
 message
 my
 mr
-£700
+£7.00
 especially
 english
 economic
@@ -214,4 +214,4 @@ guido
 gybels
 group
 year
-70000
+70,000

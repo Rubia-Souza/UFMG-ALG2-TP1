@@ -203,7 +203,7 @@ right
 rules
 role
 radical
-£10000
+£10,000
 £12m
 £1m
 £15m

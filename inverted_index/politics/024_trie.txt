@@ -75,7 +75,7 @@ had
 have
 he
 highlight
-hivaids
+hiv/aids
 how
 howard
 hundreds
@@ -151,7 +151,7 @@ rest
 rebuild
 reports
 $10bn
-800000
+800,000
 live
 likened
 leader

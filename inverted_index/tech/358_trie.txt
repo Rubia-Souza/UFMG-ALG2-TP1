@@ -294,7 +294,7 @@ harmony
 has
 happens
 had
-hpcompaq
+hp/compaq
 hp's
 how
 however

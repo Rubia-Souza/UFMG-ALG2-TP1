@@ -258,7 +258,7 @@ by
 based
 blatant
 15
-15000
+15,000
 1999
 year
 years

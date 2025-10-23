@@ -266,7 +266,7 @@ new
 never
 year
 you
-45000
+45,000
 estimated
 explains
 express

@@ -70,7 +70,7 @@ achieve
 action
 at
 approval
-amazoncom
+amazon.com
 are
 on
 one-click

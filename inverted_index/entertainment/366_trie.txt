@@ -166,7 +166,7 @@ launched
 london
 lock-up
 legitimate
-£26000
+£26,000
 uk
 uncovered
 up
@@ -179,8 +179,8 @@ enormous
 end
 employers
 efforts
-1000
-18000
+1,000
+18,000
 40%
 news
 not

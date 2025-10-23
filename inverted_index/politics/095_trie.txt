@@ -201,7 +201,7 @@ departments
 each
 exactly
 4's
-84000
+84,000
 you
 10
 very

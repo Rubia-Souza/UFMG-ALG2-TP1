@@ -58,7 +58,7 @@ street
 strong
 11%
 12
-102%
+10.2%
 2004
 2003
 2005
@@ -100,8 +100,8 @@ fast
 financial
 further
 fleet
-£324bn
-£289bn
+£3.24bn
+£2.89bn
 £234m
 £220m
 £198m
@@ -110,7 +110,7 @@ fleet
 £105m
 £610m
 £80m
-$613bn
+$6.13bn
 beat
 begun
 beginning
@@ -126,7 +126,7 @@ plan
 planning
 pay
 52%
-54%
+5.4%
 year
 under
 underlying

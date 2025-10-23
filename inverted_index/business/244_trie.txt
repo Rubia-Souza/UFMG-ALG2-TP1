@@ -252,8 +252,8 @@ extent
 entirely
 elsewhere
 £35
-£3620
-£3226
+£36.20
+£32.26
 1300
 gmt
 good
@@ -264,7 +264,7 @@ great
 generally
 give
 given
-003%
+0.03%
 response
 rest
 reputation

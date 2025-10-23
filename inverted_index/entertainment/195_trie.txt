@@ -141,13 +141,13 @@ of
 or
 ocean
 15
-140000
+140,000
 11
 10
 january
 $1m
 $150m
-£525000
+£525,000
 £79m
 leonardo
 left

@@ -81,7 +81,7 @@ walt
 whether
 were
 253m
-24bn
+2.4bn
 22
 £175m
 $328m
@@ -110,7 +110,7 @@ deal
 disney
 1992
 1994
-124
+12.4
 15%
 business
 buy

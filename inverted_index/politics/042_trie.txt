@@ -210,7 +210,7 @@ raw
 rise
 rid
 riles
-45m
+4.5m
 be
 believe
 before
@@ -257,7 +257,7 @@ never
 now
 not
 nhs
-100000
+100,000
 -
 voted
 judges

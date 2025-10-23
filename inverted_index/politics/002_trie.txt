@@ -166,7 +166,7 @@ look
 lord
 long-standing
 1
-100000
+100,000
 january
 just
 government

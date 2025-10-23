@@ -168,7 +168,7 @@ up
 group
 guilty
 2002
-20000
+20,000
 $11bn
 $180bn
 jurors

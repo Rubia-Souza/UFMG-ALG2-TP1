@@ -47,7 +47,7 @@ song
 southern
 sale
 salsa
-salsamerengue
+salsa/merengue
 show
 share
 skynyrd
@@ -158,5 +158,5 @@ kanye
 -
 velvet
 video
-$099
-£053
+$0.99
+£0.53

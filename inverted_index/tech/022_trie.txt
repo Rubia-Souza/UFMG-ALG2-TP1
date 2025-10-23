@@ -139,7 +139,7 @@ up
 $1
 $12
 53p
-5000
+5,000
 for
 folding
 from
@@ -161,5 +161,5 @@ quarterly
 network
 new
 not
-£630
+£6.30
 12

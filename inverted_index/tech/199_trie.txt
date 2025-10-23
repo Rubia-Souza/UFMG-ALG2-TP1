@@ -197,7 +197,7 @@ buy
 bulk
 built-in
 by
-bandwidth'
+bandwidth.'
 back
 battle
 breaks
@@ -218,7 +218,7 @@ looking
 lot
 long-distance
 local
-$2000
+$2,000
 $10
 year
 you
@@ -274,7 +274,7 @@ can
 can't
 carnegie
 career
-care'
+care.'
 calls
 california
 capabilities

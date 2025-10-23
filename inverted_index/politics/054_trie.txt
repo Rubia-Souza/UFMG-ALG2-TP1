@@ -116,14 +116,14 @@ has
 hardest
 have
 vince
-£150000
-£1000
+£150,000
+£1,000
 over
 out
 of
 on
 only
-400000
+400,000
 market
 make
 many

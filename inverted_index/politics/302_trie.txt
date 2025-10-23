@@ -146,7 +146,7 @@ enough
 east
 eady
 european
-£150000
+£150,000
 damages
 daily
 dance
@@ -230,7 +230,7 @@ up
 january
 june's
 justice
-1000
+1,000
 1997
 -
 votes

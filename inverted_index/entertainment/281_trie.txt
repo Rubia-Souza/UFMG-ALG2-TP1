@@ -134,8 +134,8 @@ others
 on
 one
 occupied
-5500
-5000
+5,500
+5,000
 go
 your
 expressed

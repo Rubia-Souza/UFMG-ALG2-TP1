@@ -8,7 +8,7 @@ others
 or
 source
 software
-softwareof
+software...of
 some
 slam
 summit
@@ -182,8 +182,8 @@ respects
 expected
 era
 economically
-150000
-300000
+150,000
+300,000
 never
 no
 not

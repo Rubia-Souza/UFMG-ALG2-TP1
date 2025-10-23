@@ -195,11 +195,11 @@ download
 decision
 defunct
 dvd
-£3999
+£39.99
 2km
 230
 2005
-44
+4.4
 known
 korea
 kilobit

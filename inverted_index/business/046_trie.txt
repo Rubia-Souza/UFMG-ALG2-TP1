@@ -120,7 +120,7 @@ phones
 phase
 played
 positive
-16%
+1.6%
 1990s
 1%
 a
@@ -139,10 +139,10 @@ levels
 led
 last
 latest
-01%
-07%
-03%
-47%
+0.1%
+0.7%
+0.3%
+4.7%
 higher
 highs
 historical
@@ -173,7 +173,7 @@ meti
 year
 years
 yamanaka
-63%
+6.3%
 2004
 -which
 -may

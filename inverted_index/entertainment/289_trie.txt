@@ -184,7 +184,7 @@ every
 everything
 europe
 embassy
-$1300
+$1,300
 £680
 deal
 developing

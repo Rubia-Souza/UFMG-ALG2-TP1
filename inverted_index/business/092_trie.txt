@@ -140,7 +140,7 @@ airport
 airports
 again
 $3bn
-$16bn
+$1.6bn
 $180
 $500
 network

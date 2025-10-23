@@ -70,7 +70,7 @@ new
 national
 naamsa
 jumped
-449603
+449,603
 from
 for
 foreign
@@ -88,6 +88,6 @@ low
 rates
 rapid
 rand
-500000
+500,000
 under
 13%

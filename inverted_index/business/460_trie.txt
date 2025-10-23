@@ -69,8 +69,8 @@ correspondents
 chief
 candles
 cents
-5000
-55000
+5,000
+55,000
 following
 for
 force
@@ -80,7 +80,7 @@ friday's
 future
 funereal
 flowers
-$103bn
+$10.3bn
 smaller
 said
 sap
@@ -160,7 +160,7 @@ did
 18-month
 10
 15
-11%
+1.1%
 us
 battles
 be
@@ -182,6 +182,6 @@ new
 news
 nasdaq
 vast
-6000
+6,000
 -
 quoted

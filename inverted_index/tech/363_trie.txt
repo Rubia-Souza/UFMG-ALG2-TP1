@@ -209,7 +209,7 @@ fears
 2
 21st
 24
-800000
+800,000
 japan
 japanese
 year

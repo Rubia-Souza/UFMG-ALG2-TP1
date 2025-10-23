@@ -106,7 +106,7 @@ last
 for
 found
 15
-58000
+58,000
 reverse
 rebuild
 reuters

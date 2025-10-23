@@ -58,7 +58,7 @@ simple
 since
 sick
 social
-71000
+71,000
 will
 would
 warned
@@ -130,7 +130,7 @@ day
 deliver
 driving
 5
-520000
+520,000
 november
 now
 next

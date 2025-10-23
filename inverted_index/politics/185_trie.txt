@@ -200,7 +200,7 @@ director
 doubt
 1980s
 1990s
-1000
+1,000
 equality
 example
 exactly

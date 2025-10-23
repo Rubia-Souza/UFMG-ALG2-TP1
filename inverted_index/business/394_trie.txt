@@ -51,7 +51,7 @@ cleaners
 chapter
 representing
 receive
-5200
+5,200
 flight
 far
 failed
@@ -106,7 +106,7 @@ its
 in
 industry
 if
-28000
+28,000
 2001
 2003
 largest
@@ -114,5 +114,5 @@ last
 low-cost
 liquidating
 quickest
-911
+9/11
 emerged

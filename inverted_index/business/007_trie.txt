@@ -122,10 +122,10 @@ of
 office
 over
 opportunities
-146000
-190000
-157000
-133000
+146,000
+190,000
+157,000
+133,000
 non-farm
 november's
 not
@@ -144,7 +144,7 @@ mayland
 mean
 means
 moderate
-52%
+5.2%
 2001
 2004
 -

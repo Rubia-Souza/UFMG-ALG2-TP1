@@ -142,7 +142,7 @@ while
 watching
 was
 we
-474000
+474,000
 hard
 has
 have
@@ -155,7 +155,7 @@ number
 new
 160gb
 10
-17
+1.7
 80
 20gb
 2010
@@ -166,4 +166,4 @@ new
 yet
 year
 going
-74
+7.4

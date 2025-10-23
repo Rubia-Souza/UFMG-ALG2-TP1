@@ -147,7 +147,7 @@ need
 net
 next
 number
-120000
+120,000
 110m
 1990's
 15

@@ -12,7 +12,7 @@ fulham
 full-time
 from
 sunderland
-sunderland''
+sunderland.''
 sunday
 star
 stoke

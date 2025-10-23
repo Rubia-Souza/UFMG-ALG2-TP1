@@ -192,5 +192,5 @@ until
 just
 john
 10-games
-10000
+10,000
 -

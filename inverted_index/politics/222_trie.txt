@@ -146,7 +146,7 @@ has
 he
 yougov
 yes
-1943
+1,943
 not
 november
 know

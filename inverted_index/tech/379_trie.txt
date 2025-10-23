@@ -12,7 +12,7 @@ almost
 always
 an
 and
-andor
+and/or
 another
 any
 anywhere
@@ -20,7 +20,7 @@ anything
 at
 abacus
 about
-ad
+a.d
 army
 are
 around
@@ -211,7 +211,6 @@ psion
 pb100
 10
 100
-1000
 1991
 1990s
 1956
@@ -225,6 +224,7 @@ pb100
 12
 13
 1891
+1,000
 16k
 has
 have
@@ -316,7 +316,7 @@ classic
 of
 off
 offerings
-oferr
+of...err
 on
 one
 only
@@ -344,7 +344,7 @@ us
 use
 used
 useful
-usefulpopular
+useful/popular
 useless
 uses
 using

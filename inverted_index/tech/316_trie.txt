@@ -230,8 +230,8 @@ right
 rates
 raised
 rarer
-112%
-132%
+11.2%
+13.2%
 10
 each
 easy
@@ -284,6 +284,6 @@ uk
 just
 july
 kinds
-30000
+30,000
 30%
 questions

@@ -30,9 +30,9 @@ under
 2003
 2005
 21%
-22
-1427
-1149
+2.2
+14.27
+11.49
 million
 more
 markets
@@ -114,8 +114,8 @@ needed
 be
 blended
 bought
-387500
-89000
+387,500
+89,000
 80%
 vegetable
 distributions
@@ -129,5 +129,5 @@ last
 local
 locally
 killed
-965000
+965,000
 45%

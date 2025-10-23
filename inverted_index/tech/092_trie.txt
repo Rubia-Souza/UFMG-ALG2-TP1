@@ -3,8 +3,8 @@ norway's
 norwegian
 not
 november
-napsterno
-napstercom
+napster.no
+napster.com
 up
 upholds
 users
@@ -182,12 +182,12 @@ clearly
 case
 cases
 cite
-100000
+100,000
 1999
 170
 kroner
 kazaa
-£8000
+£8,000
 in
 industry
 individuals

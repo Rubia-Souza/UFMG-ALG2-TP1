@@ -118,7 +118,7 @@ by
 big
 based
 gene
-genel
+gene/l
 generated
 going
 graphics'
@@ -192,14 +192,14 @@ reached
 reliability
 requirements
 reported
-7072
-3586
+70.72
+35.86
 500
-500000
+500,000
 2005
 2002
 year
-427
+42.7
 1976
 1993
 80

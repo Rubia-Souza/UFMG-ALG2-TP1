@@ -129,12 +129,12 @@ journal
 jobs
 qwest
 quoted
-$63bn
-$2015
+$6.3bn
+$20.15
 $16bn
 $180bn
 $11bn
-£34bn
+£3.4bn
 for
 former
 firm
@@ -178,9 +178,9 @@ now
 name
 next
 network
-24%
+2.4%
 2002
-20000
+20,000
 verizon
 discussions
 deal

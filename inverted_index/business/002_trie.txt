@@ -181,8 +181,8 @@ need
 york
 year
 yawning
-$12871
-$12974
+$1.2871
+$1.2974
 back
 bank
 but

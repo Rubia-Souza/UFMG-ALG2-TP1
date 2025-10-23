@@ -17,10 +17,10 @@ faced
 farmers
 favourable
 from
-$15m
+$1.5m
 $1m
-$50000
-$500000
+$50,000
+$500,000
 bribe
 bribery
 bribes
@@ -86,7 +86,7 @@ penalty
 practices
 process
 plans
-£799000
+£799,000
 in
 indonesian
 indonesia's

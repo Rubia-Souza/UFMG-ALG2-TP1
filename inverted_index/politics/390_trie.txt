@@ -270,9 +270,9 @@ have
 having
 hoped
 hodge
-15000
+15,000
 10
-20000
+20,000
 go
 going
 government

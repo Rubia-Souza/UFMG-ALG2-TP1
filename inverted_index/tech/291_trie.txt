@@ -253,7 +253,7 @@ year's
 yet
 you
 your
-50000
+50,000
 52%
 products
 pre-show
@@ -298,8 +298,8 @@ mr
 key
 keynote
 xbox
-120000
-15
+120,000
+1.5
 11%
 remains
 revolutionising

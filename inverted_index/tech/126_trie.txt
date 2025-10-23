@@ -155,7 +155,7 @@ riddick
 2005
 2004
 2003
-200000
+200,000
 expected
 era
 establish
@@ -169,8 +169,8 @@ zelda
 1994
 100%
 $15m
-£83m
-£1152m
+£8.3m
+£1,152m
 vietnam
 video
 very

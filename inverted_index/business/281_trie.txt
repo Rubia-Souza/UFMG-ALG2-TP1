@@ -64,7 +64,7 @@ this
 throughout
 troughs
 trim
-50000
+50,000
 with-profits
 will
 who
@@ -111,7 +111,7 @@ years
 3%
 know
 £50
-£46998
+£46,998
 8%
 designed
 damage

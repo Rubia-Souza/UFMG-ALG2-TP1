@@ -167,11 +167,11 @@ singing
 stepped
 qrio
 quickest-moving
-13m
-137000
+1.3m
 100
-42ft
-41
+137,000
+4.2ft
+4.1
 was
 washington
 want
@@ -257,8 +257,8 @@ do
 doing
 dancing
 -
-37mh
-3kmh
+3.7m/h
+3km/h
 near
 not
 nations
@@ -266,4 +266,4 @@ vocabulary
 various
 visited
 2007
-25
+2.5

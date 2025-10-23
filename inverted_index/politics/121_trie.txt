@@ -177,7 +177,7 @@ end
 efficiently
 effectively
 minister
-ministerwith
+minister..with
 minority
 more
 morgan
@@ -197,7 +197,7 @@ ms
 jane
 jonathan
 12
-129%
+12.9%
 18
 1999
 outpatient
@@ -258,10 +258,10 @@ unambitious
 us
 qualification
 quite
-98%
+9.8%
 785
 708
-7613
-6630
-305775
-311764
+7,613
+6,630
+305,775
+311,764

@@ -34,7 +34,7 @@ comments
 club
 chairman
 challenge
-challengeearlier
+challenge."earlier
 charge
 chance
 cheap

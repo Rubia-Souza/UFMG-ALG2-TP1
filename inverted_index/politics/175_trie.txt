@@ -219,7 +219,7 @@ years
 15%
 16
 17-year-olds
-250000
+250,000
 2008
 unemployed
 unemployment

@@ -134,7 +134,7 @@ world
 wins
 will
 wrexham
-europeafrica
+europe/africa
 expected
 experience
 example

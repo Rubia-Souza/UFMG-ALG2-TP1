@@ -231,7 +231,7 @@ battleground
 back
 bound
 by
-6000
+6,000
 exhibitors
 expected
 executive
@@ -258,7 +258,7 @@ race
 rainbow-coloured
 rokr
 rolled
-500000
+500,000
 visitors
 view
 vendors

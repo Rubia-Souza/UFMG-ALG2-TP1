@@ -39,7 +39,7 @@ freedom
 farda
 february
 14
-10000
+10,000
 12%
 years
 an

@@ -147,10 +147,10 @@ controllers'
 central
 certain
 10
-17000
+17,000
 not
 77
-5000
+5,000
 knock-on
 92
 86

@@ -91,11 +91,11 @@ is
 japan
 just
 12
-19800
+19,800
 145
 10
 13
-15
+1.5
 december
 debut
 dropped
@@ -197,7 +197,7 @@ united
 up
 4
 konami's
-6500
+6,500
 9
 xbox's
 'halo

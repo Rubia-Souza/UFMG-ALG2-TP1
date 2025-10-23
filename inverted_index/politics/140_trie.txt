@@ -2,7 +2,7 @@ uk
 until
 help
 helps
-hivaids
+hiv/aids
 hutu
 hutus
 have
@@ -90,11 +90,11 @@ estimated
 ethnic
 enable
 emergence
-2500
-25000
+25,000
+2,500
 1994
 100
-800000
+800,000
 moderate
 more
 militias

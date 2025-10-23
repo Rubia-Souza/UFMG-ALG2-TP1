@@ -60,7 +60,7 @@ announcing
 announced
 access
 162
-100000
+100,000
 have
 has
 harder
@@ -134,7 +134,7 @@ made
 majority
 make
 michael
-£43bn
+£4.3bn
 new
 needed
 national

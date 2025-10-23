@@ -102,15 +102,15 @@ trading
 tuesday
 tax
 term
-$162bn
-$175bn
-$18m
-$365bn
+$16.2bn
+$17.5bn
+$1.8m
+$3.65bn
 $30
-$289bn
+$2.89bn
 $40
-£87bn
-£197bn
+£8.7bn
+£1.97bn
 last
 lord
 low
@@ -146,7 +146,7 @@ dividend
 discoveries
 despite
 down
-85
+8.5
 executive
 expectations
 exploration
@@ -171,4 +171,4 @@ year
 years
 quarter
 quite
-3997
+3.997

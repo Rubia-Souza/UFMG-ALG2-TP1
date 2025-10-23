@@ -42,7 +42,7 @@ need
 new
 newspaper
 next
-nielsennetratings
+nielsen/netratings
 now
 of
 over

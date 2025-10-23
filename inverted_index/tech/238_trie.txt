@@ -74,7 +74,7 @@ its
 is
 japan
 queued
-200000
+200,000
 2005
 retailers
 released
@@ -96,9 +96,9 @@ device
 dominance
 ds
 5
-500000-strong
+500,000-strong
 40%
-19800
+19,800
 $188
 $150
 £98

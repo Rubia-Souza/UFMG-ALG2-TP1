@@ -3,7 +3,7 @@ poll's
 polite
 point
 petr
-please'
+please?'
 player
 players
 paused
@@ -16,7 +16,7 @@ explaining
 eidur
 either
 free-kick
-free-kick'
+free-kick?'
 flew
 floyd
 fa
@@ -139,7 +139,7 @@ if
 with
 was
 wall
-wall'
+wall?'
 want
 wanted
 waiting
@@ -185,8 +185,8 @@ very
 -
 jimmy
 me
-metres'
+metres?'
 my
 move
 10
-915
+9.15

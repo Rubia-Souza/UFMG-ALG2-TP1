@@ -107,7 +107,7 @@ unveil
 ulrich
 used
 uk
-£80000
+£80,000
 v8
 vantage
 visible
@@ -129,7 +129,7 @@ new
 near
 north
 2003
-2000
+2,000
 detroit
 development
 described

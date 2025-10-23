@@ -201,8 +201,8 @@ every
 everything
 easier
 10
-1000
-1000000000
+1,000
+1,000,000,000
 17
 paper
 pdas
@@ -248,8 +248,8 @@ which
 kept
 keep
 keys
+2,000
 20
-2000
 2006
 2007
 uk

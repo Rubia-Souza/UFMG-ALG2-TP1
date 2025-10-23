@@ -179,5 +179,5 @@ replace
 rid
 used
 50%
-£100000
+£100,000
 just

@@ -72,7 +72,7 @@ it
 identity
 is
 2004
-2000
+2,000
 29a
 the
 these
@@ -117,7 +117,7 @@ legitimate
 less
 light
 12
-100000
+100,000
 month
 months
 more
@@ -346,8 +346,8 @@ rise
 ruined
 rose
 30%
-3000
-30000
+30,000
+3,000
 use
 used
 using

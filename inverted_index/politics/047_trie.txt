@@ -208,12 +208,12 @@ education
 19%
 2005
 2006
-23600
-27700
+23,600
+27,700
 year
 yet
-£3000
-£2000
+£3,000
+£2,000
 cross-border
 claimed
 caldwell

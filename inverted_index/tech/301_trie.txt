@@ -23,7 +23,7 @@ on
 once
 only
 one
-obtainbuild
+obtain/build
 the
 there
 there's
@@ -69,7 +69,7 @@ and
 any
 anyone
 anything
-audioheadphone
+audio/headphone
 also
 already
 all
@@ -197,11 +197,11 @@ eminently
 else
 but
 burner
-burnerdvd
+burner/dvd
 built
 built-in
 building
-buildyourownorguk
+buildyourown.org.uk
 buy
 buying
 businesses
@@ -250,7 +250,7 @@ handle
 high-end
 he
 does
-dotlife
+dot.life
 don't
 designed
 desktop
@@ -378,9 +378,9 @@ low
 long
 lot
 limited
-14ghz
+1.4ghz
+1.8ghz
 17
-18ghz
 120gb
 128
 16-inch
@@ -400,7 +400,7 @@ video
 viruses
 value
 vat
-jackthe
+jack.the
 jal
 just
 x
@@ -417,7 +417,7 @@ needed
 news
 nick
 -
-26ghz
+2.6ghz
 256mb
 2500
 40

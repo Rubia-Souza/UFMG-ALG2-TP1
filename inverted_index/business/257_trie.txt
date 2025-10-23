@@ -227,7 +227,7 @@ valuations
 value
 vicious
 70%
-79%
+7.9%
 1
 10
 10%

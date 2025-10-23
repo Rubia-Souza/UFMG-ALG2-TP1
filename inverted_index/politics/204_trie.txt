@@ -211,6 +211,6 @@ right
 year
 years
 -
-£35000
+£35,000
 up
 keeping

@@ -238,7 +238,7 @@ role
 robbie
 $3bn
 $30bn
-£165bn
+£1.65bn
 £16bn
 20
 2004
@@ -258,12 +258,12 @@ years
 you
 you're
 -
-5000
-50000
+5,000
+50,000
 50%
 50s
 xbox
-30000
+30,000
 30s
 queue
 queues

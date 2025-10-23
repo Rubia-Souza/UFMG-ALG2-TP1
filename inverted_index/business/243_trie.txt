@@ -383,7 +383,7 @@ rigid
 right
 roof
 rockwool
-routeraccess
+router/access
 robust
 do
 down

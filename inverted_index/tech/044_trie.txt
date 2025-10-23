@@ -1,5 +1,5 @@
 apple
-appleinsidercom
+appleinsider.com
 at
 attacked
 an
@@ -174,7 +174,7 @@ published
 publisher
 particularly
 potential
-powerpageorg
+powerpage.org
 powerpage's
 powerful
 mac
@@ -191,5 +191,5 @@ vital
 valley
 news
 newspapers
-nfoxcom
+nfox.com
 not

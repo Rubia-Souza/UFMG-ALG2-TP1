@@ -146,7 +146,7 @@ social
 subsidiary
 squatters
 should
-40000
+40,000
 yet
 years
 you

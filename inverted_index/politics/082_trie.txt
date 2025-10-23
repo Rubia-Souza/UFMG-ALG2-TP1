@@ -270,7 +270,7 @@ kingdom
 value
 veto
 vote
-£2500
+£2,500
 500
 question
 you

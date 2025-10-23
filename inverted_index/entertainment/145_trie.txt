@@ -194,7 +194,7 @@ it
 is
 12-minute
 11
-1444
+144.4
 during
 dance
 did
@@ -230,5 +230,5 @@ keys
 underneath
 upset
 us
-$550000
-£292000
+$550,000
+£292,000

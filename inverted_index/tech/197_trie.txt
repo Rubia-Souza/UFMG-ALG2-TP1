@@ -135,7 +135,7 @@ if
 ignoring
 7610
 7610's
-7610extendedthememanagerzip
+7610.extended.theme.manager.zip
 phone
 phones
 program

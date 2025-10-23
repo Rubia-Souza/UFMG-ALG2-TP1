@@ -61,7 +61,7 @@ gadget
 gadgets
 shop
 shopping
-shoppingcom
+shopping.com
 shopper
 shoppers
 shops
@@ -212,7 +212,7 @@ worst
 would
 £4bn
 £220
-£10499
+£104.99
 on
 online
 only

@@ -59,7 +59,7 @@ it
 is
 impostor
 us
-us$100000
+us$100,000
 has
 have
 had
@@ -149,9 +149,9 @@ department
 decision
 documentary
 don't
-$100000
-£52000
-£52590
+$100,000
+£52,000
+£52,590
 exploits
 experience
 emotions

@@ -137,10 +137,10 @@ next
 news
 nbc
 nine
-$537bn
-$437bn
-$166bn
-£286bn
+$5.37bn
+$43.7bn
+$16.6bn
+£2.86bn
 2004
 2003
 range
@@ -149,7 +149,7 @@ rose
 roukis
 respectable
 year
-024%
+0.24%
 lower
 least
 less

@@ -113,7 +113,7 @@ on
 one
 over
 outdoor
-4668
+46.68
 -
 good
 gain
@@ -133,5 +133,5 @@ years
 delivered
 despite
 300m
-090
-1000m
+0.90
+1,000m

@@ -252,7 +252,7 @@ forced
 final
 finest
 five
-fivesix
+five/six
 first
 fires
 figures

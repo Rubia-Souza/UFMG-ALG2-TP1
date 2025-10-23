@@ -137,8 +137,8 @@ marvin
 mr
 27
 20
-11
-15
+1.1
+1.5
 1945
 killed
 glad

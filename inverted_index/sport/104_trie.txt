@@ -176,7 +176,7 @@ glen
 79th-minute
 75
 74
-78000
+78,000
 own
 off
 on

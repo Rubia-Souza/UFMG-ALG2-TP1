@@ -13,7 +13,7 @@ three
 think
 than
 two
-twosky
+two/sky
 twentieth
 takeaway
 tate
@@ -92,7 +92,7 @@ out
 outstanding
 on
 one
-onechannel
+one/channel
 only
 other
 at

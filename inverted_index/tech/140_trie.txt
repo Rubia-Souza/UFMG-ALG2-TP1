@@ -49,9 +49,9 @@ further
 far
 familiar
 $1m
-$15000
-$150000
-$50000
+$15,000
+$150,000
+$50,000
 uk
 uk's
 up
@@ -211,7 +211,7 @@ register
 running
 via
 very
-joltcouk
+jolt.co.uk
 does
 doom
 december

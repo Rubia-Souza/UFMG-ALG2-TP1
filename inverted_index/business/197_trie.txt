@@ -147,7 +147,7 @@ decision
 dozens
 dismantled
 district
-3000
+3,000
 30-40
 list
 limited
@@ -155,7 +155,7 @@ lower
 lost
 leonid
 lnm
-90000
+90,000
 1992
 government
 giant

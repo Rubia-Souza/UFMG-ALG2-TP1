@@ -216,7 +216,7 @@ lead
 legitimate
 landline
 last
-£2000
+£2,000
 very
 voice
 early
@@ -224,7 +224,7 @@ enormous
 ensure
 effort
 even
-1000
+1,000
 gavin
 group
 20

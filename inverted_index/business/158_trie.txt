@@ -20,7 +20,7 @@ in
 is
 itself
 $6bn
-$128bn
+$12.8bn
 gas
 group
 giant
@@ -29,7 +29,7 @@ deals
 dubbed
 has
 handle
-£312bn
+£3.12bn
 with
 will
 which
@@ -89,9 +89,9 @@ join
 year
 years
 15
-14
+1.4
 25
 2007
 2011
 cubic
-78
+7.8

@@ -219,7 +219,7 @@ used
 united
 units
 kelly
-3kmh
+3km/h
 became
 beckoned
 between
@@ -230,12 +230,12 @@ both
 biggest
 year
 yoga
-16kmh
+1.6km/h
 10cm
-106000
+106,000
 130cm
-25km
+2.5km
 2kg
 2003
 2007
-81000
+81,000

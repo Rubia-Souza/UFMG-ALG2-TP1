@@ -149,8 +149,8 @@ many
 ms
 media
 million
-$550000
-£306814
+$550,000
+£306,814
 routine
 risk
 resource

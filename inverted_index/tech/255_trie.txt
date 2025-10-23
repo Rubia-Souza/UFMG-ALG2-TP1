@@ -46,7 +46,7 @@ sharing
 showed
 shut
 suprnova
-suprnovaorg
+suprnova.org
 sunday
 site
 site's
@@ -173,4 +173,4 @@ games
 know
 keep
 100
-10000
+10,000

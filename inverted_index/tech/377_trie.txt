@@ -171,7 +171,7 @@ result
 requires
 recent
 rights
-$1000
+$1,000
 victim
 90%
 28

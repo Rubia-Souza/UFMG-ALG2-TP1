@@ -285,7 +285,7 @@ ugly
 us
 used
 uk
-£100000
+£100,000
 no-one
 not
 now

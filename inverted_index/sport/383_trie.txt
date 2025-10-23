@@ -38,7 +38,7 @@ six
 sidelined
 simon
 simpson-daniel
-sport'
+sport.'
 said
 sale
 sanderson

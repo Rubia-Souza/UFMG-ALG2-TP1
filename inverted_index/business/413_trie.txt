@@ -177,8 +177,8 @@ refused
 radwan
 2005
 2003
-29%
-22%
+2.9%
+2.2%
 -
 year
 years
@@ -202,8 +202,8 @@ subdued
 spokesman
 keep
 3%
-39%
-37%
+3.9%
+3.7%
 pact
 pair
 paris
@@ -224,4 +224,4 @@ not
 next
 justice
 joaquin
-15%
+1.5%

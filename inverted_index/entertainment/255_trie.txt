@@ -69,7 +69,7 @@ siege
 scare
 scream
 score
-songwriterguitarist
+songwriter/guitarist
 sound
 souls
 spotting
@@ -273,7 +273,7 @@ hardcore
 half
 happy
 him
-him'
+him,'
 his
 hip
 hits

@@ -136,7 +136,7 @@ it's
 is
 icon
 71
-74
+7/4
 no
 not
 nose
@@ -166,8 +166,8 @@ dancer
 doesn't
 $1m
 4
-42
-14
+4.2
+1/4
 15
 leave
 ladbrokes
@@ -179,6 +179,6 @@ group
 greer
 gmt
 germaine
-21
+2/1
 0300
 quit

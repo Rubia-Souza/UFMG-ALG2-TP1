@@ -51,7 +51,7 @@ of
 out-selling
 odds
 27
-2000
+2,000
 2002
 years
 after

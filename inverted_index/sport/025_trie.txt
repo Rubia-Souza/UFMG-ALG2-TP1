@@ -130,7 +130,7 @@ not
 15
 1500m
 19
-10000m
+10,000m
 years
 until
 30-year-old
@@ -145,7 +145,7 @@ last
 long
 london
 lot
-5000m
+5,000m
 kenenisa
 very
 -

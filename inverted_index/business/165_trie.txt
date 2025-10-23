@@ -152,8 +152,8 @@ robert
 robust
 rising
 rises
-37%
-33%
+3.7%
+3.3%
 july
 jump
 just
@@ -187,8 +187,8 @@ mr
 month
 more
 means
-42%
-46%
+4.2%
+4.6%
 year
 yen
 york
@@ -206,6 +206,6 @@ next
 &
 2
 kerry
-800000
-16%
-175%
+800,000
+1.6%
+1.75%

@@ -292,7 +292,7 @@ race
 races
 rankings
 rabah
-1730m
+17.30m
 jump
 jumps
 jumper

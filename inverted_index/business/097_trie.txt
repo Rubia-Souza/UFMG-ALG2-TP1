@@ -191,9 +191,9 @@ november
 not
 negative
 need
-$12944
-$130
-$13006
+$1.2944
+$1.30
+$1.3006
 $166bn
 $427bn
 2100gmt
@@ -205,8 +205,8 @@ reaches
 rise
 rosy
 10
-10528
-10517
+105.28
+105.17
 makers
 makes
 major

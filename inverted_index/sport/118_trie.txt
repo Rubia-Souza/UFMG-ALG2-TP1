@@ -439,7 +439,7 @@ north
 non-champions
 name
 naming
-60000-seat
+60,000-seat
 2007
 2004
 £120m

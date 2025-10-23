@@ -132,7 +132,7 @@ mean
 1984
 16
 1%
-126%
+1.26%
 president
 price
 proposal

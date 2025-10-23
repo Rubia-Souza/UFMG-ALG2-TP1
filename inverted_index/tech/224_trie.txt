@@ -174,5 +174,5 @@ expects
 2010
 300bn
 yen
-$29bn
-£15bn
+$2.9bn
+£1.5bn

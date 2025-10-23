@@ -107,9 +107,9 @@ to
 tournament
 teams
 trade
-£154m
-£245m
-$294m
+£15.4m
+£24.5m
+$29.4m
 deals
 chelsea
 chief
@@ -136,5 +136,5 @@ years
 8%
 x
 150
-176%
-1155
+1.76%
+115.5

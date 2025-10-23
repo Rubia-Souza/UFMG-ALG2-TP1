@@ -84,7 +84,7 @@ chief
 cummings
 curtains
 cubic
-475%
+4.75%
 following
 football
 for
@@ -205,7 +205,7 @@ vehicle
 voted
 £800m
 £200m
-$15bn
+$1.5bn
 had
 has
 hand
@@ -227,7 +227,7 @@ jpmorgan
 300p
 12
 29%
-281%
+28.1%
 yet
 year
 known

@@ -146,7 +146,7 @@ lifted
 limit
 looks
 loans
-157000
+157,000
 month
 months
 month-to-month
@@ -162,9 +162,9 @@ meanwhile
 much
 2004's
 2005
-200000
-22
-225%
+200,000
+2.2
+2.25%
 years
 year's
 york
@@ -185,7 +185,7 @@ rates
 raising
 robust
 rises
-54%
+5.4%
 payroll
 prior
 proved
@@ -196,5 +196,5 @@ personal
 keeps
 kurt
 karl
-$87bn
+$8.7bn
 vary

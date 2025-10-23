@@ -165,7 +165,7 @@ was
 with
 withdrawn
 $200bn
-$190
+$1.90
 plans
 per
 pound
@@ -178,13 +178,13 @@ nations
 now
 not
 1300
-13187
-13%
-10416
+1.3187
+1.3%
+104.16
 gmt
 gunner
-09%
-05%
+0.9%
+0.5%
 japanese
 yen
 year

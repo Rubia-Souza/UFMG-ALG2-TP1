@@ -147,7 +147,7 @@ latest
 using
 uncovered
 417m
-$504m
+$50.4m
 £26m
 2003
 10%

@@ -42,7 +42,7 @@ it
 2005'
 2005's
 2004
-26
+2.6
 the
 they
 there
@@ -274,7 +274,7 @@ psp
 psps
 11%
 102-inch
-120000
+120,000
 kirsten
 key
 keynote

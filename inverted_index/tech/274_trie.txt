@@ -145,10 +145,10 @@ intel
 is
 istanbul
 $1m
-$15000
-$150000
-$50000
-$500000
+$15,000
+$150,000
+$50,000
+$500,000
 cash
 can
 competitions
@@ -193,4 +193,4 @@ next
 national
 qualifying
 qualifiers
-80000
+80,000

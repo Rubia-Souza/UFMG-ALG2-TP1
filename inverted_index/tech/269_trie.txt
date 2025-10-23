@@ -55,7 +55,7 @@ google
 group
 groups
 getting
-gartnerdownloaded
+gartner,downloaded
 has
 have
 hard

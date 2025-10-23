@@ -78,8 +78,8 @@ march
 most
 more
 2004
-2000
 2001
+2,000
 re
 record
 reach
@@ -112,7 +112,7 @@ cost
 $42bn
 $37bn
 $105bn
-£215bn
+£21.5bn
 £54bn
 losses
 lost

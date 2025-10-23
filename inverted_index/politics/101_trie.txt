@@ -37,7 +37,7 @@ rise
 rises
 reasonable
 rebanding
-rebandingwill
+rebanding...will
 resources
 reduce
 redistribution
@@ -214,9 +214,9 @@ davies
 disappointing
 discussions
 difficulty
-£32bn
-£74m
-£134m
+£3.2bn
+£7.4m
+£13.4m
 uk
 unavoidable
 up
@@ -259,4 +259,4 @@ north
 number
 years
 yet
-164%
+16.4%

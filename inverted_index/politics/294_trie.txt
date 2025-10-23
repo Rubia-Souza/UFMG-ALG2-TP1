@@ -70,10 +70,10 @@ until
 unacceptable
 understood
 up
-290000
+290,000
 23
 20th
-20000
+20,000
 members
 meeting
 march
@@ -152,7 +152,7 @@ force
 further
 five
 figures
-14
+1.4
 leader
 lectures
 rethink
@@ -172,6 +172,6 @@ disrupt
 departments
 deputy
 deal
-800000
-70000
+800,000
+70,000
 john

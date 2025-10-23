@@ -220,7 +220,7 @@ increasingly
 industry
 into
 institute
-instatmdr
+instat/mdr
 infrastructure
 important
 images

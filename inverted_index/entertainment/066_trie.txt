@@ -110,13 +110,13 @@ exhibitor
 entertainment
 end
 ends
-$94
-$625
-$580
+$9.4
+$6.25
+$5.80
 $1
 $10
 $110
-$125
+$1.25
 2
 2002
 2002's
@@ -157,7 +157,7 @@ inc
 increasing
 it's
 ignoring
-911
+9/11
 major
 many
 made

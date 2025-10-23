@@ -98,11 +98,11 @@ but
 better
 best
 vivancos
-764secs
-760secs
-762secs
-763secs
-004secs
+7.64secs
+7.60secs
+7.62secs
+7.63secs
+0.04secs
 grand
 got
 prix

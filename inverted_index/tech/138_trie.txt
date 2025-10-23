@@ -186,10 +186,10 @@ large
 late
 lacking
 light
-10
-10%
-10000
+1.0
 1998
+10%
+10,000
 web
 websidestory
 website
@@ -245,7 +245,7 @@ neat
 needed
 not
 november
-novemberearly
+november/early
 now
 name
 number
@@ -292,9 +292,9 @@ year
 years
 9
 95%
-947%
-929%
+94.7%
+92.9%
 keep
-$50000
-$250000
+$50,000
+$250,000
 2500

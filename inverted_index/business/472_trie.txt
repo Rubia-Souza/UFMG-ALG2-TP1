@@ -233,11 +233,11 @@ nu
 nations
 vice-director
 30
-126%
-12600
+12.6%
+12,600
 100
-440700
-4200
+440,700
+4,200
 xiluodi
 jinshajiang
 journalists

@@ -88,7 +88,7 @@ only
 one
 optimistic
 other
-21%
+2.1%
 2004
 2005
 225
@@ -139,8 +139,8 @@ pullback
 up
 us
 1997
-1174060
-10453
+11,740.60
+104.53
 news
 nikkei
 normally
@@ -154,8 +154,8 @@ demand
 decline
 despite
 during
-07%
-01%
+0.7%
+0.1%
 with
 within
 weak

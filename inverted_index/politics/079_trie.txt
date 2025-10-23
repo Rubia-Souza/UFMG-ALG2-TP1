@@ -244,7 +244,7 @@ non-british
 number
 11
 5
-50000
+50,000
 -
 date
 dates

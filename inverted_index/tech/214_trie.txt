@@ -184,7 +184,7 @@ requests
 response-time
 running
 junk
-100000
+100,000
 keep
 kicked
 knocked

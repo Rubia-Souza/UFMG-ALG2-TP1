@@ -229,9 +229,8 @@ video
 video-on-demand
 very
 variables
-20
 2005
-20000
+20,000
 2mbps
 25%
 22%

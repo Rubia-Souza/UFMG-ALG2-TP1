@@ -182,8 +182,8 @@ associate
 at
 available
 audiences
-£115m
-£1500
+£11.5m
+£1,500
 set
 selection
 server

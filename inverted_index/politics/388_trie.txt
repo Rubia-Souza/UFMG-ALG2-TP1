@@ -240,7 +240,7 @@ lishman
 live
 lives
 lib
-17m
+1.7m
 1997
 quadruple
 2050
@@ -258,7 +258,7 @@ risk
 right
 -
 kind
-80000
+80,000
 vision
 50%
-£100000
+£100,000

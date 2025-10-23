@@ -177,7 +177,7 @@ although
 also
 and
 angels
-angelsi
+angels...i
 ana
 any
 anywhere
@@ -255,7 +255,7 @@ badly
 baffling
 be
 best
-bestwe
+best...we
 beat
 beating
 beatles
@@ -766,7 +766,7 @@ did
 didn't
 digital
 division
-divisionthose
+division.those
 die
 diehard
 discos
@@ -893,8 +893,8 @@ rhapsody
 2004's
 year
 years
-yearsit's
-yearsperhaps
+years....it's
+years.perhaps
 year-old
 yeah
 yes
@@ -947,7 +947,7 @@ quarter
 10
 1995
 1980
-125000
+125,000
 'angels'
 'artists'
 'pop'

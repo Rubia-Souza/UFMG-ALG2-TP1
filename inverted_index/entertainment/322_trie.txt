@@ -103,7 +103,7 @@ events
 excited
 each
 near
-nmeradio
+nme/radio
 now
 uk
 gigs

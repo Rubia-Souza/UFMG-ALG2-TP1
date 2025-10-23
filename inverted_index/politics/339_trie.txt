@@ -93,7 +93,7 @@ print
 prevent
 policies
 policy
-100000
+100,000
 1%
 new
 needs
@@ -249,9 +249,9 @@ keep
 keith
 kind
 30%
-300000
+300,000
 vary
 vat
-£11000
+£11,000
 £42bn
 2010

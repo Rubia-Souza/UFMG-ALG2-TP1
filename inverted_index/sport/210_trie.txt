@@ -107,7 +107,7 @@ say
 says
 same
 search
-s&#227o
+s&#227;o
 skyscrapers
 scored
 small
@@ -294,8 +294,8 @@ edge
 expected
 'gandula'
 'the
-'tranquillity'
-'disorganized'
+'tranquillity.'
+'disorganized.'
 many
 maradona'
 martin

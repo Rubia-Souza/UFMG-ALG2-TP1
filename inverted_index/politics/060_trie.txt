@@ -198,7 +198,7 @@ from
 find
 fellow
 2005
-2000
+2,000
 year
 you
 your

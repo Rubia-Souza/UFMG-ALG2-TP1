@@ -186,13 +186,13 @@ younger
 killer'
 key
 20%
+200,000
 2000
-200000
 2008
 28
 1999
 684bn
-$64bn
-$27bn
+$6.4bn
+$2.7bn
 331bn
 vehicle

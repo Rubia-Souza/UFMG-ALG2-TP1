@@ -226,7 +226,7 @@ long-range
 lualua
 25-yard
 28
-20170
+20,170
 for
 forward
 first

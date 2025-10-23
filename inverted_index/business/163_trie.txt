@@ -186,8 +186,8 @@ bet
 between
 been
 broad
-03%
-08%
+0.3%
+0.8%
 -
 core
 costs
@@ -223,8 +223,8 @@ order
 out
 observed
 overshadowed
-942
-955
+94.2
+95.5
 volatile
 viewed
 500
@@ -234,7 +234,7 @@ health
 however
 high
 2004
-27%
+2.7%
 quinlan
 66%
 &

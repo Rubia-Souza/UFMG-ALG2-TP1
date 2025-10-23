@@ -216,9 +216,9 @@ cordoned
 city
 create
 2006
-£500000
-£340000
-£75000
+£500,000
+£340,000
+£75,000
 needed
 needs
 nearby

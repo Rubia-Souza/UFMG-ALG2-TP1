@@ -246,8 +246,8 @@ next
 need
 new
 xbox
-120000
-15
+120,000
+1.5
 11%
 runs
 rich
@@ -257,7 +257,7 @@ released
 really
 recorder
 6
-623
+6.23
 9
 january
 digital
@@ -283,4 +283,4 @@ quite
 2005
 kind
 key
-50000
+50,000

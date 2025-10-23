@@ -107,7 +107,7 @@ two
 turn
 14
 13
-10000
+10,000
 due
 damage
 despite

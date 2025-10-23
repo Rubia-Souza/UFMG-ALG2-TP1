@@ -142,8 +142,8 @@ reportedly
 recordings
 jail
 justice
-$250000
-£130000
+$250,000
+£130,000
 100
 13
 178

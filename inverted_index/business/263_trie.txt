@@ -156,8 +156,8 @@ but
 by
 bbc
 2000
-27000
-50000
+27,000
+50,000
 details
 detailing
 doubt

@@ -195,7 +195,7 @@ pcs
 purse
 pictures
 pleasant
-63000
+63,000
 have
 has
 had
@@ -207,9 +207,9 @@ helsinki
 hugh
 hundreds
 hold
-5000
+5,000
+5,800
 50%
-5800
 not
 norwegians
 now

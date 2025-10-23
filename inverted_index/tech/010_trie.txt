@@ -1,6 +1,6 @@
 google
-google'
 google's
+google?'
 giving
 given
 gillmor
@@ -104,7 +104,7 @@ and
 any
 another
 amazon
-amazoncom
+amazon.com
 amazon's
 also
 allow
@@ -196,7 +196,7 @@ publisher
 page
 pages
 paid
-paid'
+paid?'
 latest
 later
 link

@@ -113,7 +113,7 @@ early
 eighteen
 equity
 2005
-2935p
+293.5p
 gpw
 group
 gloves
@@ -127,7 +127,7 @@ not
 nothing
 news
 6%
-1675
+16.75
 pence
 products
 private

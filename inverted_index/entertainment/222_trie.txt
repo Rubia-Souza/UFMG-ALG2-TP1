@@ -33,7 +33,7 @@ centre
 more
 memorial
 magic
-1000
+1,000
 14
 1980s
 people
@@ -106,5 +106,5 @@ bush
 best-loved
 began
 $5m
-$600000
-£27m
+$600,000
+£2.7m

@@ -76,7 +76,7 @@ pro
 products
 pro's
 pc
-pcg-x505p
+pcg-x505/p
 pcs
 picked
 piece
@@ -169,5 +169,5 @@ year
 300d
 10
 10th
-13000
+13,000
 2003

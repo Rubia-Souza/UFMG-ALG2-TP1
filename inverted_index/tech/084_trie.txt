@@ -49,7 +49,7 @@ compatible
 compares
 compete
 competitive
-computerandvideogamescom
+computerandvideogames.com
 copy
 could
 catalogue
@@ -225,7 +225,7 @@ built-in
 buzz
 but
 bit
-28
+2.8
 2004
 japan
 just
@@ -235,7 +235,7 @@ john
 video
 very
 $149
-$26bn
+$2.6bn
 quite
 kart
 kit

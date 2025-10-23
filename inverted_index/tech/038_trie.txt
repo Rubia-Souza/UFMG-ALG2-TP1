@@ -73,7 +73,7 @@ said
 says
 succeeded
 suits
-suprnovaorg
+suprnova.org
 system
 systems
 similar
@@ -187,7 +187,7 @@ dallas
 direct
 dvds
 2004
-30000
+30,000
 you
 year
 edonkey

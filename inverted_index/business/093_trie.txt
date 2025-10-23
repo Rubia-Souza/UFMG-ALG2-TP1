@@ -22,8 +22,8 @@ crazy
 country
 country's
 could
-$1026bn
-$818bn
+$102.6bn
+$81.8bn
 $41bn
 debt
 deal
@@ -65,7 +65,7 @@ through
 thursday
 terms
 taken
-£5351bn
+£53.51bn
 restructuring
 results
 reside
@@ -154,8 +154,8 @@ nestor
 negotiations
 not
 3
-384%
-31%
+38.4%
+3.1%
 president
 plus
 past
@@ -163,10 +163,10 @@ kirchner
 -
 80%
 18
-156%
-103%
+15.6%
+10.3%
 1%
 40%
-91%
-51%
+9.1%
+5.1%
 japan

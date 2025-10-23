@@ -76,7 +76,7 @@ fear
 2
 24
 21st
-28
+2.8
 no
 now
 not
@@ -95,11 +95,11 @@ dominated
 ds
 $250
 £132
-800000
+800,000
 japan
 12cm
 11
-74cm
+7.4cm
 year
 years
 launch

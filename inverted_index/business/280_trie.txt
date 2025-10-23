@@ -102,8 +102,8 @@ been
 has
 have
 however
-12000
-25
+12,000
+2.5
 20
 years
 delivered
@@ -115,4 +115,4 @@ rest
 kain
 value
 $10bn
-£53bn
+£5.3bn

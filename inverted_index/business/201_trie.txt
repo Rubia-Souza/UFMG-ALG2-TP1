@@ -62,8 +62,8 @@ deal
 departments
 development
 do
-565bn
-5785
+5.65bn
+57.85
 euros
 eon
 each
@@ -73,11 +73,11 @@ expected
 expensive
 expires
 exactly
-$74bn
+$7.4bn
 $31
 $200m
 $5bn
-£39bn
+£3.9bn
 of
 offered
 overtake
@@ -159,7 +159,7 @@ rose
 rivals
 2005
 2004
-677%
+67.7%
 cost
 company
 compensate

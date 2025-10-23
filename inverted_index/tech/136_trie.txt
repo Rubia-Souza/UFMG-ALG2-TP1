@@ -150,7 +150,7 @@ limited
 limitations
 lost
 less
-50000
+50,000
 -
 0870
 retail
@@ -160,6 +160,6 @@ jupiter
 jump
 quiet
 10%
-13
+1.3
 year
 40%

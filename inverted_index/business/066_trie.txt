@@ -146,8 +146,8 @@ to
 top
 taken
 trade
-955
-975
+95.5
+97.5
 january
 decline
 despite
@@ -182,11 +182,11 @@ unions
 very
 value
 volkswagen
-16%
+1.6%
 10%
 year
 2003
 2004
 2%
-02%
+0.2%
 negotiating

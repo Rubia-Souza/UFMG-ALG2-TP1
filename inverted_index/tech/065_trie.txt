@@ -202,7 +202,7 @@ get
 2
 venture
 $2m
-£104m
+£1.04m
 50
 employees
 employs
@@ -210,5 +210,5 @@ every
 everything
 even
 experience
-7600
+7,600
 -

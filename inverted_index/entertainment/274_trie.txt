@@ -17,7 +17,7 @@ deeley
 dec
 december
 drops
-cduk
+cd:uk
 cat
 children's
 concentrate
@@ -68,7 +68,7 @@ stars
 stand
 some
 supported
-smtv
+sm:tv
 series
 morning
 music

@@ -50,7 +50,7 @@ semi-finalists
 season
 saturday
 stoke
-stockportswansea
+stockport/swansea
 strugglers
 scunthorpe
 sunday
@@ -59,7 +59,7 @@ sheff
 sheffield
 southampton
 swindon
-swindonnotts
+swindon/notts
 spurs
 united
 utd
@@ -111,7 +111,7 @@ gillingham
 -
 highlight
 hinckley
-hinckleybrentford
+hinckley/brentford
 holders
 home
 host
@@ -178,7 +178,7 @@ either
 knocked
 keynes
 january
-89
+8/9
 v
 visit
 villa

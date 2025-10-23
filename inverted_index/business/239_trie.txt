@@ -11,8 +11,8 @@ hit
 halifax
 halifax's
 has
-£33
-£163748
+£3.3
+£163,748
 trillion
 triple
 to
@@ -141,4 +141,4 @@ january
 group
 grow
 growth
-08%
+0.8%

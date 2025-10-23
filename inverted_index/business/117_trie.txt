@@ -173,7 +173,8 @@ enjoyed
 environment
 even
 $1bn
-24bn
+2.4bn
+2.5bn
 2003
 2003's
 2006
@@ -181,7 +182,6 @@ $1bn
 2005
 20m
 2%
-25bn
 woes
 workers
 works
@@ -222,14 +222,14 @@ us
 3bn
 year
 46%
-47
-475m
+4.7
 4%
 400m
-16bn
-15%
+475m
+1.6bn
+1.5%
+1.4bn
 10%
-14bn
 142bn
 new
 news

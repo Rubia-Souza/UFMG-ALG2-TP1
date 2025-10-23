@@ -150,8 +150,8 @@ news
 north
 year
 years
+$7,500
 $75
-$7500
 $24m
 were
 will
@@ -166,7 +166,7 @@ least
 quoted
 guilty
 general
-100000
+100,000
 15
 30
 kilgore

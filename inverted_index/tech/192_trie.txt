@@ -58,8 +58,8 @@ india
 indian
 india's
 industry
-in-statmdr
-in-statmdr's
+in-stat/mdr
+in-stat/mdr's
 innovative
 infrastructure
 is
@@ -121,7 +121,7 @@ echoes
 economies
 $26m
 $336m
-£138m
+£13.8m
 £178m
 by
 bypass
@@ -151,9 +151,9 @@ under-25s
 urban
 up
 uptake
-14
+1.4
 10
-449
+44.9
 number
 next
 not

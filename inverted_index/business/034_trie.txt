@@ -26,9 +26,9 @@ car
 carmaker
 close
 crucial
-2000
-20%
+2,000
 25
+20%
 job
 jobs
 jobs'
@@ -178,6 +178,6 @@ very
 venture
 view
 £1bn
-$19bn
+$1.9bn
 &
 quotes

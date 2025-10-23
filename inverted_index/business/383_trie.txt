@@ -137,7 +137,7 @@ is
 2004
 2001
 2003
-225%
+2.25%
 december
 depressed
 deficits
@@ -155,8 +155,8 @@ points
 pound
 potentially
 percentage
-$13270
-$18832
+$1.3270
+$1.8832
 euro
 excessive
 early
@@ -172,7 +172,7 @@ just
 jason
 100
 14
-125
+1.25
 1%
 nasdaq
 not
@@ -185,4 +185,4 @@ hit
 has
 quarters
 46-year
-911
+9/11

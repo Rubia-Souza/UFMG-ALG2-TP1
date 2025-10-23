@@ -203,8 +203,8 @@ government
 government's
 get
 general
-104000
-6000
+104,000
+6,000
 expected
 education
 essential
@@ -212,7 +212,7 @@ evans
 even
 employer
 employed
-2000
+2,000
 held
 help
 healthcare

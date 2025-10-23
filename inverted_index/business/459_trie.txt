@@ -162,11 +162,11 @@ retail
 roger
 robust
 3%
-35%
+3.5%
+3.25%
 30
-325%
 4%
-475%
+4.75%
 quarterly
 quickly
 near

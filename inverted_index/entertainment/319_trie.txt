@@ -94,6 +94,7 @@ he
 her
 hugely
 19
+1.9
 15
 entertainment
 enterprises
@@ -136,9 +137,9 @@ us
 using
 up
 $156m
-£815m
-£645m
-£192m
+£81.5m
+£64.5m
+£19.2m
 deal
 develop
 drive

@@ -140,9 +140,9 @@ predicting
 policy
 picks
 public
-01%
-03%
-02%
+0.1%
+0.3%
+0.2%
 -
 us
 usual
@@ -173,9 +173,9 @@ became
 been
 quarter
 1990s
-11%
+1.1%
 kept
 knocked
 year
-63%
+6.3%
 2%

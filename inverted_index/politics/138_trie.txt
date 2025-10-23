@@ -170,7 +170,7 @@ does
 dropped
 differ
 10th
-10276
+10,276
 year
 qualified
 quality
@@ -181,11 +181,11 @@ generally
 922
 2003
 2002
-£385m
-£357m
+£38.5m
+£35.7m
 £808m
 £644m
 52m
 831
-8177
+8,177
 jorg

@@ -71,7 +71,7 @@ five
 failed
 from
 $10
-£54
+£5.4
 a
 any
 angeles

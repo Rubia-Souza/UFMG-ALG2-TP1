@@ -99,7 +99,7 @@ pattern
 patterns
 pages
 george
-georgewbushcom
+georgewbush.com
 geographic
 get
 good

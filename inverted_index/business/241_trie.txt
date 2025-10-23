@@ -164,7 +164,7 @@ help
 how
 hurdle
 his
-hivaids
+hiv/aids
 to
 towards
 told
@@ -334,11 +334,11 @@ excess
 economies
 economic
 $10bn
-$11bn
-$46bn
+$1.1bn
+$4.6bn
 $50bn
-£538bn
-£2669bn
+£5.38bn
+£26.69bn
 july
 john
 japan

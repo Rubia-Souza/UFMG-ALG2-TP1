@@ -141,10 +141,10 @@ economist
 expectations
 exports
 expressed
-025%
-02%
-01%
-55%
+0.25%
+0.2%
+0.1%
+5.5%
 upwards
 unemployment
 unreasonable
@@ -178,9 +178,9 @@ within
 2003
 2004
 2000-1
-26%
+2.6%
 2-3%
-294bn
+29.4bn
 parties
 pressures
 properly
@@ -188,7 +188,7 @@ peter
 post-election
 just
 july
-15%
+1.5%
 -
 value
 very

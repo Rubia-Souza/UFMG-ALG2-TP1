@@ -176,9 +176,9 @@ from
 feasible
 following
 full
-25
-25m
-200000
+2.5
+2.5m
+200,000
 2003
 2004
 size

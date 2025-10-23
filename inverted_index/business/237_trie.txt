@@ -33,7 +33,7 @@ them
 this
 to
 two
-800000
+800,000
 society
 society's
 share
@@ -82,7 +82,7 @@ largest
 last
 least
 less
-100000
+100,000
 1997
 depending
 deposit

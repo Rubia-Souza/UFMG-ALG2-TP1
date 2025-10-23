@@ -81,7 +81,7 @@ coordination
 country
 confirmed
 120
-140000
+140,000
 with
 would
 worst
@@ -141,7 +141,7 @@ morning's
 most
 moment
 meeting
-94000
+94,000
 northern
 need
 up

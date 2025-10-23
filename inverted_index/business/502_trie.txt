@@ -130,7 +130,7 @@ change
 centred
 close
 200
-$277
+$2.77
 170
 100
 up

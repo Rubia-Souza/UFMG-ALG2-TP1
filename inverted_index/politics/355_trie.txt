@@ -217,7 +217,7 @@ ahead
 afghanistan
 afford
 £10bn
-£100000
+£100,000
 £1bn
 £520m
 £500m

@@ -62,7 +62,7 @@ there
 three
 up
 ukraine
-2597m
+259.7m
 2004
 2005
 euros
@@ -70,8 +70,8 @@ europe
 employs
 expected
 eight
-$3533m
-£18375m
+$353.3m
+£183.75m
 venture
 voting
 volzhsky
@@ -104,13 +104,13 @@ partner
 pacific
 people
 perm
-77000
+77,000
 30
 leuven-based
-973%
-988%
+97.3%
+98.8%
 quarter
-8000
+8,000
 -
 klin
 kursk

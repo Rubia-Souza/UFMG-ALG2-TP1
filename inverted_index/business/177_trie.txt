@@ -158,8 +158,8 @@ from
 fundamentals
 future
 6%
-£2802m
-£4507m
+£280.2m
+£450.7m
 $532m
 19%
 new
@@ -175,6 +175,6 @@ years
 key
 22%
 4%
-4585p
-3255p
+458.5p
+325.5p
 visitor

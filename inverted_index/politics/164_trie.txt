@@ -149,7 +149,7 @@ victims
 variety
 killed
 koh
-150000
+150,000
 11
 reconstruction
 response

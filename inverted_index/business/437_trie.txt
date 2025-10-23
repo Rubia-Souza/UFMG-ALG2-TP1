@@ -129,7 +129,7 @@ anti-smoking
 according
 american
 administration
-addsince
+add...since
 as
 are
 approval
@@ -198,7 +198,7 @@ valuable
 xing
 xing's
 350
-17
+1.7
 year
 young
 yuan
@@ -212,8 +212,8 @@ unpopular
 2006
 2000
 210bn
-$15bn
-$254bn
+$1.5bn
+$25.4bn
 £800m
 later
 latest

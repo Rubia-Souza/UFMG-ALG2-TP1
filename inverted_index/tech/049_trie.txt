@@ -206,7 +206,7 @@ prove
 precedent
 passwords
 paypal
-paypalcom
+paypal.com
 people
 perfectly
 point

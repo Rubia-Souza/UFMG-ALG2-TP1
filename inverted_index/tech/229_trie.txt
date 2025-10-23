@@ -322,9 +322,9 @@ image
 important
 ipod-type
 it
-21
 21st
 2005
+2.1
 leaf-like
 leading
 legs
@@ -385,8 +385,8 @@ year
 years
 yet
 you
-135kmh
-083mph
+1.35km/h
+0.83mph
 -
 'who'
 'personal

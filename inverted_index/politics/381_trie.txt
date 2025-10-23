@@ -87,8 +87,8 @@ mori
 most
 mail
 makers
-2000
-2234
+2,000
+2,234
 24%
 26%
 number

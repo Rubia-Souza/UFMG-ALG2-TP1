@@ -20,10 +20,10 @@ media
 murdoch
 move
 more
-$54bn
+$5.4bn
 $12bn
-$1765
-$3122
+$17.65
+$31.22
 fox
 fox's
 for
@@ -85,7 +85,7 @@ australia
 at
 attract
 after
-£37bn
+£3.7bn
 run
 rupert
 register
@@ -122,8 +122,8 @@ will
 was
 were
 puts
+1.90
 19
-190
 list
 listing
 largest

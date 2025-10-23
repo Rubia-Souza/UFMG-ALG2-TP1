@@ -177,8 +177,8 @@ so
 significant
 service
 seen
-1300
-1324
+1,300
+1,324
 11%
 bosses
 both
@@ -237,4 +237,4 @@ just
 54%
 quality
 kill
-$130
+$1.30

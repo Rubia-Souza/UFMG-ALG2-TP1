@@ -262,7 +262,7 @@ rock
 ryan
 19-year-old
 13-date
-1400
+1,400
 11pm
 -
 venue

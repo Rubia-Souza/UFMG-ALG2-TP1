@@ -75,7 +75,7 @@ both
 box
 be
 12%
-112%
+11.2%
 year
 enabled
 for
@@ -92,7 +92,7 @@ managed
 main
 million
 multi-channel
-96%
+9.6%
 in
 including
 its
@@ -104,12 +104,12 @@ while
 2002
 2005
 20%
-286%
+28.6%
 viewers
 pull
 point
 portion
 proportion
 quarter
-63%
+6.3%
 growth

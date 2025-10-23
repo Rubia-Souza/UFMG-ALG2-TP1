@@ -155,7 +155,7 @@ shrek
 shops
 show
 system
-£134bn
+£1.34bn
 7%
 figures
 first
@@ -212,7 +212,7 @@ yet
 job
 just
 1
-175
+1.75
 16
 nine
 no
@@ -232,13 +232,13 @@ has
 he
 how
 however
-600000
+600,000
 leisure
 linked
 list
 lord
 9
 3
-379%
+37.9%
 xbox
 47%

@@ -160,11 +160,11 @@ extract
 early
 effective
 english
-50000
-85000
-85p
-81%
+50,000
+85,000
+8.5p
+8.1%
 2005
 qualifying
 year
-1135p
+113.5p

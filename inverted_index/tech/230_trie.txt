@@ -26,7 +26,7 @@ get
 group
 glowing
 commuters
-come'
+come?'
 cosmetics
 city
 can
@@ -167,7 +167,7 @@ especially
 established
 equipped
 video
-12500
+12,500
 question
 'if
 know

@@ -243,11 +243,11 @@ millions
 mr
 justify
 30
-$11bn
-$14bn
+$1.1bn
+$1.4bn
 £581m
 10%
 18
 kim
 knowing
-56000
+56,000

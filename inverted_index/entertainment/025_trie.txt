@@ -63,7 +63,7 @@ announced
 announcement
 am
 amazon's
-amazoncouk
+amazon.co.uk
 after
 africa
 ahead
@@ -146,7 +146,7 @@ zealand
 ever
 excited
 end
-420000
+420,000
 queues
 year
 years

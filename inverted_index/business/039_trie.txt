@@ -82,12 +82,12 @@ exchange
 encouraging
 pay
 per
-48142m
+481.42m
 yuan
 yantai
 years
-$5816m
-£307m
+$58.16m
+£30.7m
 government
 growing
 deal
@@ -100,7 +100,7 @@ us
 up
 2003
 25%
-611bn
+61.1bn
 &
 newcastle
 now
@@ -115,4 +115,4 @@ remaining
 retained
 just
 japan
-022
+0.22

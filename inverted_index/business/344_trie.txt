@@ -115,7 +115,7 @@ rise
 euro
 europe
 european
-eurodollar
+euro/dollar
 economy
 economic
 economies
@@ -153,10 +153,10 @@ g7
 government
 governments
 going
-$13516
-$13509
-$120
-$140
+$1.3516
+$1.3509
+$1.20
+$1.40
 in
 indicate
 intervene
@@ -239,8 +239,8 @@ president
 policy
 publicly
 just
-02%
-08%
+0.2%
+0.8%
 2002
 2005
 quiet

@@ -147,7 +147,7 @@ drew
 14-year-old
 10s
 100s
-1000s
+1,000s
 boys
 bedrooms
 because
@@ -422,12 +422,12 @@ yet
 years
 you
 your
-4300
+4,300
 use
 users
 updated
 unobtrusive
 50
 60
-70000
-$4000
+70,000
+$4,000

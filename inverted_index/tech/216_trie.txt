@@ -337,7 +337,7 @@ kids
 know
 keynote
 -
-50000
+50,000
 26-inch
 80-hour
 100-hours

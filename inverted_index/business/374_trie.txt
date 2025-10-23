@@ -158,9 +158,9 @@ mr
 meeting
 jumpy
 january
-$13652
-$13667
-10255
+$1.3652
+$1.3667
+102.55
 yen
 yesterday
-612
+61.2

@@ -297,7 +297,7 @@ not
 need
 news
 nations
-150000
+150,000
 158
 1130
 1215
@@ -311,7 +311,7 @@ lanka
 last
 leader
 £50m
-£158bn
+£1.58bn
 £76m
 you
 $3bn

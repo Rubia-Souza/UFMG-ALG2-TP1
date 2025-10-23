@@ -98,7 +98,7 @@ fantastic
 flu
 february
 from
-10000
+10,000
 14
 scottish
 secc

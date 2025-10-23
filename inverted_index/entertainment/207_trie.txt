@@ -55,7 +55,7 @@ burrell
 blackburn
 birmingham
 4m
-492%
+49.2%
 finale
 first
 four
@@ -127,11 +127,11 @@ hottest
 hosts
 his
 history
-109
-109m
-119m
-153m
-123
+10.9
+10.9m
+11.9m
+15.3m
+12.3
 viewers
 viewing
 vote
@@ -167,7 +167,7 @@ watch
 wants
 we've
 west
-622%
+62.2%
 kerry
 known
 nightclub

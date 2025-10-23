@@ -113,12 +113,12 @@ paying
 past
 parent
 picked
-$68bn
+$6.8bn
 $16bn
 $180bn
 $11bn
 $250m
-£36bn
+£3.6bn
 reports
 results
 rationale
@@ -188,7 +188,7 @@ gone
 global
 year
 2002
-20000
+20,000
 jobs
 keep
 -

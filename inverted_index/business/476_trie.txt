@@ -94,7 +94,7 @@ with
 within
 will
 84%
-800000
+800,000
 price
 previously
 products

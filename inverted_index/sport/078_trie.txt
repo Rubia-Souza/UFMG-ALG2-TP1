@@ -97,7 +97,7 @@ field
 finish
 felt
 for
-66km
+6.6km
 race
 rival
 reigning
@@ -107,10 +107,10 @@ opposition
 on
 portuguese
 38
-3141
-3026
-3322
-106km
-10500m
+31:41
+30.26
+33.22
+10.6km
+10,500m
 -
 never

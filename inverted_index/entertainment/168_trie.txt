@@ -155,7 +155,7 @@ generated
 20
 2004
 27
-2881
+2,881
 during
 drugs
 deliberately
@@ -169,7 +169,7 @@ rights
 -
 kids
 kedas
-3056
+3,056
 nudity
 no
 network
@@ -185,4 +185,4 @@ quick
 janet
 jackson's
 jeannie
-500000
+500,000

@@ -223,7 +223,7 @@ year
 years
 25%
 90
-9000
+9,000
 waste
 want
 wages

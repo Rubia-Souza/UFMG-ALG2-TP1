@@ -75,8 +75,8 @@ is
 ireland
 2005
 2004
-22%
-25%
+2.2%
+2.5%
 a
 according
 account
@@ -140,8 +140,8 @@ largest
 lead
 likely
 year
-46%
-425%
+4.6%
+4.25%
 for
 forecasts
 forecasting
@@ -153,9 +153,9 @@ from
 fragile
 fragility
 12
-18%
-19%
-14%
+1.8%
+1.9%
+1.4%
 1%
 zone
 put
@@ -187,9 +187,9 @@ headline
 hand
 volatility
 view
-02%
+0.2%
 quarter
 3%
-32%
+3.2%
 'wait
 5%

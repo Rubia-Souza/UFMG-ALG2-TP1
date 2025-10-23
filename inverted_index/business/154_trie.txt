@@ -74,8 +74,8 @@ are
 area
 about
 accordingly
-£21bn
-£105bn
+£2.1bn
+£10.5bn
 £400m
 in
 invest
@@ -182,7 +182,7 @@ january
 jonathan
 very
 vote-catching
-19989
-200506
-200405
+1998/9
+2005/06
+2004/05
 uk

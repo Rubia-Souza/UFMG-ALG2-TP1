@@ -10,7 +10,7 @@ bekele's
 but
 battled
 back
-5000m
+5,000m
 500m
 world
 women's
@@ -64,7 +64,7 @@ games
 get
 go
 14
-143929
+14:39.29
 minutes
 mine
 miscounted
@@ -73,8 +73,8 @@ mark
 matter
 made
 men's
-3293
-3000m
+32.93
+3,000m
 previous
 pace
 plan
@@ -102,10 +102,10 @@ heptathlon
 his
 had
 finish
-73989
-74142
+7:39.89
+7:41.42
 jolanda
 jump
-663m
+6.63m
 800m
-20152
+2:01.52

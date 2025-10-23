@@ -136,7 +136,7 @@ until
 up
 v
 last
-20000
+20,000
 0-0
 -
 you

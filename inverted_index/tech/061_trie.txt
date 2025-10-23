@@ -137,7 +137,7 @@ had
 have
 has
 he
-2000
+2,000
 people
 percent
 personal

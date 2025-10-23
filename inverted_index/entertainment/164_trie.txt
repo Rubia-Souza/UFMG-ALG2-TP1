@@ -78,9 +78,9 @@ up
 us
 unreleased
 $1m
-$500000
-£535000
-£267000
+$500,000
+£535,000
+£267,000
 of
 other
 organisers

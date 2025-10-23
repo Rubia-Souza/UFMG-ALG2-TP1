@@ -189,8 +189,8 @@ not
 norwich
 now
 -
-002
-987
+0.02
+9.87
 energy
 else
 up
@@ -199,6 +199,6 @@ know
 kansas
 4x100m
 60m
-639
+6.39
 young
 you've

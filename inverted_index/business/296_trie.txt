@@ -253,5 +253,5 @@ governed
 -
 27
 85%
-15
+1.5
 vulnerable

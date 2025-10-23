@@ -168,7 +168,7 @@ running
 rpgs
 play
 playing
-playingor
+playing..or
 played
 player
 players
@@ -178,7 +178,7 @@ people
 perform
 perhaps
 perspective
-person&#191s
+person&#191;s
 period
 peak
 popular
@@ -406,6 +406,7 @@ everyone
 everything
 everquest
 evercrack
+ever[crack
 evermore
 even
 evening
@@ -494,7 +495,7 @@ share
 sharing
 she
 shut
-shiftswaking
+shifts...waking
 substance
 subsequently
 such
@@ -889,7 +890,7 @@ used
 11
 20
 24
-247
+24/7
 24hours
 2pm
 23
@@ -898,9 +899,9 @@ used
 3am
 4
 40
-400000
+400,000
 5am
-5pm
-730am
+5:pm
+7:30am
 £800
 xbox

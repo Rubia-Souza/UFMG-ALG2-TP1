@@ -98,7 +98,7 @@ city
 crossing
 credit
 chevrontexaco
-$12bn
+$1.2bn
 $900m
 will
 was
@@ -127,7 +127,7 @@ integration
 investment
 is
 important
-750000
+750,000
 daily
 dardanelles
 delayed

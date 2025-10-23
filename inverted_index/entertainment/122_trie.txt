@@ -121,7 +121,7 @@ admitted
 added
 album
 albums
-album'
+album?'
 always
 although
 already
@@ -362,8 +362,8 @@ just
 joie
 jolly
 2002
-250000
-360000
+250,000
+360,000
 valium
 vivre
 zoe

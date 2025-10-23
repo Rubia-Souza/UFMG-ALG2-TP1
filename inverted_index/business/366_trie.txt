@@ -84,9 +84,9 @@ a
 australian
 australia's
 at
-a$717
-a$824
-a$635
+a$7.17
+a$8.24
+a$6.35
 against
 analyst
 analysts
@@ -136,7 +136,7 @@ up
 uranium
 uk
 30%
-74bn
+7.4bn
 dollar
 documents
 defence
@@ -145,7 +145,7 @@ details
 daiwa
 dam
 directors
-$58bn
+$5.8bn
 £3bn
 now
 not

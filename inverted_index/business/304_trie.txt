@@ -97,7 +97,7 @@ from
 10-year
 110
 135
-190
+1.90
 departure
 defence
 develop
@@ -154,11 +154,11 @@ january
 2003
 2006
 25%
-220
-75000
+2.20
+75,000
 $10m
 $133m
-£192m
+£19.2m
 quarter
 year
 65

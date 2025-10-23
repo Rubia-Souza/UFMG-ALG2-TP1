@@ -42,7 +42,7 @@ lost
 loan
 looks
 likely
-$13bn
+$1.3bn
 $320m
 $50m
 faces
@@ -121,7 +121,7 @@ meets
 mr
 millions
 much
-30000
+30,000
 of
 on
 one
@@ -158,7 +158,7 @@ up
 us
 19
 12
-150000
+150,000
 100
 january
 nations

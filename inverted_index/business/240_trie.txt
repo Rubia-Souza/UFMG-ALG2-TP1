@@ -132,11 +132,11 @@ however
 held
 hemington
 1997
-1025
-1022
-1008
-1080
-1100
+102.5
+102.2
+100.8
+108.0
+110.0
 will
 with
 we
@@ -158,6 +158,6 @@ quarter
 quarters
 january
 jolt
-29%
+2.9%
 2005
 8

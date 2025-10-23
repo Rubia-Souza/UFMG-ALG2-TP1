@@ -84,7 +84,7 @@ affairs
 attorney
 admitted
 chancellor
-chancellorno
+chancellor...no
 chancellors
 chancellor's
 change
@@ -151,7 +151,7 @@ remaining
 rather
 role
 is
-iswhether
+is...whether
 it
 its
 in

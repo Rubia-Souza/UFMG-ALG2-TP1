@@ -90,7 +90,7 @@ made
 may
 managing
 means
-30000
+30,000
 3bn
 people
 people's
@@ -107,7 +107,7 @@ estimated
 even
 extending
 existing
-136%
+13.6%
 clients
 customers
 collateral

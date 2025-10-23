@@ -154,7 +154,7 @@ play
 passed
 phenomenal
 popularity
-8500
+8,500
 vehicles
 very
 visited
@@ -164,9 +164,9 @@ has
 he
 heaving
 1130
-150000
-100000
-140000
+150,000
+100,000
+140,000
 1900
 gmt
 glasgow
@@ -179,7 +179,7 @@ kent
 jon
 jones
 2%
-200000
+200,000
 year
 £200m
 -

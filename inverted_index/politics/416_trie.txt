@@ -161,7 +161,7 @@ voters
 voting
 vaunted
 2001
-20645
+20,645
 folkestone
 for
 fees
@@ -169,6 +169,6 @@ free
 favour
 face
 &
-14738
-5907
+14,738
+5,907
 just

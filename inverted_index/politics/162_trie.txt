@@ -140,7 +140,7 @@ far
 fatal
 factories
 full
-1500
+1,500
 1999
 job
 jobs

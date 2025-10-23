@@ -102,7 +102,7 @@ received
 religions
 remote
 report
-47000
+47,000
 and
 any
 anyone

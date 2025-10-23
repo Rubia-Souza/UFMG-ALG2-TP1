@@ -235,7 +235,7 @@ key
 -
 not
 number
-$275bn
-$94bn
-£145bn
+$27.5bn
+$9.4bn
+£14.5bn
 vast

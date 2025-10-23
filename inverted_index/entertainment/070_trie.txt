@@ -94,7 +94,7 @@ mccourt
 made
 mum
 my
-6000
+6,000
 in
 interactive
 international

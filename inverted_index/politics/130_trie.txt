@@ -100,7 +100,7 @@ unrest
 uk
 his
 historic
-hivaids
+hiv/aids
 half
 have
 has
@@ -234,8 +234,8 @@ year
 years
 yet
 justice
-07%
+0.7%
 34
 know
-£125bn
-£15bn
+£1.25bn
+£1.5bn

@@ -28,9 +28,9 @@ fraud
 fund
 funds
 $9bn
-$937bn
+$9.37bn
 $27bn
-$17bn
+$1.7bn
 at
 auction
 authorities
@@ -287,9 +287,9 @@ sought
 slightly
 surprise
 surprises
-26075bn
-24675bn
-£48bn
+260.75bn
+246.75bn
+£4.8bn
 -
 now
 nowhere

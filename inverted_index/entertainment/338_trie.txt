@@ -43,9 +43,9 @@ advanced
 azkaban
 accounted
 amounted
-38%
-307bn
-375%
+3.8%
+30.7bn
+37.5%
 310
 last
 led
@@ -81,11 +81,11 @@ second
 2004
 2003
 287
-£108bn
+£1.08bn
 £102m
 £157m
-£707m
-£254bn
+£70.7m
+£2.54bn
 movie
 movies
 moving
@@ -115,7 +115,7 @@ picture
 potter
 pocket
 170
-138bn
+13.8bn
 nemo
 number
 king
@@ -123,7 +123,7 @@ drama
 dvd
 generation
 gain
-625%
-45%
+62.5%
+4.5%
 497bn
 video

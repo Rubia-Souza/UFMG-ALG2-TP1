@@ -198,7 +198,7 @@ not
 now
 number
 -
-60000-seater
+60,000-seater
 grove
 growing
 go
@@ -206,7 +206,7 @@ got
 good
 game
 games
-200607
+2006/07
 29%
 premier
 premiership
@@ -233,7 +233,7 @@ yet
 40%
 united
 10
-199293
+1992/93
 quality
 quantity
 japan

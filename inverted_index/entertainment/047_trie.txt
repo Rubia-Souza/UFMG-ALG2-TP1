@@ -119,7 +119,7 @@ is
 in
 including
 influence
-1200
+1,200
 nominated
 now
 joined

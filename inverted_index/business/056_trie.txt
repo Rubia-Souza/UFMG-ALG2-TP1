@@ -79,8 +79,8 @@ launch
 launching
 10%
 100
-14800
-150000
+14,800
+150,000
 15%
 16%
 11%
@@ -97,8 +97,8 @@ year
 2005
 2003
 2008
-26%
-23%
+2.6%
+2.3%
 carmaker
 cars
 car-making
@@ -138,9 +138,9 @@ prospects
 panke
 pay
 3-series
-36%
-95000
+3.6%
+95,000
 up
-80600
+80,600
 just
 executive

@@ -169,7 +169,7 @@ made
 makes
 mr
 12
-1056
+105.6
 countries
 concern
 concerned
@@ -197,7 +197,7 @@ junya
 jpmorgan
 john
 joaquin
-$129
+$1.29
 yen
 prices
 produce

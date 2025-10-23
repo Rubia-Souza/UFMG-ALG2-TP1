@@ -135,10 +135,10 @@ reported
 reports
 ready
 rejected
-£15bn
-£13bn
-£14bn
-$29bn
+£1.5bn
+£1.3bn
+£1.4bn
+$2.9bn
 german
 530
 pence-per-share

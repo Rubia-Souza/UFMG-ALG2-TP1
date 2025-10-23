@@ -173,8 +173,8 @@ resort
 refugees
 range
 rise
+2,000
 20
-2000
 2005
 business
 but
@@ -239,12 +239,12 @@ hitting
 his
 however
 3
-700000
+700,000
 -
-440000
+440,000
 12%
-100000
-58
+100,000
+5.8
 500
 needed
 new

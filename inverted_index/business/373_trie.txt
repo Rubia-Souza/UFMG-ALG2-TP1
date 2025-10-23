@@ -71,8 +71,8 @@ able
 added
 also
 15%
-1770
-1660
+17.70
+16.60
 it
 in
 is
@@ -106,7 +106,7 @@ k2
 euros
 european
 equipment
-78%
+7.8%
 value
 dollar
 years

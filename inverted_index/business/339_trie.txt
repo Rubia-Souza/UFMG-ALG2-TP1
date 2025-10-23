@@ -27,7 +27,7 @@ symbol
 siemens
 silk
 such
-$18bn
+$1.8bn
 $50m
 air
 airbus

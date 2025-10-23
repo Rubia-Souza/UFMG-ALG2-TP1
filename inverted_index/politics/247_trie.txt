@@ -77,7 +77,7 @@ stand
 stage
 suspects
 some
-2000
+2,000
 people
 people's
 part

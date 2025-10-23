@@ -175,8 +175,8 @@ unless
 13
 1997
 128
-14000
-40000
+14,000
+40,000
 notice
 notices
 now
@@ -216,5 +216,5 @@ just
 -
 year
 youngsters
-31000
+31,000
 very

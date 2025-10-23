@@ -230,7 +230,7 @@ hungry
 use
 users
 2000
-25
+2.5
 giant
 get
 grail

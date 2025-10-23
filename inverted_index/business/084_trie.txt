@@ -23,7 +23,7 @@ some
 standard
 sparked
 $16bn
-$166bn
+$16.6bn
 $327
 $45bn
 home
@@ -65,7 +65,7 @@ reasons
 reached
 rating
 rise
-£882bn
+£8.82bn
 year
 bank
 banks
@@ -116,7 +116,7 @@ fees
 for
 from
 50
-509
+50.9
 value
 &
 debt

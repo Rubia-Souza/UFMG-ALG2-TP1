@@ -122,8 +122,8 @@ believe
 been
 but
 $500m
-$1044
-$11bn
+$10.44
+$1.1bn
 $984m
 $48m
 end
@@ -158,7 +158,7 @@ payments
 pension
 group
 gmt
-687%
+6.87%
 1830
 11
 year

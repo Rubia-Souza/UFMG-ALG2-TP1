@@ -181,6 +181,6 @@ random
 rubin
 run
 -
-$1000
+$1,000
 £535
 under

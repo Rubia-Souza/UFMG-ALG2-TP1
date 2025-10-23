@@ -154,7 +154,7 @@ system
 situation
 just
 £50
-£10849
+£108.49
 £100
 other
 out
@@ -186,7 +186,7 @@ existing
 expect
 establish
 emerges
-50000
+50,000
 in
 is
 it
@@ -201,4 +201,4 @@ director
 directors
 differently
 discovered
-8000
+8,000

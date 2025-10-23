@@ -98,7 +98,7 @@ ranks
 radio
 raiding
 release
-readingleeds
+reading/leeds
 really
 rename
 record
@@ -291,7 +291,7 @@ january
 japan
 jail
 june
-600000
+600,000
 11
 year
 years
@@ -304,7 +304,7 @@ germany
 go
 gig
 gigs
-500000
+500,000
 video
 victorian
 venue

@@ -433,7 +433,7 @@ visual
 visuals
 visit
 video
-v20
+v2.0
 version
 versions
 keynote
@@ -449,8 +449,8 @@ xbox
 2
 20
 2005
-2000
 2006
+2,000
 until
 unique
 up

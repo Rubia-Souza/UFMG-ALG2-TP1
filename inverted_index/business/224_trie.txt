@@ -233,7 +233,7 @@ lloyd
 less
 300
 300p
-375p
+3.75p
 rival
 response
 responsibility
@@ -251,11 +251,11 @@ not
 non-competition
 need
 necessary
-281%
+28.1%
 29%
-27025p
+270.25p
 jp
 john
 yet
 £800m
-$15bn
+$1.5bn

@@ -145,7 +145,7 @@ go
 gone
 government
 gdp
-35%
+3.5%
 a
 an
 and
@@ -181,7 +181,7 @@ not
 now
 number
 22
-22579
+225.79
 2002
 27%
 points
@@ -291,7 +291,7 @@ basis
 baglihar
 by
 bhutto's
-670993
+6709.93
 -
 400
 8%-10%
@@ -310,6 +310,6 @@ year
 you
 &
 7%
-$13
-911
+$1.3
+9/11
 zardari

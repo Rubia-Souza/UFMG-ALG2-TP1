@@ -196,9 +196,9 @@ years
 yorkshire
 kristiansen
 -
-30000
+30,000
 very
 verdict
 victory
-6000
-115000
+6,000
+115,000

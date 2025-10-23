@@ -241,4 +241,4 @@ crystal
 crowd
 cheque
 just
-$15m
+$1.5m

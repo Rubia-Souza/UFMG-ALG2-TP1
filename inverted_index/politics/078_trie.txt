@@ -256,7 +256,7 @@ laura
 lack
 longer-term
 london
-9000
+9,000
 18
 1989
 do

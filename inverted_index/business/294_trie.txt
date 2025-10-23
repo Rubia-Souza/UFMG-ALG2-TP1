@@ -197,7 +197,7 @@ job
 jobs
 jump
 1%
-10137
+10,137
 at
 attacked
 are
@@ -218,8 +218,8 @@ nasdaq
 new
 neck
 net
-09%
-2004
+0.9%
+2,004
 2000
 of
 office
@@ -266,8 +266,8 @@ yen
 year
 years
 york
-$126
-$5088
+$1.26
+$50.88
 $422bn
-$200000
-800000
+$200,000
+800,000

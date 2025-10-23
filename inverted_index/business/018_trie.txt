@@ -62,8 +62,8 @@ climbed
 close
 creditworthiness
 cash
-43305
-4341
+43.305
+43.41
 us
 use
 up

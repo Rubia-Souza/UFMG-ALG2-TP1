@@ -157,9 +157,9 @@ last
 launch
 launching
 loud
-600000
-63
-59
+600,000
+6.3
+5.9
 3
 january
 june

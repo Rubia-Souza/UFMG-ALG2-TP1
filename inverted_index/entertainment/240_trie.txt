@@ -123,9 +123,9 @@ richard
 russell
 jailhouse
 18
-101
-1001st
-1000th
+10/1
+1,001st
+1,000th
 beat
 beach
 bee
@@ -152,6 +152,6 @@ members
 meet
 manufacturing
 more
-5000
+5,000
 demand
-28000
+28,000

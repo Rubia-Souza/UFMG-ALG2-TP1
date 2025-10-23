@@ -181,7 +181,7 @@ extremely
 extremist
 extraordinary
 example
-examplethis
+example).this
 exactly
 existing
 except
@@ -237,7 +237,7 @@ look
 looks
 loose
 london
-longthey
+long?)they
 longer
 lot
 loyalist
@@ -286,7 +286,7 @@ chance
 chancellor
 charles
 charge
-chargetrial
+charge/trial
 churchill
 checked
 chinese
@@ -409,7 +409,7 @@ heart
 held
 he's
 here
-herhis
+her/his
 hence
 human
 humanly
@@ -763,7 +763,7 @@ although
 along
 august
 austrian
-austrian'
+austrian.'
 authoritarian
 adolf
 adriatic
@@ -956,7 +956,7 @@ scared
 school
 shelters
 sheltered
-shehe
+she/he
 shot
 should
 shocked
@@ -1007,13 +1007,14 @@ used
 uses
 usually
 uk
+u.k
 ultimate
 uttered
 where
 when
 whether
 what
-what'
+what?'
 what's
 wharf
 who
@@ -1272,6 +1273,7 @@ your
 300
 3000
 30's
+3,000
 questionable
 quote
 qur'aan

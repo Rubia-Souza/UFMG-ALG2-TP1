@@ -31,7 +31,7 @@ and
 annual
 analyst
 am
-81%
+8.1%
 in
 it
 its
@@ -40,7 +40,7 @@ is
 2000
 2005
 2003
-24%
+2.4%
 economy
 economy's
 economic
@@ -107,7 +107,7 @@ liang
 of
 over
 oil
-131%
+13.1%
 key
 however
 hit
@@ -126,7 +126,7 @@ us
 up
 year
 3%
-30%
+3.0%
 5%
 rose
 rate

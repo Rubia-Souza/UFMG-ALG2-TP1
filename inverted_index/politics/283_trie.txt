@@ -219,7 +219,7 @@ singing
 significant
 should
 small
-£100000
+£100,000
 £35bn
 £22bn
 year

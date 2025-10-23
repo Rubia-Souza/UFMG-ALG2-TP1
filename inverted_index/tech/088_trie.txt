@@ -243,10 +243,10 @@ every
 events
 earthquake
 easily
-12000
+12,000
 13
 15
-58
+5.8
 life
 limit
 like

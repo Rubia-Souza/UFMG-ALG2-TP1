@@ -72,9 +72,9 @@ which
 will
 within
 won
-162
-1050-1125
-172
+16.2
+1,050-1,125
+17.2
 1990s
 1993
 times
@@ -134,7 +134,7 @@ merchant
 20%
 271
 up
-£2308m
+£230.8m
 year
 years
 -

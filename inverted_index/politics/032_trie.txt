@@ -122,7 +122,7 @@ early
 up
 unnecessary
 4
-4000
+4,000
 ban
 banning
 bid
@@ -190,7 +190,7 @@ negotiations
 never
 not
 northumbria
-2000
+2,000
 just
 justice
 judicial

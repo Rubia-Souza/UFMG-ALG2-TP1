@@ -269,8 +269,8 @@ museum's
 global
 glean
 gear
-1000
-200000
+1,000
+200,000
 2008
 vast
 vulnerable

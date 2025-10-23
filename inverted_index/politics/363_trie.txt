@@ -187,7 +187,7 @@ discriminated
 do
 £200
 £450
-£100000
+£100,000
 election
 elderly
 economies

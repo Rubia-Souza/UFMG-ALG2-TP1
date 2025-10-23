@@ -128,8 +128,8 @@ union
 uzbekistan
 ukraine
 up
-$600000
-£425000
+$600,000
+£425,000
 politically
 powers
 paid

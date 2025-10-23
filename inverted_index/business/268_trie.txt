@@ -293,10 +293,10 @@ names
 £250
 £500
 £1
-£1200
+£1,200
 £10
 £100
-£4745
+£4,745
 distributed
 different
 difference
@@ -327,8 +327,8 @@ riches
 risk
 risks
 right
-535%
-525%
+5.35%
+5.25%
 &
 -
 quite

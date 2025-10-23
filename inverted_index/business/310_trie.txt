@@ -113,12 +113,12 @@ oregon
 orders
 our
 on
-$2619m
-$28bn
-$1791m
-$31bn
-$49bn
-£1356m
+$261.9m
+$2.8bn
+$179.1m
+$3.1bn
+$4.9bn
+£135.6m
 months
 markets
 much
@@ -140,4 +140,4 @@ with
 will
 we
 knight
-91%
+9.1%

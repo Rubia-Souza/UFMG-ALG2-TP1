@@ -145,7 +145,7 @@ pace
 pause
 picture
 picked
-225%
+2.25%
 world's
 would
 with
@@ -176,4 +176,4 @@ growth
 grew
 global
 40-year
-39%
+3.9%

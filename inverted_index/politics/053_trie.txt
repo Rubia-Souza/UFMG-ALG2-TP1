@@ -255,7 +255,7 @@ pupils
 putin
 passing
 passport
-£65000
+£65,000
 years
 year-old
 your

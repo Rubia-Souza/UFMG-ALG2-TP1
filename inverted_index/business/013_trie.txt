@@ -121,9 +121,9 @@ warning
 warnings
 was
 who
-30000
+30,000
 30%
-36000
+36,000
 utility
 utilise
 understanding
@@ -169,5 +169,5 @@ result
 responsibility
 rival
 540bn
-$52bn
-£277bn
+$5.2bn
+£2.77bn

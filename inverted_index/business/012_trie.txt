@@ -159,13 +159,13 @@ late
 likely
 earthquake
 excess
-592
-$658bn
-£35bn
+59.2
+$6.58bn
+£3.5bn
 2004
 2003
 20%
-145
+14.5
 january
 jakarta
 quarter

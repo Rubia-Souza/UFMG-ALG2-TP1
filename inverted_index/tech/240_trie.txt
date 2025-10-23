@@ -289,8 +289,8 @@ decision
 date
 625
 700
-1080
-1920
+1,080
+1,920
 12
 12%
 result
@@ -304,7 +304,7 @@ right
 running
 race
 korea
-51
+5.1
 2008
 2006
 2010

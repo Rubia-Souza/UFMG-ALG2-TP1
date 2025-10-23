@@ -92,8 +92,8 @@ held
 holidays
 hold
 holding
-12
-800000
+1.2
+800,000
 it
 is
 in

@@ -179,9 +179,9 @@ weeks
 with
 4km
 12
-125gbps
+1.25gbps
 1-2mbps
-1000
+1,000
 70
 700
 r
@@ -197,6 +197,6 @@ equipment
 ever
 expansion
 end
-2000
+2,000
 512kbps
 just

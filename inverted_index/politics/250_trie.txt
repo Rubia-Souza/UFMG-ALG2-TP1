@@ -433,9 +433,9 @@ full
 fuel
 february
 features
-£7960
+£79.60
 £750
-£10545
+£105.45
 up
 uk
 us
@@ -455,8 +455,8 @@ number
 11m
 1997
 1949
-192p
 18
+1.92p
 10
 vote
 voters
@@ -472,6 +472,6 @@ you
 you're
 -
 quality
-700000
+700,000
 journalists
 keep

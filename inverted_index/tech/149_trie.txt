@@ -135,6 +135,6 @@ number
 now
 doubled
 18
-48
+4.8
 quarter
 regularly

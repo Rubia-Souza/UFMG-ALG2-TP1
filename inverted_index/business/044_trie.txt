@@ -161,9 +161,9 @@ pointed
 patches
 past
 picture
-01%
-03%
-05%
+0.1%
+0.3%
+0.5%
 last
 later
 largest
@@ -182,8 +182,8 @@ must
 mr
 2004
 2005
-26%
-21%
+2.6%
+2.1%
 weak
 were
 wednesday

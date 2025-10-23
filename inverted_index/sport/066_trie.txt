@@ -326,7 +326,7 @@ rutto
 road
 robert
 rocked
-10000m
+10,000m
 100m
 1500m
 1912
@@ -384,11 +384,11 @@ long
 london
 34-year-old
 30-year-old
-3807
+38.07
 35-year-old
 november's
 not
 new
 quartet
 60m
-5000m
+5,000m

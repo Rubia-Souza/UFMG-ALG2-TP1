@@ -137,9 +137,9 @@ even
 expected
 exaggerated
 enough
-£2060
-£22000
-£15000
+£2,060
+£22,000
+£15,000
 punishment
 penalty
 president

@@ -46,7 +46,7 @@ clients
 cents
 capital
 criminal
-2500
+2,500
 2004
 2003
 2005
@@ -207,7 +207,7 @@ $3bn
 $850m
 $232m
 £352m
-£1953m
+£195.3m
 year
 york
 new
@@ -242,8 +242,8 @@ ready
 rebuild
 round
 rigging
-40000
-5500
+40,000
+5,500
 17
 34
 -

@@ -68,7 +68,7 @@ at
 am
 about
 26%
-260000
+260,000
 25m
 2004
 2005
@@ -117,7 +117,7 @@ edition
 editions
 every
 earnings
-$341m
+$34.1m
 to
 top-selling
 the

@@ -126,7 +126,7 @@ flooded
 20
 24
 22
-40000
+40,000
 program
 procedures
 problems
@@ -157,5 +157,5 @@ queries
 like
 looking
 1m
-1440
+1,440
 july

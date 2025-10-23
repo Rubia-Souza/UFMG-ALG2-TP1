@@ -39,7 +39,7 @@ boost
 boosted
 brazil
 blocs
-55%
+5.5%
 in
 inter-american
 inflation
@@ -102,9 +102,9 @@ fact
 free
 year
 years
-$4451bn
+$445.1bn
 $14bn
-£227bn331bn
+£227bn;331bn
 of
 overheating
 overall

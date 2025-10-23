@@ -24,7 +24,7 @@ helped
 hold
 how
 2
-20000
+20,000
 pirates
 pirated
 piracy
@@ -105,7 +105,7 @@ game
 gamers
 game's
 games
-gamesindustrybiz
+gamesindustry.biz
 gaming
 get
 grips

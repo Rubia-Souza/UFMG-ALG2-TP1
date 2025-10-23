@@ -46,10 +46,10 @@ has
 had
 hotel
 his
-50000
+50,000
 euros
 entourage
-£35000
+£35,000
 a
 after
 ago

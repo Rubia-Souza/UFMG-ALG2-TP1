@@ -178,13 +178,13 @@ south
 spark
 small
 success
-147m
+1.47m
 1998
 yuan
 year
 years
 yamaha
-$177600
+$177,600
 $258bn
 now
 not

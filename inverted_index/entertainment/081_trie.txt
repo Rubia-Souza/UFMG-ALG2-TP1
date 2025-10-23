@@ -127,7 +127,7 @@ prove
 playing
 portman
 people
-5808
+5,808
 had
 halle
 has
@@ -168,7 +168,7 @@ natalie
 names
 night
 30-year-old
-3300
+3,300
 join
 john
 kate

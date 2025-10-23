@@ -373,9 +373,9 @@ vanished
 1%
 20
 200
-2000
 2010
 2%
+2,000
 under
 union
 university

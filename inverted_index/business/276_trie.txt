@@ -57,7 +57,7 @@ has
 rise
 risen
 raised
-rupees$12bn
+rupees($1.2bn
 reduce
 13%
 market

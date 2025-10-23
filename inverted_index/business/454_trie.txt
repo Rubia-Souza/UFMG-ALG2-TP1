@@ -101,7 +101,7 @@ tci
 tci's
 times
 3%
-34%
+3.4%
 a
 after
 also
@@ -190,9 +190,9 @@ capital
 cash
 change
 5%
-£135bn
+£1.35bn
 £350m
-$25bn
+$2.5bn
 $500m
 news
 number
@@ -210,5 +210,5 @@ gain
 gainer
 gmt
 yet
-4525
+45.25
 1030

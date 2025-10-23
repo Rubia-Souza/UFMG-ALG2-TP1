@@ -178,7 +178,7 @@ about
 are
 at
 1
-100000
+100,000
 january
 james
 jitters
@@ -222,7 +222,7 @@ mr
 kept
 keep
 30
-37000
+37,000
 year
 years
 lib
@@ -233,4 +233,4 @@ laws
 looking
 very
 various
-22000
+22,000

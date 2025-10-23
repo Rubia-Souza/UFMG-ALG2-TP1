@@ -133,7 +133,7 @@ danny
 up
 use
 30
-3500
+3,500
 minutes
 minister
 move
@@ -213,6 +213,6 @@ less
 little
 licensing
 visible
-25000
+25,000
 2008
 £50m

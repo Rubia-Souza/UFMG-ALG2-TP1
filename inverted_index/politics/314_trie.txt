@@ -15,7 +15,7 @@ those
 thing
 things
 this
-this'
+this.'
 that
 through
 talking

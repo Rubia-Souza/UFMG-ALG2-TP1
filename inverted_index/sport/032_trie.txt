@@ -39,7 +39,7 @@ medallist
 medallists
 much
 mulugeta
-10000m
+10,000m
 1000m
 18
 1500m
@@ -115,8 +115,8 @@ hurdles
 holmes
 eight
 ethiopian
-0469
-5000m
+04.69
+5,000m
 last
 lewis-francis
 year

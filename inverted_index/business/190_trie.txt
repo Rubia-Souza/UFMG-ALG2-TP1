@@ -104,10 +104,10 @@ office
 out
 outperforming
 overall
-20
 2004
 2005
-23%
+2.3%
+2.0
 by
 business
 but
@@ -148,7 +148,7 @@ pace
 partners
 populaires
 pointed
-08%
+0.8%
 quarter
 with
 without
@@ -162,9 +162,9 @@ years
 up
 unlikely
 unemployment
-12%
+1.2%
+1.3%
 10%
-13%
 keep
 has
 have

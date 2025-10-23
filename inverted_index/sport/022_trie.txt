@@ -87,7 +87,7 @@ glasgow
 get
 grand
 1500m
-1474
+14.74
 18
 the
 that

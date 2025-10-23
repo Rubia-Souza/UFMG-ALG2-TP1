@@ -295,7 +295,7 @@ july
 2005
 2015
 -
-07%
+0.7%
 richer
 richest
 right
@@ -317,10 +317,10 @@ later
 like
 levels
 leaders
-30000
+30,000
 34
 100%
 1960
 1970
 11th
-500000
+500,000

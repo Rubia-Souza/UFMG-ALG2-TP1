@@ -234,5 +234,5 @@ really
 reducing
 racial
 -
-44000
-70000
+44,000
+70,000

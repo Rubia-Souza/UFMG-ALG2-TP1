@@ -165,8 +165,8 @@ led
 last
 lack
 joined
-$1552bn
-£828bn
+$155.2bn
+£82.8bn
 zoellick
 very
 gooch

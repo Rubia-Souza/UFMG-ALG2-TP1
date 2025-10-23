@@ -21,7 +21,7 @@ after
 africa
 african
 against
-age'
+age,'
 across
 arms
 awesome
@@ -236,7 +236,7 @@ two
 two-all
 twenty-two
 team
-team'
+team,'
 teams
 teddy
 test
@@ -595,7 +595,7 @@ edged
 'golden
 'all
 'the
-'cheating'
+'cheating,'
 uk
 union
 union's

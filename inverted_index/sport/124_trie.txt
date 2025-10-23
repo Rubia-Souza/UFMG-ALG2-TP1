@@ -168,8 +168,8 @@ would
 knows
 either
 exchange
-281%
-289%
+28.1%
+28.9%
 various
 john
 jp

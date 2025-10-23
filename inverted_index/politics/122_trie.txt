@@ -286,7 +286,7 @@ rise
 10
 12
 16-year-olds
-185000
+185,000
 year
 years
 -

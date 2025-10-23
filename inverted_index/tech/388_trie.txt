@@ -251,7 +251,7 @@ nan
 national
 159
 104%
-13
+1.3
 18
 70%
 have
@@ -264,7 +264,7 @@ high-end
 how
 japan
 jack
-32
+3.2
 dominates
 done
 different

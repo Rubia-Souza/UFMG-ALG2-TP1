@@ -185,7 +185,7 @@ long
 loopholes
 log
 left
-100000
+100,000
 200
 2003
 2004

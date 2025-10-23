@@ -189,11 +189,11 @@ pay
 part
 parent
 place
-$275bn
-$283bn
+$27.5bn
+$28.3bn
 $20bn
-$94bn
-£145bn
+$9.4bn
+£14.5bn
 jurisdiction
 judge
 -

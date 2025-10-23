@@ -197,9 +197,9 @@ levels
 lets
 justice
 judge
-45%
+4.5%
 46
-511%
+5.11%
 50
 executive
 excuse

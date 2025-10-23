@@ -122,12 +122,12 @@ not
 north
 named
 1700
-100000
+100,000
 gmt
 gas
 97p
-$187
-$085
+$1.87
+$0.85
 $500m
 44p
 deny
@@ -138,7 +138,7 @@ decade
 dome
 double
 day
-£2585m
+£258.5m
 everasia
 eighties
 end

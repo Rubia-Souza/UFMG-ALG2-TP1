@@ -153,7 +153,7 @@ fact
 fantastic
 fans
 32
-30000
+30,000
 basle
 beat
 been

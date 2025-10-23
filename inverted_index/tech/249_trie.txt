@@ -23,9 +23,9 @@ beachfront
 begun
 become
 back
-$26500
+$26,500
 $5
-$170
+$1.70
 virtual
 land
 last
@@ -52,7 +52,7 @@ again
 accumulating
 acquisition
 22-year-old
-200000
+200,000
 has
 have
 his
@@ -69,7 +69,7 @@ sale
 said
 sold
 shogun
-£13700
+£13,700
 on
 only
 online

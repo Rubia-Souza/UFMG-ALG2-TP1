@@ -159,7 +159,7 @@ exemptions
 expert
 early
 1
-100000
+100,000
 january
 various
 unusually

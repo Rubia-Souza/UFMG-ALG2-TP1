@@ -18,7 +18,7 @@ allergies
 as
 high
 hit
-hivaids
+hiv/aids
 had
 he
 however
@@ -67,9 +67,9 @@ treatment
 treatments
 trial
 terms
-£62bn
-£15bn
-$115bn
+£6.2bn
+£1.5bn
+$11.5bn
 but
 business
 biggest

@@ -75,8 +75,8 @@ surrounding
 slipped
 19th
 18
+1,000th
 10
-1000th
 number
 night
 nine
@@ -152,7 +152,7 @@ found
 follow
 from
 five
-filthygorgeous
+filthy/gorgeous
 fuss
 brookstein
 broken

@@ -139,7 +139,7 @@ had
 have
 half
 his
-70000
+70,000
 people
 perez
 play

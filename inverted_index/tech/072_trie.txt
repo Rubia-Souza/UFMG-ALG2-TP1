@@ -372,7 +372,7 @@ robust
 15
 15%
 10
-1000
+1,000
 2005
 2006
 28-year-olds
@@ -385,7 +385,7 @@ news
 not
 now
 nicknamed
-$12573
+$125.73
 £68
 just
 juice

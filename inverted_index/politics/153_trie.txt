@@ -212,6 +212,6 @@ visa
 quota
 quotas
 4's
-250000
+250,000
 years
 yet

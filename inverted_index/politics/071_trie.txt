@@ -145,7 +145,7 @@ found
 for
 from
 feared
-8000
+8,000
 -
 40
 in
@@ -166,6 +166,6 @@ look
 last
 quick
 year
-7000
+7,000
 now
 not

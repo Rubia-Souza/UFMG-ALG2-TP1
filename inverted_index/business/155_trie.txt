@@ -43,8 +43,8 @@ from
 $11bn
 $17bn
 $1bn
-$156bn
-$144bn
+$15.6bn
+$14.4bn
 $30bn
 $6bn
 us
@@ -87,7 +87,7 @@ truly
 talks
 taken
 terry
-£57bn
+£5.7bn
 will
 with
 without
@@ -129,7 +129,7 @@ compete
 conclude
 consulting
 cost
-1000
+1,000
 year
 years
 yearly

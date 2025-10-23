@@ -79,7 +79,7 @@ revive
 raise
 document
 documents
-dotcom
+dot.com
 during
 filed
 filing

@@ -165,5 +165,5 @@ divide
 years
 yet
 line
-8000
-2700
+8,000
+2,700

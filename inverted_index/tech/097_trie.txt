@@ -213,7 +213,7 @@ biggest
 borders
 buy
 12
-11000
+11,000
 17
 quickly
 far

@@ -207,7 +207,7 @@ options
 out
 orders
 11
-11000
+11,000
 143m
 such
 success
@@ -271,6 +271,6 @@ years
 keeping
 500
 $186m
-$113bn
+$1.13bn
 £98m
 quarter

@@ -96,4 +96,4 @@ exist
 does
 decision
 judo
-$125000
+$125,000

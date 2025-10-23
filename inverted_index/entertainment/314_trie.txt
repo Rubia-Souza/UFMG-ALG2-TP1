@@ -171,10 +171,10 @@ oscars
 occasions
 27
 250
-2530
 2002
 2000
 2003
+2,530
 24-hour
 with
 will
@@ -495,7 +495,7 @@ not
 nobody
 native
 nudity
-845pm
+8.45pm
 knew
 known
 kodak
@@ -512,8 +512,8 @@ up
 venues
 vietnam
 vowed
-6000
+6,000
 52
-5700
+5,700
 36
 39

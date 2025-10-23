@@ -279,11 +279,11 @@ vladimir
 visit
 vietnam
 70%
-793000
+793,000
 jumped
 john
 jail
-24
+2.4
 2020
-474000
+474,000
 questioned

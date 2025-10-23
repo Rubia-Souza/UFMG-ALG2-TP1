@@ -291,7 +291,7 @@ equality
 economic
 -
 1951
-160000
+160,000
 10
 10%
 known

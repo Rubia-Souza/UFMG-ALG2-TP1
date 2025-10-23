@@ -247,7 +247,7 @@ personal
 people
 public
 pledges
-£500000
+£500,000
 know
 kennedy
 5

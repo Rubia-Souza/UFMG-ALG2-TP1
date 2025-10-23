@@ -81,7 +81,7 @@ adults
 actual
 audience
 bubbling
-bushkerry
+bush/kerry
 but
 broke
 breed
@@ -277,7 +277,7 @@ years
 younger
 new
 news
-newsgamingcom
+newsgaming.com
 needs
 no
 not

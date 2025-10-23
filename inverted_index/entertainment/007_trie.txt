@@ -150,8 +150,8 @@ st
 studying
 susan
 symmons
-54
-£25000
+5/4
+£25,000
 queen
 queens
 john

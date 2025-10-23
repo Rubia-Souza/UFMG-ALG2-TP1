@@ -107,7 +107,7 @@ owns
 on
 only
 60m
-796
+7.96
 quite
 long
 london

@@ -56,7 +56,7 @@ policy
 pointed
 part
 hiv
-hivaids
+hiv/aids
 highlighted
 highest
 harvard
@@ -162,7 +162,7 @@ all
 2010
 23%
 24%
-2200
+2,200
 of
 on
 one
@@ -235,7 +235,7 @@ key
 global
 good
 gap
-9000
+9,000
 90%
 leaders
 leads
@@ -247,9 +247,9 @@ local
 low-prevalence
 104
 10-19%
-14000
+14,000
 12
-130000-strong
+130,000-strong
 meets
 months
 monitoring

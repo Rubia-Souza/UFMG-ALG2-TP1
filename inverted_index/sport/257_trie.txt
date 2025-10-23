@@ -112,7 +112,7 @@ going
 job
 jose
 jaime
-£22000
+£22,000
 made
 madrid
 maria

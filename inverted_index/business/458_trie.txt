@@ -191,7 +191,7 @@ exist
 2003
 28
 14bn
-130000
+130,000
 15
 66
 questioning
@@ -207,5 +207,5 @@ name
 80
 victims
 4
-£28bn
-$48bn
+£2.8bn
+$4.8bn

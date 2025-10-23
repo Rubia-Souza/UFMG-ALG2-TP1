@@ -150,9 +150,9 @@ until
 unfair
 up
 use
-$11bn
-$1205bn
-$45bn
+$1.1bn
+$12.05bn
+$4.5bn
 rescue
 respond
 reflect
@@ -191,4 +191,4 @@ yoo
 yungmin
 years
 -
-993%
+99.3%

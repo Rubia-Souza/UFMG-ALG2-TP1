@@ -295,9 +295,9 @@ groups
 give
 quickly
 quarter
-00051%
-48
+0.0051%
+4.8
 &
-58
+5.8
 know
 keen

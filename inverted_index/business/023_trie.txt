@@ -70,8 +70,8 @@ open
 2004
 2002
 2005
-23%
-25%
+2.3%
+2.5%
 -
 but
 body
@@ -111,9 +111,9 @@ would
 which
 while
 whole
-07-08%
-07%
-06%
+0.7-0.8%
+0.7%
+0.6%
 confirmed
 continuing
 continuation

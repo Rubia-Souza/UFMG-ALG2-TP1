@@ -211,7 +211,7 @@ paris
 8-6
 2000
 2002
-27000
+27,000
 vociferous
 visitors
 victor

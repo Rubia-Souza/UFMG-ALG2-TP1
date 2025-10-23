@@ -91,7 +91,7 @@ funded
 from
 first
 10
-15
+1.5
 1978
 year
 years

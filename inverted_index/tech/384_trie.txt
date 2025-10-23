@@ -173,7 +173,7 @@ gescher
 2008
 2006
 2015
-2900
+2,900
 be
 beyond
 beijing
@@ -248,10 +248,10 @@ like
 levels
 leading
 -
-13bn
+1.3bn
 16
+1,000
 100
-1000
 15%
 now
 not

@@ -140,7 +140,7 @@ phase
 plans
 play
 playing
-plusnet
+plus.net
 particularly
 parties
 panayis

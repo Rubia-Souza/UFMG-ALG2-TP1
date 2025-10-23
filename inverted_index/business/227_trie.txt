@@ -84,7 +84,7 @@ available
 are
 needed
 needs
-105000
+105,000
 year
 pensions
 pensioners

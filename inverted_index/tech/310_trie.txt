@@ -38,7 +38,7 @@ not
 norwegian
 natural
 number
-80
+8.0
 due
 developers
 device

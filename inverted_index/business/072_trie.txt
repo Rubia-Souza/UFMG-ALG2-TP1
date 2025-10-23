@@ -148,7 +148,7 @@ worst
 was
 were
 weight
-148%
+14.8%
 17
 13
 governor
@@ -160,13 +160,13 @@ mr
 month-on-month
 months
 million
-325%
+3.25%
 -
-07%
+0.7%
 january
 2004
 2003
-21%
-47%
+2.1%
+4.7%
 4%
 48

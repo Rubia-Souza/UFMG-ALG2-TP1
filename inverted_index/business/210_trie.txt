@@ -181,7 +181,7 @@ nations
 now
 not
 necessary
-$41350
+$413.50
 $40
 $50
 early
@@ -196,7 +196,7 @@ value
 values
 veto
 1970s
-1135m
+113.5m
 100%
-3217
+3,217
 key

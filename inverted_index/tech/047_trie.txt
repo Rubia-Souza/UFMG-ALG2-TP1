@@ -40,7 +40,7 @@ inevitable
 it
 is
 ipods
-ipodsmp3
+ipods/mp3
 us
 use
 uses
@@ -148,10 +148,10 @@ women
 41%
 40-48
 judged
-$75000
+$75,000
 $30
-£39000
-£15000
+£39,000
+£15,000
 000
 quarter
 9%

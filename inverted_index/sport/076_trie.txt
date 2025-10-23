@@ -54,7 +54,7 @@ team
 telling
 tirunesh
 title
-92km
+9.2km
 race
 responded
 really
@@ -130,9 +130,9 @@ mike
 my
 metres
 12th
-1500m
+1,500m
 place
 4km
 johnson
-62km
+6.2km
 20

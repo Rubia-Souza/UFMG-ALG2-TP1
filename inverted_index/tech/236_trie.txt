@@ -182,7 +182,7 @@ volumes
 extracts
 everyone
 end
-40000
+40,000
 19th
 15%
 john

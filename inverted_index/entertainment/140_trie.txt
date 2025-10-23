@@ -116,10 +116,10 @@ march
 many
 majority
 mr
-150000
+150,000
 13
 50
-5950
+59.50
 park
 part
 promoters
@@ -129,7 +129,7 @@ people
 phenomenal
 8am
 80
-80000
+80,000
 nothing
 like
 lisbon

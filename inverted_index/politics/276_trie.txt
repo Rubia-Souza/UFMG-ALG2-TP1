@@ -217,7 +217,7 @@ effect
 effort
 economy
 election
-£50000
+£50,000
 52-year-old
 unlikely
 unremittingly

@@ -52,7 +52,7 @@ implications
 is
 issue
 are
-are''
+are,''
 avenues
 an
 and
@@ -69,7 +69,7 @@ decision
 details
 dates
 day
-dark''
+dark,''
 during
 legal
 letter
@@ -110,10 +110,10 @@ week's
 was
 want
 put
-pending''
+pending,''
 people
 portadown
-portadown''
+portadown.''
 press
 playing
 see

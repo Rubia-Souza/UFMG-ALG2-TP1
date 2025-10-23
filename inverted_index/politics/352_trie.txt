@@ -1,5 +1,5 @@
 blair
-blair&#191s
+blair&#191;s
 bromsgrove
 back
 both
@@ -265,6 +265,6 @@ youngest
 year
 -
 200
-100000
+100,000
 zero
 qualified

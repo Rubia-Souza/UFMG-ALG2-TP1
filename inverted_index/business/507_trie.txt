@@ -103,8 +103,8 @@ am
 about
 at
 as
+3.1%
 31
-31%
 in
 information
 interest
@@ -114,7 +114,7 @@ its
 2000
 2003
 2005
-22%
+2.2%
 last
 latest
 lacklustre
@@ -195,8 +195,8 @@ rate-setting
 rates
 rather
 rubinsohn
-07%
-05%
+0.7%
+0.5%
 month
 months
 money
@@ -243,8 +243,8 @@ however
 he
 help
 higher
-10%
+1.0%
 'recession'
 voted
 keep
-475%
+4.75%

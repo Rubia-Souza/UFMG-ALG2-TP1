@@ -57,7 +57,7 @@ facility
 families
 failure
 flows
-£55bn
+£5.5bn
 £400m
 £27bn
 £60m
@@ -91,7 +91,7 @@ halve
 had
 his
 hiv
-hivaids
+hiv/aids
 he
 head
 hopes

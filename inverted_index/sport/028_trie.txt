@@ -148,12 +148,12 @@ it
 it's
 10
 100m
-1004secs
+10.04secs
 1998
 20
 200m
 2000
-2013secs
+20.13secs
 24
 part
 prove

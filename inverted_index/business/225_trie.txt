@@ -116,7 +116,7 @@ months
 market
 mr
 meet
-05%
+0.5%
 on
 over
 of
@@ -132,7 +132,7 @@ general
 generally
 good
 growth
--01%
+-0.1%
 new
 not
 national

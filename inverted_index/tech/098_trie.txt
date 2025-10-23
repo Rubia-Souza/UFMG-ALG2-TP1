@@ -162,7 +162,7 @@ nine
 10
 18
 14m
-12
+1.2
 january
 ernie
 ever
@@ -208,7 +208,7 @@ launched
 let
 90%
 katherine's
-£2000
+£2,000
 get
 global
 gsm

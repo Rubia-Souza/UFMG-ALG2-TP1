@@ -1,5 +1,5 @@
 o'driscoll
-o'driscollgregan
+o'driscoll/gregan
 o'connell
 one
 only

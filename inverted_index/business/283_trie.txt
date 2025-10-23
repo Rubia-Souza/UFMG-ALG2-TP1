@@ -65,8 +65,8 @@ also
 level
 leading
 13
-13000
-1148876
+13,000
+11,488.76
 of
 optimism
 oil
@@ -84,7 +84,7 @@ it
 gained
 growth
 global
-76%
+7.6%
 close
 contrast
 confidence

@@ -43,7 +43,7 @@ all
 also
 almost
 are
-areconsulting
+are...consulting
 among
 away
 affected

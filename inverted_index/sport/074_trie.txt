@@ -60,7 +60,7 @@ track
 training
 team
 31-year-old
-3000m
+3,000m
 behind
 because
 bak
@@ -83,4 +83,4 @@ race
 run
 don't
 up
-5000m
+5,000m

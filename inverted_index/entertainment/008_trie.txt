@@ -170,5 +170,5 @@ dumb
 director
 designer
 jean
-£30000
+£30,000
 50th

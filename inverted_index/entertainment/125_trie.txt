@@ -145,7 +145,7 @@ eminem
 european
 kylie
 kicking
-8000
+8,000
 year
 years
 lot

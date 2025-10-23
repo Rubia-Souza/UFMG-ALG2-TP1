@@ -147,7 +147,7 @@ take-off
 takes
 taking
 2005
-25gb
+2.5gb
 256mb
 consumer
 consumers
@@ -295,7 +295,7 @@ memory
 means
 mpeg4
 mpio's
-50000
+50,000
 5gb
 512mb
 new
@@ -395,8 +395,8 @@ january
 quality
 quarter
 600
-3420
+3,420
 30
 -
-72gb
+7.2gb
 420

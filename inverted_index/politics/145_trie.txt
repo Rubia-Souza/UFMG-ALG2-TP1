@@ -42,7 +42,7 @@ as
 prospective
 part
 party
-partybnp
+party(bnp
 party's
 for
 former

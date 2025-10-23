@@ -41,10 +41,10 @@ analysts
 australian
 added
 a$68m
-a$677m
-a$450
-a$467
-a$351m
+a$67.7m
+a$4.50
+a$4.67
+a$35.1m
 at
 also
 against
@@ -109,7 +109,7 @@ news
 needed
 not
 19%
-12bn
+1.2bn
 16%
 11%
 on

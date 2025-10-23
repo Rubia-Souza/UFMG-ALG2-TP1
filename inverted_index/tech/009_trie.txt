@@ -10,14 +10,14 @@ also
 always
 an
 and
-andor
+and/or
 another
 anywhere
 anyhting
 at
 abacus
 about
-ad
+a.d
 army
 are
 around
@@ -273,7 +273,7 @@ cumbersome
 of
 off
 offerings
-oferr
+of...err
 on
 one
 only

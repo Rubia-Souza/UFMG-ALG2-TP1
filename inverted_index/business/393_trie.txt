@@ -142,7 +142,7 @@ october
 odd
 owners
 1
-1075p
+10.75p
 1995
 1996
 1955
@@ -162,13 +162,13 @@ by
 but
 bubb
 bit
-851%
+8.51%
 2002
 200p
 groups
 year
 £1m
-£12m
+£1.2m
 £138m
 £118m
 £200m

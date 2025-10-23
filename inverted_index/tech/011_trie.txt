@@ -174,7 +174,7 @@ effect
 effectively
 eight
 24
-20000
+20,000
 housewives
 hour
 hours
@@ -228,7 +228,7 @@ cut
 creating
 18%
 150%
-100000
+100,000
 program
 programme
 programmes
@@ -266,7 +266,7 @@ mr
 means
 media
 knowledge
-80000
+80,000
 just
 jupiter
 -

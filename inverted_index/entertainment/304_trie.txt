@@ -100,6 +100,7 @@ project
 previously
 primeval
 published
+6,000
 6000
 years
 is
@@ -112,8 +113,8 @@ oxford
 out
 $4m
 $5m
-£213m
-£28m
+£2.13m
+£2.8m
 enchanting
 established
 earning

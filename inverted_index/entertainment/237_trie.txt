@@ -128,7 +128,7 @@ eye
 17
 1997
 10
-10500
+10,500
 letisha
 lost
 lot

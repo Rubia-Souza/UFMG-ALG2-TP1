@@ -236,9 +236,9 @@ new
 need
 16s
 10
+10,000
 100
-10000
-175000
+175,000
 receive
 recent
 refugee

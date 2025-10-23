@@ -113,9 +113,9 @@ on
 online
 over
 bagle
-bagleat
-bagleau
-baglebb
+bagle.at
+bagle.au
+bagle.bb
 be
 bearing
 began
@@ -164,7 +164,7 @@ more
 98
 2000
 xp
-30000
+30,000
 1
 0630
 0530

@@ -101,7 +101,7 @@ improve
 if
 quarter
 quality
-04%
+0.4%
 bank
 base
 bad
@@ -215,7 +215,7 @@ way
 weak
 were
 well
-475%
+4.75%
 national
 now
 north

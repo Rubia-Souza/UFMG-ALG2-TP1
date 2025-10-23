@@ -121,7 +121,7 @@ exile
 eventually
 evasion
 estimated
-595%
+59.5%
 -
 which
 whole
@@ -158,7 +158,7 @@ russia
 russian
 russia's
 richest
-$94bn
+$9.4bn
 $27bn
 $15bn
 £5bn

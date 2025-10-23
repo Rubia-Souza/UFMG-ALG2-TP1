@@ -65,7 +65,7 @@ about
 added
 also
 although
-475%
+4.75%
 the
 their
 there
@@ -253,8 +253,8 @@ gauge
 gloomy
 quick
 juggle
-01%
-03%
+0.1%
+0.3%
 year
 year's
 5%

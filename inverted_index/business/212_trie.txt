@@ -142,7 +142,7 @@ ensued
 eighteen
 viability
 venture
-3000
+3,000
 -
-6500
+6,500
 keep

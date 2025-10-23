@@ -61,8 +61,8 @@ on
 euros
 european
 even
-$52761m
-£27473m
+$527.61m
+£274.73m
 compared
 company
 competition
@@ -92,4 +92,4 @@ some
 virus
 us
 year
-030
+0.30

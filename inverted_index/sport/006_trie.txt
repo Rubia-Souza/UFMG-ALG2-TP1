@@ -48,8 +48,8 @@ record
 russian's
 ran
 race
-489
-488m
+4.89
+4.88m
 metres
 meeting
 men's
@@ -94,8 +94,8 @@ union
 grand
 greene
 greene's
-505m
+5.05m
 60m
-646secs
+6.46secs
 even
 know

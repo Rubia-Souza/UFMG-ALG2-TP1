@@ -270,9 +270,9 @@ yet
 jaguar
 job
 -
-130000
+130,000
 151m
-12000
+12,000
 2004
 24-hours
 $200m
@@ -282,6 +282,6 @@ vauxhall
 vauxhalls
 vehicle
 know
-35000
+35,000
 40
 quality

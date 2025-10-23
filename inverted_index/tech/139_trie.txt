@@ -1,5 +1,5 @@
 halo
-halobungieorg
+halo.bungie.org
 has
 have
 had
@@ -352,11 +352,12 @@ each
 eager
 early
 essay-length
-15
+1.5
 16
+15
 10
 11
 -
 you
-600000
+600,000
 just

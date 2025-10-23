@@ -68,7 +68,7 @@ announced
 access
 attacked
 162
-100000
+100,000
 have
 has
 harder
@@ -152,7 +152,7 @@ majority
 massive
 make
 michael
-£43bn
+£4.3bn
 £35
 new
 needed

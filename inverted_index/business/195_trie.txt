@@ -192,7 +192,7 @@ euro
 2006
 2005
 2004
-28%
+2.8%
 march
 market
 main
@@ -203,7 +203,7 @@ much
 year
 years
 young
-5050
+50/50
 latest
 likely
 line
@@ -217,9 +217,9 @@ dismissed
 dipping
 domestic
 drive
-41%
+4.1%
+4.2%
 4%
-42%
 japan
 zone
-32%
+3.2%

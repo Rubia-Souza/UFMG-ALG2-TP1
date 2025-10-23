@@ -81,7 +81,7 @@ directive
 line
 lavoro
 2004
-24%
+2.4%
 from
 for
 foreign
@@ -92,5 +92,5 @@ yesterday
 york-based
 100%
 global
-328%
+32.8%
 each

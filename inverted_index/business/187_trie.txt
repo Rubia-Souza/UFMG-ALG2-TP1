@@ -150,7 +150,7 @@ guilty
 guinea
 government
 garzon
-3000
+3,000
 killed
 knows
 last

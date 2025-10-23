@@ -28,7 +28,7 @@ less
 'veritas'
 'goodbye'
 party
-partysaid
+party,said
 parties
 parties'
 partly

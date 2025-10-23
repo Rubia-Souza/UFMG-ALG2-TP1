@@ -101,7 +101,7 @@ too
 two
 team
 zafi
-zafid
+zafi.d
 zafi-d
 greeting
 get

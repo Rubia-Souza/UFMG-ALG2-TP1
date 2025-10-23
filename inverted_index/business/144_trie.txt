@@ -84,8 +84,8 @@ light
 london
 levels
 32
-$5143
-$4974
+$51.43
+$49.74
 meant
 members
 meeting
@@ -96,5 +96,5 @@ discuss
 demand
 16
 14%
-75%
+7.5%
 year

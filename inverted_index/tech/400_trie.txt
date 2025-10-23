@@ -158,7 +158,7 @@ firms
 federal
 felt
 frustrated
-911
+9/11
 virus
 viruses
 vulnerabilities
@@ -188,5 +188,5 @@ efforts
 2003
 60
 $80m
-£4454m
+£44.54m
 12

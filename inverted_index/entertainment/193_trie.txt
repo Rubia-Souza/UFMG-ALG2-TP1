@@ -124,7 +124,7 @@ time
 team
 test
 tested
-tested'
+tested?'
 television
 take
 real
@@ -244,7 +244,7 @@ not
 york
 yet
 -
-200000-300000
+200,000-300,000
 10%
 1999
 400

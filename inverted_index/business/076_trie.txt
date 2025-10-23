@@ -62,7 +62,7 @@ jobs
 january
 2003
 25%
-22000
+22,000
 the
 there
 this
@@ -116,7 +116,7 @@ can
 called
 cities
 10%
-104000
+104,000
 14%
 occupation
 out

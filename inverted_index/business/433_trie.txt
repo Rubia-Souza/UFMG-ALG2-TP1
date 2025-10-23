@@ -57,7 +57,7 @@ rose
 rajasthan
 rights
 rugby
-38%
+3.8%
 to
 too
 tuesday
@@ -65,7 +65,7 @@ the
 there
 that
 this
-1088
+1,088
 100
 pence
 player

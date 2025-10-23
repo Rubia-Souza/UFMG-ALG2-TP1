@@ -71,7 +71,7 @@ last
 lucky
 loser
 round
-roundsaid
+round.said
 really
 republic
 qualifying

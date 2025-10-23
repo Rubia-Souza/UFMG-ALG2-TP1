@@ -70,9 +70,9 @@ and
 analyst
 armstrong
 associates
-$325bn
-$1704
-£17bn
+$3.25bn
+$17.04
+£1.7bn
 bid
 bidding
 bill
@@ -104,8 +104,8 @@ were
 would
 with
 wal-mart
-67%
-196%
+6.7%
+19.6%
 new
 now
 york

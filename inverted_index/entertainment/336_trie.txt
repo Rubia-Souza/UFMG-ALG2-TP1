@@ -56,7 +56,7 @@ awards
 about
 and
 angolan
-angolanfrenchportuguese
+angolan/french/portuguese
 actor
 after
 as
@@ -200,5 +200,5 @@ new
 named
 napoleon
 veteran
-7500
-45000
+7,500
+45,000

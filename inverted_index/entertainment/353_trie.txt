@@ -179,7 +179,7 @@ toons
 tom
 tomorrow
 torch
-torchhmmmmm
+torch....hmmmmm
 together
 turn
 television
@@ -207,7 +207,7 @@ box
 box-office
 boy
 bod
-bodoh
+bod.....oh
 book
 bob
 by
@@ -296,7 +296,6 @@ marvellous
 martin
 mary
 market
-mask
 maybe
 moderately
 modern
@@ -335,8 +334,9 @@ mule
 mungo
 my
 mysterious
+m.a.s.k
 mr
-mrbenn
+mr.benn
 in
 into
 intellectual
@@ -753,7 +753,7 @@ easier
 eagerly
 especially
 etc
-eg
+e.g
 which
 while
 why

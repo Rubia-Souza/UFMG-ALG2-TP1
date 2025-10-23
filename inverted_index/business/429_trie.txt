@@ -164,15 +164,15 @@ standard
 still
 strategist
 significant
-$555bn
-$5005bn
+$55.5bn
+$500.5bn
 $20bn
 $3bn
 £29bn
 9%
 10
-34%
-06%
+3.4%
+0.6%
 &
 new
 york
@@ -180,4 +180,4 @@ year
 keeping
 key
 quarter
-225%
+2.25%

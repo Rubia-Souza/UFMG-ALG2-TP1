@@ -1,6 +1,6 @@
 music
 musical
-musicvideo
+music/video
 must-have
 much
 my

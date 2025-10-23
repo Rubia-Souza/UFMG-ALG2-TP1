@@ -229,8 +229,7 @@ initially
 independent
 incident
 injury
-it
-it'
+it?'
 it's
 i've
 if
@@ -342,4 +341,4 @@ virtue
 van
 kicked
 know
-£15000
+£15,000

@@ -227,7 +227,7 @@ missing
 misleading
 major
 100
-10000
+10,000
 1991
 in
 insurance
@@ -266,6 +266,6 @@ jobs
 'urban
 -
 2005
-$515
-£390
+$5.15
+£3.90
 violent

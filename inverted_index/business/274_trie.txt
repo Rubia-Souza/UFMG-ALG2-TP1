@@ -66,7 +66,7 @@ holding
 holdings
 however
 history
-67%
+6.7%
 employees
 early
 earlier
@@ -147,13 +147,13 @@ us-based
 use
 users
 up
-196
+19.6
 $85
-$8059m
-$1233
-$17255
+$805.9m
+$12.33
+$172.55
 $52m
-$3939m
+$393.9m
 -
 known
 lockup

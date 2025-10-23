@@ -130,7 +130,7 @@ never
 11
 under-five
 uk's
-6000
+6,000
 20
 20th
 4children

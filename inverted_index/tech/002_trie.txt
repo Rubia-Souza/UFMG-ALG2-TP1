@@ -39,8 +39,8 @@ also
 all
 amount
 among
-12575
-100000
+12,575
+100,000
 in
 introduced
 interception

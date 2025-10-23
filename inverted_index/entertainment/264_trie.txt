@@ -124,7 +124,7 @@ ludacris
 ray
 race
 rap
-rapsung
+rap/sung
 record
 recording
 recognised

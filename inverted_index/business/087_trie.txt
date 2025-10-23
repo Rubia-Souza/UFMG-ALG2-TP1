@@ -73,7 +73,7 @@ out
 $11bn
 $160bn
 $180bn
-£58bn
+£5.8bn
 never
 no
 not
@@ -158,7 +158,7 @@ portray
 pe
 petered
 2002
-20000
+20,000
 shares
 shareholders
 scott

@@ -172,7 +172,7 @@ or
 12%
 joining
 just
-2000
+2,000
 2005
 25p
 danton

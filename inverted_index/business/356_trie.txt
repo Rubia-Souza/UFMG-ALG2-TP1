@@ -190,9 +190,9 @@ plan
 plans
 pledged
 part
-400000
-47%
-48%
+400,000
+4.7%
+4.8%
 4cast
 rate
 rates

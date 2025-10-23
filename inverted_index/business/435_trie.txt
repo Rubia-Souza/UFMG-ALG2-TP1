@@ -99,8 +99,8 @@ announcement
 analyst
 analysts
 at
-a$31bn
-a$425
+a$3.1bn
+a$4.25
 a$846m
 as
 asked
@@ -185,11 +185,11 @@ top
 trading
 trustees
 two
-188%
+18.8%
 global
 getting
 go
-417
+4.17
 dollars
 done
 discussions
@@ -209,9 +209,9 @@ currently
 cash
 clutch
 chunk
-$24bn
+$2.4bn
 $1bn
-£125bn
+£1.25bn
 may
 major
 market
@@ -239,7 +239,7 @@ enough
 2001
 2004
 2003
-2700
+2,700
 not
 near
 news

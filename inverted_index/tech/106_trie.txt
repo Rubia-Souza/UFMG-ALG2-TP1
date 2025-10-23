@@ -302,7 +302,7 @@ newly
 news
 not
 now
-1600
+1,600
 journalist
 just
 quickly

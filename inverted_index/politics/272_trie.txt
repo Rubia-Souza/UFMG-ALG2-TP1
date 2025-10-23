@@ -244,5 +244,5 @@ usually
 underpin
 just
 jackson
-£100000
+£100,000
 year

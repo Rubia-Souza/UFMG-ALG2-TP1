@@ -111,8 +111,8 @@ year
 years
 largest
 value
-$85bn
-£44bn
+$8.5bn
+£4.4bn
 percentage
 points
 31

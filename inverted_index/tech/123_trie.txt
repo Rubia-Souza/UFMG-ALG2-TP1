@@ -127,7 +127,7 @@ regional
 report
 run-up
 george
-georgewbushcom
+georgewbush.com
 geographic
 get
 got

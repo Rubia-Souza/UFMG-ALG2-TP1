@@ -229,9 +229,9 @@ mouflon
 mike
 'if
 'clean
-$10000
+$10,000
 $150
-$595
+$5.95
 22
 20-minute
 quickly

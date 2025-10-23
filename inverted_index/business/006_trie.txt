@@ -73,8 +73,8 @@ face
 feed
 growth
 government
-01%
-02%
+0.1%
+0.2%
 -
 contraction
 conditions

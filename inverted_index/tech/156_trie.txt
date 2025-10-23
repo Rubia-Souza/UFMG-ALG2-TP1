@@ -175,7 +175,7 @@ simply
 success
 such
 suprnova
-suprnovaorg
+suprnova.org
 sure
 software
 some

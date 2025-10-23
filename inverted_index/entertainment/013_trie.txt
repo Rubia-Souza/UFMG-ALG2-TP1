@@ -233,7 +233,7 @@ east
 exposure
 example
 erotica
-£25000
+£25,000
 judges
 joanne
 joined
@@ -251,7 +251,7 @@ didactic
 doore
 documentary
 dust
-64
+6/4
 recently
 relatively
 reached

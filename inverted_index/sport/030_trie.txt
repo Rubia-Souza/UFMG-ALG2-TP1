@@ -1,6 +1,6 @@
 2004
 2005
-2100
+21.00
 an
 and
 andy
@@ -367,7 +367,7 @@ nation
 national
 nothing
 northern
-10000m
+10,000m
 1500m
 18
 quickly
@@ -379,9 +379,9 @@ vaulter
 vote
 jamie
 james
-5000m
+5,000m
 5k
 48
 zoe
 800m
-339
+3:39

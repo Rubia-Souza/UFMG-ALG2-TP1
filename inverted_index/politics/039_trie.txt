@@ -86,7 +86,7 @@ further
 free
 freedom
 from
-forms'
+forms.'
 fear
 father
 be
@@ -164,7 +164,7 @@ issue
 it
 it's
 ignorant
-ie
+i.e
 if
 shani
 she
@@ -239,7 +239,7 @@ not
 now
 national
 number
-£30000
+£30,000
 2003
 20th
 you

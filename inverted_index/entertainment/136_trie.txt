@@ -135,7 +135,7 @@ gonna
 -
 1
 vs
-8000
+8,000
 75
 years
 know

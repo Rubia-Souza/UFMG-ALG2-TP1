@@ -67,7 +67,7 @@ have
 hard
 home
 hk$327m
-hk$631bn
+hk$6.31bn
 hewlett-packard
 helped
 demand
@@ -160,8 +160,8 @@ goes
 government
 giant
 quarter
-37%
-$175bn
+3.7%
+$1.75bn
 8
 vendors
 20%

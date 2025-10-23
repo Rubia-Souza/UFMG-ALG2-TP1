@@ -201,7 +201,7 @@ reduce
 review
 raise
 raised
-3028
+3,028
 34
 39%
 mr

@@ -45,8 +45,8 @@ sell
 sorrell
 strength
 15%
-141%
-148%
+14.1%
+14.8%
 uk
 us
 unit
@@ -103,9 +103,9 @@ years
 young
 £546m
 £532m
-£43bn
+£4.3bn
 £350m
-$104bn
+$1.04bn
 could
 cordiant
 communications

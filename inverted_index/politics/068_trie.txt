@@ -274,6 +274,6 @@ refusals
 refuse
 relatives
 rights
-750000
+750,000
 just
 years

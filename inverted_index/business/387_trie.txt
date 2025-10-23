@@ -13,8 +13,8 @@ non-seasonally
 nasty
 1990
 11th
-17000
-108%
+17,000
+10.8%
 jobless
 jobs
 january
@@ -151,9 +151,9 @@ economic
 end
 enough
 europe's
-44
-4483
-464
+4.4
+4.483
+4.64
 bundesbank
 but
 bad
@@ -192,7 +192,7 @@ welfare
 winter
 with
 will
-206900
+206,900
 2004
 2004's
 2005

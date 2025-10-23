@@ -287,4 +287,4 @@ usta
 united
 under
 up
-25000
+25,000

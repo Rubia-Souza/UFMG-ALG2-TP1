@@ -174,7 +174,7 @@ jack
 everything
 earlier
 each
-$7000
-£3650
+$7,000
+£3,650
 -
 zach

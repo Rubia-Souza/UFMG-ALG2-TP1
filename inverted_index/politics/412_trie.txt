@@ -102,8 +102,8 @@ but
 bristol
 biggest
 1700
-175%
-14000
+17.5%
+14,000
 11
 gmt
 general

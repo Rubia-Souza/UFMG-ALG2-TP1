@@ -227,7 +227,7 @@ mccabe
 msp
 mr
 mean
-16%
+1.6%
 1%
 urged
 unless
@@ -242,7 +242,7 @@ new
 next
 not
 £419m
-£81bn
+£8.1bn
 £325m
 expenditure
 experience
@@ -252,10 +252,10 @@ efficient
 efficiency
 enough
 education
-55%
+5.5%
 quite
 very
 32
 knox
 -
-97%
+9.7%

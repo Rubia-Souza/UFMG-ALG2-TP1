@@ -63,7 +63,7 @@ warne
 wardley
 white
 white's
-whitemackie
+white,mackie
 well
 were
 wood
@@ -96,4 +96,4 @@ donny
 used
 zakuani
 51
-3803
+3,803

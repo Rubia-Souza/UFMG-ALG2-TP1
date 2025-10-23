@@ -109,11 +109,11 @@ role
 no
 now
 year
-13000
+13,000
 1831
 1865
 1800s
-1250
+1,250
 defaults
 descendants
 different

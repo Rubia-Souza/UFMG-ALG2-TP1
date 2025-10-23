@@ -84,7 +84,7 @@ grand
 gross
 gta
 generation
-50000
+50,000
 in
 it
 its
@@ -142,7 +142,7 @@ adult
 chart-track
 christmas
 copies
-computerandvideogamescom
+computerandvideogames.com
 comparison
 contest
 console
@@ -191,7 +191,7 @@ race
 video
 vice
 very
-677000
+677,000
 encouraging
 editor
 edinburgh-based
@@ -209,7 +209,7 @@ demand
 days
 driving
 £24m
-£115m
+£11.5m
 £10m
 £100
 king

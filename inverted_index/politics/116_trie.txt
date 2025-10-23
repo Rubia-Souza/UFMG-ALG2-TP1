@@ -230,7 +230,7 @@ unless
 unrecoverable
 urged
 kirkwood
-250000
+250,000
 25%
 2003
 yet

@@ -191,7 +191,7 @@ mr
 make
 many
 2004
-8000
+8,000
 quality
 quickly
 60

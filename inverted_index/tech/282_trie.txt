@@ -3,7 +3,7 @@ dublin's
 during
 down
 dozen
-dotcom
+dot.com
 doubt
 developed
 developments
@@ -249,7 +249,7 @@ few
 february
 2000
 2003
-256
+2.56
 private
 prime
 prestigious
@@ -271,8 +271,8 @@ noel
 not
 us-based
 us$13
-us$106
-us$33
+us$10.6
+us$3.3
 using
 up
 unfortunately
@@ -294,4 +294,4 @@ very
 quickly
 know
 50
-816
+8.16

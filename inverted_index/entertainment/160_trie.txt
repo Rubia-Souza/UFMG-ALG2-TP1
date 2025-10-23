@@ -93,7 +93,7 @@ usual
 line
 79p
 70p
-72000
+72,000
 -
 each
 1984
@@ -109,6 +109,6 @@ year
 version
 virgin
 know
-500000
+500,000
 £1m
-£399
+£3.99

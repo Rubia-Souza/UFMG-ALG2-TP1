@@ -23,7 +23,7 @@ serge
 saturday's
 said
 say
-saleeng
+sale/eng
 sprained
 states
 stade
@@ -80,7 +80,7 @@ but
 biarritz
 brive
 bruno
-b&#233ziers
+b&#233;ziers
 dropped
 dublin
 during

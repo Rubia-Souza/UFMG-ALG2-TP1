@@ -77,7 +77,7 @@ newcastle
 natural
 now
 non-convertible
-375%
+37.5%
 of
 offer
 one
@@ -93,14 +93,14 @@ with
 well-known
 was
 which
-466bn
+4.66bn
 40%
 rupees
 redeemable
-$106m£546m
-$18bn
-175%
-12
+$106m:£54.6m
+$1.8bn
+17.5%
+1.2
 10
 make
 maker
@@ -125,7 +125,7 @@ preference
 2002
 2003
 29%
-247bn
+2.47bn
 holding
 having
 have

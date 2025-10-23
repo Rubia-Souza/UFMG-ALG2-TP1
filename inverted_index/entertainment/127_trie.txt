@@ -55,7 +55,7 @@ month
 months
 most
 million
-mycokemusiccom
+mycokemusic.com
 are
 artists
 as
@@ -179,5 +179,5 @@ kelly
 killers
 200
 2004
-282000
-312000
+282,000
+312,000

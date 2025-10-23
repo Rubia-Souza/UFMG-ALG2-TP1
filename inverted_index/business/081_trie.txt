@@ -143,6 +143,6 @@ loss
 later
 up
 unaffected
-3600
+3,600
 vehicles
 2

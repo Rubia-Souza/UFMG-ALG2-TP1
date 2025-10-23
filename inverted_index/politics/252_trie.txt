@@ -62,6 +62,7 @@ speech
 should
 down
 down'
+down.'
 double
 don't
 does

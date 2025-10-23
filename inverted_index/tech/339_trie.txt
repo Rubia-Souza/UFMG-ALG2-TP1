@@ -136,7 +136,7 @@ internet
 it
 its
 28
-940000
+940,000
 expand
 executive
 year

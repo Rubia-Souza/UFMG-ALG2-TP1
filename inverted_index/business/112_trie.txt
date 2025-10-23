@@ -118,7 +118,7 @@ consolidating
 chief
 2004
 2002
-22%
+2.2%
 leading
 large
 largest
@@ -126,7 +126,7 @@ late
 looking
 like-for-like
 10%
-183bn
+18.3bn
 1990s
 revenues
 reducing
@@ -139,10 +139,10 @@ while
 world's
 would
 will
-55%
+5.5%
+5.4
+5.1
 578m
-54
-51
 5%
 euros
 europe
@@ -151,8 +151,8 @@ enjoyed
 end
 expansion
 executive
-$234bn
-£125bn
+$23.4bn
+£12.5bn
 data
 debt
 deal
@@ -160,8 +160,8 @@ drive
 drives
 does
 directory
-472bn
-439bn
+47.2bn
+43.9bn
 united
 us
 kingdom

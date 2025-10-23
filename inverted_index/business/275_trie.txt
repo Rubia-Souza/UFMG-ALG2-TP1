@@ -130,11 +130,11 @@ have
 has
 hartz
 high
-5037
-572900
-121%
+5.037
+572,900
+12.1%
 1930s
-15
+1.5
 yes
 year
 effect
@@ -177,4 +177,4 @@ december
 due
 do
 key
-227000
+227,000

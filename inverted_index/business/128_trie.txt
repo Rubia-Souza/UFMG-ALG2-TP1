@@ -61,7 +61,7 @@ australia
 australian
 airline
 airlines
-a$4584m
+a$458.4m
 a$431m
 a$30m
 a$720
@@ -137,7 +137,7 @@ dixon
 don't
 during
 28%
-$3576m
+$357.6m
 $563
 £191m
 year
@@ -180,4 +180,4 @@ us
 key
 12
 11%
-7000
+7,000

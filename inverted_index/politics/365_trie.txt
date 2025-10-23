@@ -141,9 +141,9 @@ gordon
 gone
 government
 game
-12500
-104000
-7800
+12,500
+104,000
+7,800
 east
 earmarked
 education
@@ -166,10 +166,10 @@ rural
 revenue
 relocate
 reduce
+30,000
 300
-30000
+3,500
 35
-3500
 560
 industry
 inland
@@ -177,7 +177,7 @@ into
 is
 it
 400
-4300
+4,300
 yorkshire
 year's
 new

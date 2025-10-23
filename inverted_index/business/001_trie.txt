@@ -109,14 +109,14 @@ growth
 german
 jumped
 76%
-$113bn
-$111bn
-$109bn
+$1.13bn
+$11.1bn
+$10.9bn
 $639m
 $284m
-$336bn
+$3.36bn
 $300m
-$4209bn
+$42.09bn
 $500m
 £600m
 for
@@ -207,7 +207,7 @@ loss
 lower
 lord
 8%
-464000
+464,000
 exceptional
 exceeding
 exchange
@@ -220,6 +220,6 @@ earnings
 efforts
 estimate
 europe
-64%
+6.4%
 5%
 value

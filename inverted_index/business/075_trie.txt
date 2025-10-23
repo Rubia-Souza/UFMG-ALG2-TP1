@@ -128,7 +128,7 @@ group
 gross
 give
 germany
-07%
+0.7%
 2015
 -
 very

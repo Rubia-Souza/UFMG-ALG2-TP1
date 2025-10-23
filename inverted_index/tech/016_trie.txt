@@ -298,10 +298,10 @@ you
 your
 'free
 'templating
-71
+7.1
 30
-12000
-58
+12,000
+5.8
 us
 view
 kind

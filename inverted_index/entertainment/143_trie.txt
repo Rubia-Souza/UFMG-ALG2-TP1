@@ -203,7 +203,7 @@ diana
 darfur
 know
 known
-300000
+300,000
 version
 very
 1984

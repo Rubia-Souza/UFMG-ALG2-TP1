@@ -168,7 +168,7 @@ week
 weeks
 1997
 1970
-6932
+6,932
 majority
 mass
 mp

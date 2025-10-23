@@ -109,8 +109,8 @@ khodorkovsky
 unit
 us
 up
-$93bn
-$275bn
+$9.3bn
+$27.5bn
 £5bn
 was
 wasserstein

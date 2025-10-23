@@ -31,7 +31,7 @@ operators
 of
 office
 often
-os2
+os/2
 other
 owns
 out
@@ -269,8 +269,8 @@ put
 part
 payment
 payments
-14m
-13000
+1.4m
+13,000
 10
 10%
 2006

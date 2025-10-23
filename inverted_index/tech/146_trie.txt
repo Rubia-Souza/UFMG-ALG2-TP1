@@ -41,7 +41,7 @@ need
 new
 newspaper
 next
-nielsennetratings
+nielsen/netratings
 now
 europe
 europeans

@@ -177,6 +177,6 @@ uncapped
 -
 kingsholm
 kicking
-5050
+50/50
 28
 83-10

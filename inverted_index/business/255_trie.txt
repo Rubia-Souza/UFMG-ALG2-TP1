@@ -61,7 +61,7 @@ initial
 into
 a
 and
-andor
+and/or
 aiding
 added
 at

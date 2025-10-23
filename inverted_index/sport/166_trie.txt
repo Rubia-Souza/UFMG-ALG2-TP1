@@ -90,7 +90,7 @@ also
 all
 an
 and
-andor
+and/or
 at
 away
 apologise

@@ -65,11 +65,11 @@ strategist
 sg
 slower
 slightly
-03%
-06%
-01%
-09%
-05%
+0.3%
+0.6%
+0.1%
+0.9%
+0.5%
 in
 investment
 includes
@@ -118,7 +118,7 @@ had
 half
 hardware
 houses
-33%
+3.3%
 expected
 expecting
 excluding
@@ -150,7 +150,7 @@ numbers
 quickly
 quarter
 &
-18%
-11%
+1.8%
+1.1%
 vouchers
 van

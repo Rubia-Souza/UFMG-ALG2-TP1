@@ -155,7 +155,7 @@ traded
 trouble
 two
 terms
-5000
+5,000
 50-minute
 london
 london's
@@ -192,7 +192,7 @@ crush
 clash
 calm
 carlish
-£50000
+£50,000
 judge
 jones
 2200

@@ -246,7 +246,7 @@ push
 17
 18
 14
-165bn
+16.5bn
 134%
 10
 when
@@ -408,9 +408,9 @@ met
 $21bn
 $23bn
 $15bn
-$107bn
+$10.7bn
 $8bn
-£108bn
+£10.8bn
 £6bn
 6bn
 6%
@@ -422,7 +422,7 @@ $8bn
 qualified
 question
 quite
-335bn
+33.5bn
 just
 joining
 xenophobic

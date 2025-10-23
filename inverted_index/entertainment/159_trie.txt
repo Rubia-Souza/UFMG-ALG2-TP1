@@ -181,8 +181,8 @@ were
 world
 written
 -
-750000
-35
+750,000
+3.5
 europe
 ethiopia
 jackson

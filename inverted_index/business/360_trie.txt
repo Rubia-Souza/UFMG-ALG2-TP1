@@ -52,9 +52,9 @@ open
 on
 or
 october
-$142bn
+$14.2bn
 $10bn
-$19bn
+$1.9bn
 $1bn
 $950m
 2004
@@ -135,6 +135,6 @@ look
 keep
 killing
 16-year
-107%
-35%
-55
+10.7%
+3.5%
+5.5

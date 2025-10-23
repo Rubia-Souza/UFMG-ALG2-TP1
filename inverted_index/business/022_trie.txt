@@ -144,11 +144,11 @@ among
 affecting
 unemployment
 up
-7000
+7,000
 4
-4464
-108%
-188%
+4.464
+10.8%
+18.8%
 creation
 clear
 competitiveness
@@ -175,7 +175,7 @@ deliver
 deterioration
 damages
 displeasure
-01%
+0.1%
 quarter
 -
 years

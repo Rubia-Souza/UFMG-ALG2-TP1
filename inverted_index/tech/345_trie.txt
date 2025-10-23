@@ -124,7 +124,7 @@ is
 immediately
 it
 12
-18gb
+1.8gb
 umd
 us
 used
@@ -147,9 +147,9 @@ rambo
 $20
 $30
 $10
-£1040
-£1560
-£520
+£10.40
+£15.60
+£5.20
 new
 not
 xxx

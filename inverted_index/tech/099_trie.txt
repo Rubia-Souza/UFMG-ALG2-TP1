@@ -87,7 +87,7 @@ were
 with
 will
 willing
-wikinewscom
+wikinews.com
 way
 war
 walking
@@ -367,5 +367,5 @@ journalistic
 journalists
 journalism
 &
-58
+5.8
 40%

@@ -145,7 +145,7 @@ can
 category
 carrey
 carpet
-carpetit's
+carpet."it's
 call
 competition
 come
@@ -207,7 +207,7 @@ night
 nice
 nomination
 nominations
-nominatedi've
+nominated...i've
 nominees
 nothing
 nods

@@ -67,7 +67,7 @@ right
 risk
 rome
 out
-out''
+out,''
 of
 o'driscoll
 o'connell
@@ -83,7 +83,7 @@ over
 for
 foley
 failed
-fate''
+fate.''
 from
 fine
 flanker

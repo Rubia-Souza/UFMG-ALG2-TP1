@@ -371,6 +371,6 @@ up
 used
 ultimately
 18
-12
+1.2
 98%
 45

@@ -365,7 +365,7 @@ i'm
 it
 it's
 its
-ie
+i.e
 important
 edinburgh
 education
@@ -469,7 +469,7 @@ but
 business
 band
 bands
-bandsartists
+bands/artists
 back
 bad
 brit

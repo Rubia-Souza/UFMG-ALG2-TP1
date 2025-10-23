@@ -212,3 +212,40 @@ class CompressedTrie:
                     current_node.word_info.frequency = frequency
                     current_node.word_info.documents = set(documents)
                     break
+    
+    def calculate_mean_words_frequency(self) -> float:
+        total_frequency: int = 0
+        total_words: int = 0
+
+        def _traverse(node: TrieNode) -> None:
+            nonlocal total_frequency, total_words
+            if node.is_end_of_word:
+                total_frequency += node.word_info.frequency
+                total_words += 1
+            for child in node.children:
+                _traverse(child)
+        
+        _traverse(self.root)
+
+        if total_words == 0:
+            return 0.0
+        return total_frequency / total_words
+    
+    def calculate_standard_deviation_words_frequency(self, mean: float) -> float:
+        variance_sum: float = 0.0
+        total_words: int = 0
+
+        def _traverse(node: TrieNode) -> None:
+            nonlocal variance_sum, total_words
+            if node.is_end_of_word:
+                variance_sum += (node.word_info.frequency - mean) ** 2
+                total_words += 1
+            for child in node.children:
+                _traverse(child)
+        
+        _traverse(self.root)
+
+        if total_words == 0:
+            return 0.0
+        variance: float = variance_sum / total_words
+        return variance ** 0.5

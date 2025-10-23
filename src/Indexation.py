@@ -4,7 +4,10 @@ from src.CompressedTrie import CompressedTrie
 
 def create_compressed_trie_from_file(file_path: str) -> CompressedTrie | None:
     def remove_punctuation(word: str) -> str:
-        return re.sub(r'[.,;:!?()\[\]{}"`~^<>/\\|]', '', word)
+        word_without_ponctuation_start: str = re.sub(r'^[.,;:!?()\[\]{}"`~^<>/\\|]+', '', word)
+        word_without_ponctuation_end: str = re.sub(r'[.,;:!?()\[\]{}"`~^<>/\\|]+$', '', word_without_ponctuation_start)
+
+        return word_without_ponctuation_end
 
     trie: CompressedTrie = CompressedTrie()
     try:

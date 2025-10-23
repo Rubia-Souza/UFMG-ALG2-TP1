@@ -6,13 +6,16 @@ from src.Indexation import create_compressed_trie_from_file
 def search_in_reversed_index(expression: str) -> list[dict] | None:
     def parse_expression(expression: str) -> str:
         def remove_ponctuation(expression: str) -> str:
-            return re.sub(r'[.,;:!?\[\]{}"`~^<>/\\|]', '', expression)
+            word_without_ponctuation_start: str = re.sub(r'^[.,;:!?\[\]{}"`~^<>/\\|]+', '', expression)
+            word_without_ponctuation_end: str = re.sub(r'[.,;:!?\[\]{}"`~^<>/\\|]+$', '', word_without_ponctuation_start)
+
+            return word_without_ponctuation_end
         
         def lowercase_search_terms(expression: str) -> str:
             return re.sub(r'\b([a-zA-Z]+)\b', lambda m: m.group(1).lower() if m.group(1) not in ['AND', 'OR'] else m.group(1), expression)
         
         def surround_words_with_trie_search(expression: str) -> str:
-            return re.sub(r'\b([a-z0-9\']+)\b', r'trie.search("\1")', expression)
+            return re.sub(r'([a-z0-9\'%$£\-.,:]+)', r'trie.search("\1")', expression)
         
         def replace_logical_operators(expression: str) -> str:
             return expression.replace('AND', '&').replace('OR', '|')
@@ -41,7 +44,7 @@ def search_in_reversed_index(expression: str) -> list[dict] | None:
                     # Remove and and or from searched_words
                     searched_words = re.sub(r'\b(AND|OR)\b', '', searched_words).strip()
                     # Find the first occurrence of any of the searched words
-                    pattern: re.Pattern = re.compile(r'\b(' + '|'.join(re.escape(word) for word in re.findall(r'\b[a-zA-Z0-9\']+\b', searched_words)) + r')\b', re.IGNORECASE)
+                    pattern: re.Pattern = re.compile(r'(' + '|'.join(re.escape(word) for word in re.findall(r'[a-zA-Z0-9\'%$£\-.,:]+', searched_words)) + r')', re.IGNORECASE)
                     match: re.Match | None = pattern.search(content)
                     if(match):
                         start: int = max(match.start() - 80, 0)
@@ -148,6 +151,6 @@ def find_news_by_title(title: str) -> dict | None:
 
 def mark_searched_words_in_content(content: str, searched_words: str) -> str:
     searched_words = re.sub(r'\b(AND|OR)\b', '', searched_words).strip()
-    pattern: re.Pattern = re.compile(r'\b(' + '|'.join(re.escape(word) for word in re.findall(r'\b[a-zA-Z0-9\']+\b', searched_words)) + r')\b', re.IGNORECASE)
+    pattern: re.Pattern = re.compile(r'(' + '|'.join(re.escape(word) for word in re.findall(r'([a-zA-Z0-9\'%$£\-:]+)', searched_words)) + r')', re.IGNORECASE)
     marked_content: str = pattern.sub(r'<span class="highlight">\1</span>', content)
     return marked_content

@@ -1,5 +1,6 @@
 from flask import Flask, Response, render_template, request, jsonify, make_response
 from src.Search import search_in_reversed_index, find_news_by_title, mark_searched_words_in_content
+from src.Indexation import create_compressed_trie_from_raw_files
 
 app = Flask(__name__, template_folder='templates', static_folder='static')
 
@@ -42,4 +43,5 @@ def get_news() -> Response:
     return response
 
 if __name__ == '__main__':
+    create_compressed_trie_from_raw_files()
     app.run(host='127.0.0.1', port=5000, debug=True)

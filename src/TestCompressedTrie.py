@@ -15,14 +15,14 @@ if __name__ == "__main__":
     # Example search
     trie = CompressedTrie()
     trie.insert("computer", "noticias/tech/001.txt")
-    trie.insert("computation", "noticias/tech/002.txt")
+    trie.insert("compute", "noticias/tech/002.txt")
     trie.insert("computing", "noticias/tech/003.txt")
 
     # Example search
     search_results = trie.search("computer")
     print("Search results for 'computer':", search_results)
-    search_results = trie.search("computation")
-    print("Search results for 'computation':", search_results)
+    search_results = trie.search("compute")
+    print("Search results for 'compute':", search_results)
     search_results = trie.search("computing")
     print("Search results for 'computing':", search_results)
     search_results = trie.search("comp")
@@ -34,11 +34,11 @@ if __name__ == "__main__":
         print("Word info for 'computer':", word_info.frequency, word_info.documents)
     else:
         print("Word 'computer' not found in trie.")
-    word_info = trie.get_word_info("computation")
+    word_info = trie.get_word_info("compute")
     if word_info:
-        print("Word info for 'computation':", word_info.frequency, word_info.documents)
+        print("Word info for 'compute':", word_info.frequency, word_info.documents)
     else:
-        print("Word 'computation' not found in trie.")
+        print("Word 'compute' not found in trie.")
     word_info = trie.get_word_info("computing")
     if word_info:
         print("Word info for 'computing':", word_info.frequency, word_info.documents)
@@ -49,3 +49,5 @@ if __name__ == "__main__":
         print("Word info for 'comp':", word_info.frequency, word_info.documents)
     else:
         print("Word 'comp' not found in trie.")
+
+    trie.print_trie()

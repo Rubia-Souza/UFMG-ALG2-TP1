@@ -17,7 +17,7 @@ def search() -> Response:
         return response
 
     results: list[dict] | None = search_in_reversed_index(expression)
-    if results is None:
+    if results is None or len(results) == 0:
         results = [{"title": "No results found", "snippet": ""}]
     
     response: Response = make_response(jsonify(results), 200)

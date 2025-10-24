@@ -1,7 +1,6 @@
 import os
 from src.CompressedTrie import CompressedTrie
-from src.StringUtils import remove_punctuation_from_beginning_and_end
-from src.Cleaner import clean_word
+from src.Cleaner import clean_word_indexation
 
 def create_compressed_trie_from_file(file_path: str) -> CompressedTrie | None:
     trie: CompressedTrie = CompressedTrie()
@@ -11,7 +10,7 @@ def create_compressed_trie_from_file(file_path: str) -> CompressedTrie | None:
                 cleaned_line: str = line.strip()
                 words: list[str] = cleaned_line.split()
                 for word in words:
-                    word = clean_word(word)
+                    word = clean_word_indexation(word)
                     trie.insert(word, file_path)
         return trie
     except Exception as e:
@@ -56,7 +55,7 @@ def create_compressed_trie_from_raw_files() -> None:
                             cleaned_line: str = line.strip()
                             words: list[str] = cleaned_line.split()
                             for word in words:
-                                word = clean_word(word)
+                                word = clean_word_indexation(word)
                                 trie.insert(word, file_path)
                 except Exception as e:
                     print(f"[ERROR]: Could not read file {file_path} to insert words into trie: {e}")

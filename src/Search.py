@@ -2,21 +2,20 @@ import re
 import os
 from src.CompressedTrie import CompressedTrie
 from src.Indexation import create_compressed_trie_from_file, create_compressed_trie_from_reversed_index
+from src.Cleaner import clean_expression
+
+def get_searched_words(expression: str) -> list[str]:
+    def remove_and_or(expression: str) -> str:
+        return re.sub(r'\b(&|\||AND|OR)\b', '', expression).strip()
+    
+    expression_without_operators: str = remove_and_or(expression)
+    words: list[str] = re.findall(r'([a-z0-9\'%$£\-.,:]+)', expression_without_operators)
+    return words
 
 def search_in_reversed_index(expression: str) -> list[dict] | None:
-    def remove_and_or(expression: str) -> str:
-        return re.sub(r'\b(AND|OR)\b', '', expression).strip()
-    
-    def get_searched_words(expression: str) -> list[str]:
-        expression_without_operators: str = remove_and_or(expression)
-        expression_lowered: str = expression_without_operators.lower()
-        words: list[str] = re.findall(r'([a-z0-9\'%$£\-.,:]+)', expression_lowered)
-        return words
-    
     def parse_expression_to_boolean(expression: str) -> str:
         expression_with_symbols: str = expression.replace(' AND ', ' & ').replace(' OR ', ' | ')
-        expression_lowered: str = expression_with_symbols.lower()
-        expression_boolean: str = re.sub(r'([a-z0-9\'%$£\-.,:]+)', r'trie.search("\1")', expression_lowered)
+        expression_boolean: str = re.sub(r'([a-z0-9\'%$£\-.,:]+)', r'trie.search("\1")', expression_with_symbols)
         return expression_boolean
     
     def get_all_possible_search_files(global_trie: CompressedTrie, searched_words: list[str]) -> set[str]:
@@ -27,9 +26,7 @@ def search_in_reversed_index(expression: str) -> list[dict] | None:
                 files.update(word_info.documents)
         return files
     
-    def filter_files_by_expression(all_files: set[str], expression: str) -> set[str]:
-        boolean_expression: str = parse_expression_to_boolean(expression)
-
+    def filter_files_by_expression(all_files: set[str], cleaned_expression: str) -> set[str]:
         target_files: set[str] = set()
         for file_path in all_files:
             local_file_trie: CompressedTrie | None = create_compressed_trie_from_file(file_path)
@@ -37,10 +34,10 @@ def search_in_reversed_index(expression: str) -> list[dict] | None:
                 continue
 
             try:
-                if eval(boolean_expression, globals(), {'trie': local_file_trie}):
+                if eval(cleaned_expression, globals(), {'trie': local_file_trie}):
                     target_files.add(file_path)
             except Exception as e:
-                print(f"[ERROR]: Could not evaluate boolean expression ({boolean_expression}) for file {file_path}: {e}")
+                print(f"[ERROR]: Could not evaluate boolean expression ({cleaned_expression}) for file {file_path}: {e}")
                 continue
             finally:
                 del local_file_trie
@@ -114,12 +111,15 @@ def search_in_reversed_index(expression: str) -> list[dict] | None:
 
         results.sort(key=lambda x: x['z_score'], reverse=True)
         return results
+    
+    cleaned_expression: str = clean_expression(expression)
+    boolean_expression: str = parse_expression_to_boolean(cleaned_expression)
 
     global_trie: CompressedTrie = create_compressed_trie_from_reversed_index()
-    searched_words: list[str] = get_searched_words(expression)
+    searched_words: list[str] = get_searched_words(cleaned_expression)
 
     files_to_search: set[str] = get_all_possible_search_files(global_trie, searched_words)
-    target_files: set[str] = filter_files_by_expression(files_to_search, expression)
+    target_files: set[str] = filter_files_by_expression(files_to_search, boolean_expression)
 
     return build_results_from_files(target_files, searched_words, global_trie)
 
@@ -148,8 +148,11 @@ def find_news_by_title(title: str) -> dict | None:
     return None
 
 def mark_searched_words_in_content(content: str, searched_words: str) -> str:
-    searched_words = re.sub(r'\b(AND|OR)\b', '', searched_words).strip()
-    pattern: re.Pattern = re.compile(r'\b(' + '|'.join(re.escape(word) for word in re.findall(r'([a-zA-Z0-9\'%$£\-:]+)', searched_words)) + r')\b', re.IGNORECASE)
+    cleaned_expression: str = clean_expression(searched_words)
+    list_searched_words: list[str] = get_searched_words(cleaned_expression)
+
+    pattern: re.Pattern = re.compile(r'\b(' + '|'.join(re.escape(word) for word in list_searched_words) + r')\b', re.IGNORECASE)
     marked_content: str = pattern.sub(r'<span class="highlight">\1</span>', content)
+
     return marked_content
 

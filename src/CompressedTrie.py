@@ -1,10 +1,15 @@
-import re
+class WordInfo:
+    def __init__(self, word: str):
+        self.word: str = word
+        self.frequency: int = 0
+        self.documents: set[str] = set()
 
 class TrieNode:
     def __init__(self, prefix: str = ''):
         self.prefix: str = prefix
         self.children: list[TrieNode] = []
         self.is_end_of_word: bool = False
+        self.word_info: WordInfo = WordInfo(prefix)
 
 class CompressedTrie:
     def __init__(self):
@@ -16,13 +21,10 @@ class CompressedTrie:
             length += 1
         return length
     
-    def insert(self, word: str) -> None:
-        if(not word):
+    def insert(self, word: str, file_path: str) -> None:
+        if (not word):
             return
-
-        if(self.search(word)):
-            return
-
+        
         current_node: TrieNode = self.root
         index: int = 0
 
@@ -36,24 +38,35 @@ class CompressedTrie:
                     child_starts_with_actual_character = True
                     next_node = child
                     break
-
+            
             if(not child_starts_with_actual_character):
-                new_node: TrieNode = TrieNode(word[index:].lower())
+                new_node: TrieNode = TrieNode(word[index:])
                 new_node.is_end_of_word = True
+                new_node.word_info.frequency += 1
+                new_node.word_info.documents.add(file_path)
                 current_node.children.append(new_node)
                 return
-            
+
             current_node = next_node
             common_prefix_length: int = self.__common_prefix_length(current_node.prefix, word[index:])
+            if(common_prefix_length < len(current_node.prefix)):
+                split_node: TrieNode = TrieNode(current_node.prefix[common_prefix_length:])
+                split_node.children = current_node.children
+                split_node.is_end_of_word = current_node.is_end_of_word
+                split_node.word_info = current_node.word_info
+
+                current_node.prefix = current_node.prefix[:common_prefix_length]
+                current_node.children = [split_node]
+                current_node.is_end_of_word = False
+                current_node.word_info = WordInfo(current_node.prefix)
 
             index += common_prefix_length
-            if(common_prefix_length < len(current_node.prefix)):
-                new_node: TrieNode = TrieNode(current_node.prefix[common_prefix_length:].lower())
-                new_node.is_end_of_word = current_node.is_end_of_word
-                new_node.children = current_node.children
-                current_node.prefix = current_node.prefix[:common_prefix_length]
-                current_node.children = [new_node]
-                current_node.is_end_of_word = index == len(word)
+            if(index == len(word)):
+                current_node.is_end_of_word = True
+                current_node.word_info.frequency += 1
+                current_node.word_info.documents.add(file_path)
+                return
+                
 
     def search(self, word: str) -> bool:
         current_node: TrieNode = self.root
@@ -83,7 +96,51 @@ class CompressedTrie:
                 return current_node.is_end_of_word
     
         return False
-        
+
+    def get_word_info(self, word: str) -> WordInfo | None:
+        current_node: TrieNode = self.root
+        index: int = 0
+
+        while(index < len(word)):
+            actual_character: str = word[index]
+
+            child_starts_with_actual_character: bool = False
+            next_node: TrieNode | None = None
+            for child in current_node.children:
+                if(child.prefix[0] == actual_character):
+                    child_starts_with_actual_character = True
+                    next_node = child
+                    break
+            
+            if(not child_starts_with_actual_character):
+                return None
+
+            current_node = next_node
+            common_prefix_length: int = self.__common_prefix_length(current_node.prefix, word[index:])
+            if(common_prefix_length != len(current_node.prefix)):
+                return None
+
+            index += common_prefix_length
+            if(index == len(word)):
+                if(current_node.is_end_of_word):
+                    return current_node.word_info
+                else:
+                    return None
+    
+        return None
+    
+    def print_all_words(self, node: TrieNode | None = None, current_prefix: str = '') -> None:
+        if node is None:
+            node = self.root
+
+        if node.is_end_of_word:
+            print(current_prefix + node.prefix)
+            print("   Frequency:", node.word_info.frequency)
+            print("   Documents:", node.word_info.documents)
+
+        for child in node.children:
+            self.print_all_words(child, current_prefix + node.prefix)
+
     def print_trie(self, node: TrieNode | None = None, level: int = 0) -> None:
         if node is None:
             node = self.root
@@ -93,13 +150,102 @@ class CompressedTrie:
         for child in node.children:
             self.print_trie(child, level + 2)
     
-    def serialize(self) -> str:
-        words = []
-        def _serialize(node: TrieNode, current_prefix: str) -> None:
+    def jsonafy(self) -> list[dict]:
+        result: list[dict] = []
+        def _jsonafy(node: TrieNode, current_prefix: str) -> None:
             if(node.is_end_of_word):
-                words.append(current_prefix + node.prefix)
+                result.append({
+                    'word': current_prefix + node.prefix,
+                    'frequency': node.word_info.frequency,
+                    'documents': list(node.word_info.documents)
+                })
             for child in node.children:
-                _serialize(child, current_prefix + node.prefix)
+                _jsonafy(child, current_prefix + node.prefix)
         
-        _serialize(self.root, '')
-        return '\n'.join(words)
+        _jsonafy(self.root, '')
+        return result
+    
+    def create_from_json(self, data: list[dict]) -> None:
+        for entry in data:
+            word: str = entry['word']
+            frequency: int = entry['frequency']
+            documents: list[str] = entry['documents']
+
+            current_node: TrieNode = self.root
+            index: int = 0
+
+            while(index < len(word)):
+                actual_character: str = word[index]
+
+                child_starts_with_actual_character: bool = False
+                next_node: TrieNode | None = None
+                for child in current_node.children:
+                    if(child.prefix[0] == actual_character):
+                        child_starts_with_actual_character = True
+                        next_node = child
+                        break
+                
+                if(not child_starts_with_actual_character):
+                    new_node: TrieNode = TrieNode(word[index:])
+                    new_node.is_end_of_word = True
+                    new_node.word_info.frequency = frequency
+                    new_node.word_info.documents = set(documents)
+                    current_node.children.append(new_node)
+                    break
+
+                current_node = next_node
+                common_prefix_length: int = self.__common_prefix_length(current_node.prefix, word[index:])
+                if(common_prefix_length < len(current_node.prefix)):
+                    split_node: TrieNode = TrieNode(current_node.prefix[common_prefix_length:])
+                    split_node.children = current_node.children
+                    split_node.is_end_of_word = current_node.is_end_of_word
+                    split_node.word_info = current_node.word_info
+
+                    current_node.prefix = current_node.prefix[:common_prefix_length]
+                    current_node.children = [split_node]
+                    current_node.is_end_of_word = False
+                    current_node.word_info = WordInfo(current_node.prefix)
+
+                index += common_prefix_length
+                if(index == len(word)):
+                    current_node.is_end_of_word = True
+                    current_node.word_info.frequency = frequency
+                    current_node.word_info.documents = set(documents)
+                    break
+    
+    def calculate_mean_words_frequency(self) -> float:
+        total_frequency: int = 0
+        total_words: int = 0
+
+        def _traverse(node: TrieNode) -> None:
+            nonlocal total_frequency, total_words
+            if node.is_end_of_word:
+                total_frequency += node.word_info.frequency
+                total_words += 1
+            for child in node.children:
+                _traverse(child)
+        
+        _traverse(self.root)
+
+        if total_words == 0:
+            return 0.0
+        return total_frequency / total_words
+    
+    def calculate_standard_deviation_words_frequency(self, mean: float) -> float:
+        variance_sum: float = 0.0
+        total_words: int = 0
+
+        def _traverse(node: TrieNode) -> None:
+            nonlocal variance_sum, total_words
+            if node.is_end_of_word:
+                variance_sum += (node.word_info.frequency - mean) ** 2
+                total_words += 1
+            for child in node.children:
+                _traverse(child)
+        
+        _traverse(self.root)
+
+        if total_words == 0:
+            return 0.0
+        variance: float = variance_sum / total_words
+        return variance ** 0.5

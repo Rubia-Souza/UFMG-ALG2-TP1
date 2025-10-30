@@ -26,12 +26,25 @@ def search_in_reversed_index(expression: str) -> list[dict] | None:
                 files.update(word_info.documents)
         return files
     
-    def filter_files_by_expression(all_files: set[str], cleaned_expression: str) -> set[str]:
+    def filter_files_by_expression(all_files: set[str], cleaned_expression: str, searched_words: list[str]) -> set[str]:
         target_files: set[str] = set()
+        searched_words_count: list[dict] = []
         for file_path in all_files:
             local_file_trie: CompressedTrie | None = create_compressed_trie_from_file(file_path)
             if local_file_trie is None:
                 continue
+
+            for word in searched_words:
+                word_info = local_file_trie.get_word_info(word)
+
+                if not word_info:
+                    continue
+
+                searched_words_count.append({
+                    'word': word,
+                    'file': file_path,
+                    'count': word_info.frequency
+                })
 
             try:
                 if eval(cleaned_expression, globals(), {'trie': local_file_trie}):
@@ -42,9 +55,9 @@ def search_in_reversed_index(expression: str) -> list[dict] | None:
             finally:
                 del local_file_trie
         
-        return target_files
+        return target_files, searched_words_count
 
-    def build_results_from_files(target_files: set[str], searched_words: list[str], global_trie: CompressedTrie) -> list[dict]:
+    def build_results_from_files(target_files: set[str], searched_words: list[str], searched_words_count: list[dict]) -> list[dict]:
         def extract_title(file_path: str) -> str:
             try:
                 with open(file_path, 'r', encoding='utf-8') as file:
@@ -78,21 +91,48 @@ def search_in_reversed_index(expression: str) -> list[dict] | None:
                 print(f"[ERROR]: Could not read file {file_path} to extract snippet: {e}")
                 return "Snippet not found"
 
-        def calculate_z_score(file_path: str, searched_words: list[str], global_trie: CompressedTrie) -> float:
-            mean: float = global_trie.calculate_mean_words_frequency()
-            std_dev: float = global_trie.calculate_standard_deviation_words_frequency(mean)
+        def calculate_z_score(file_path: str, searched_words: list[str], searched_words_count: list[dict]) -> float:
+            def calculate_mean(word: str, searched_words_count: list[dict]) -> float:
+                total_count: int = 0
+                file_count: int = 0
+                for entry in searched_words_count:
+                    if entry['word'] == word:
+                        total_count += entry['count']
+                        file_count += 1
+                if file_count == 0:
+                    return 0.0
+                return total_count / file_count
+            
+            def calculate_standard_deviation(word: str, searched_words_count: list[dict], mean: float) -> float:
+                variance_sum: float = 0.0
+                file_count: int = 0
+                for entry in searched_words_count:
+                    if entry['word'] == word:
+                        variance_sum += (entry['count'] - mean) ** 2
+                        file_count += 1
+                if file_count == 0:
+                    return 0.0
+                variance: float = variance_sum / file_count
+                return variance ** 0.5
+            
+            def get_word_frequency_in_file(word: str, file_path: str, searched_words_count: list[dict]) -> int:
+                for entry in searched_words_count:
+                    if entry['word'] == word and entry['file'] == file_path:
+                        return entry['count']
+                return 0
 
             searched_words_z_scores: list[float] = []
             for word in searched_words:
-                with open(file_path, 'r', encoding='utf-8') as file:
-                    content: str = file.read()
-                    word_count_in_file: int = len(re.findall(r'\b' + re.escape(word) + r'\b', content, re.IGNORECASE))
+                word_count_in_file: int = get_word_frequency_in_file(word, file_path, searched_words_count)
+                mean: float = calculate_mean(word, searched_words_count)
+                std_dev: float = calculate_standard_deviation(word, searched_words_count, mean)
+                
+                if std_dev == 0.0:
                     z_score: float = 0.0
-                    if std_dev > 0:
-                        z_score = (word_count_in_file - mean) / std_dev
-                    else:
-                        z_score = 0.0
-                    searched_words_z_scores.append(z_score)
+                else:
+                    z_score: float = (word_count_in_file - mean) / std_dev
+
+                searched_words_z_scores.append(z_score)
 
             if(len(searched_words_z_scores) > 0):
                 return sum(searched_words_z_scores) / len(searched_words_z_scores)
@@ -102,7 +142,7 @@ def search_in_reversed_index(expression: str) -> list[dict] | None:
         for file_path in target_files:
             title: str = extract_title(file_path)
             snippet: str = extract_snippet(file_path, searched_words)
-            z_score: float = calculate_z_score(file_path, searched_words, global_trie)
+            z_score: float = calculate_z_score(file_path, searched_words, searched_words_count)
             results.append({
                 "title": title,
                 "snippet": snippet,
@@ -119,9 +159,9 @@ def search_in_reversed_index(expression: str) -> list[dict] | None:
     searched_words: list[str] = get_searched_words(cleaned_expression)
 
     files_to_search: set[str] = get_all_possible_search_files(global_trie, searched_words)
-    target_files: set[str] = filter_files_by_expression(files_to_search, boolean_expression)
+    target_files, searched_words_count = filter_files_by_expression(files_to_search, boolean_expression, searched_words)
 
-    return build_results_from_files(target_files, searched_words, global_trie)
+    return build_results_from_files(target_files, searched_words, searched_words_count)
 
     
 def find_news_by_title(title: str) -> dict | None:
